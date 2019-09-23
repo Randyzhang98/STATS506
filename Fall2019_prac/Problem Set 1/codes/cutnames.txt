@@ -26,6 +26,6 @@ fi
 
 head --line=1 $file | tr "," "\n" > recs_names.txt
 
-cols=$( grep -rn $expression recs_names.txt | tr ":" "\n" |awk 'NR%2 ==1' | tr '\n' ',' | awk '{sub(/.$/,"")}1' )
+cols=$( grep -rn $expression recs_names.txt | tr ":" "\n" | awk 'NR%2 ==1' | tr '\n' ',' | awk '{sub(/.$/,"")}1' )
 
 awk -F',' '{print $'$(echo $cols | sed 's/,/","$/g')' }' $file
