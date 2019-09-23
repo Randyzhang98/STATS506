@@ -25,6 +25,9 @@ compute_angle = function(x, y) {
   else {
     tmp <- atan(y / x)
     theta <- tmp - sign(tmp) * pi
+    if (y == 0) {
+      theta <- -pi
+    }
   }
   names(theta) <- NULL
   return(theta)
@@ -94,4 +97,19 @@ measure_curvature = function(x) {
   return(re)
 }
 
-1+2
+options(digits = 15)
+
+traj = read.table('train_trajectories.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
+re_train <- matrix(ncol = 6, nrow = 0)
+for (i in min(traj$subject_nr):max(traj$subject_nr)) {
+  traj_i <- traj[traj$subject_nr == i, ]
+  for (j in as.numeric(names(summary(factor(traj_i$count_trial))))) {
+    traj_i_j <- traj[(traj$subject_nr == i) & (traj$count_trial == j), 3:5]
+    traj_m <- as.matrix(traj_i_j)
+    traj_m <- normalize(traj_m)
+    curvature <- measure_curvature(traj_m)
+    re_i_j <- c(as.integer(i), as.integer(j), curvature)
+    re_train <- rbind(re, re_i_j)
+  }
+}
+
