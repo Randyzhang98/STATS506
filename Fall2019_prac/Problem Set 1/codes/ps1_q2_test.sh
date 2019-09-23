@@ -15,11 +15,9 @@ done
 file=$(echo $line | tr " " "\n" | head --line=1)
 expression=$(echo $line | tr " " "\n" | tail --line=1)
 
-# DESCRIPTION: read the arguments from command line and select the first half as filename and the second half as the expression for columns selection
-
 expression=$(echo $expression | sed 's/|/\\|/g' | tr -s '\\')
 
-# DESCRIPTION: enable the expression to be written in \| seperated or just | seperated
+# DESCRIPTION: read the arguments from command line and select the first half as filename and the second half as the expression for columns selection
 
 if [ ! -f "$file" ]; then
     wget https://www.eia.gov/consumption/residential/data/2015/csv/recs2015_public_v4.csv
