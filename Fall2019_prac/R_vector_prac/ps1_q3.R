@@ -109,7 +109,26 @@ for (i in min(traj$subject_nr):max(traj$subject_nr)) {
     traj_m <- normalize(traj_m)
     curvature <- measure_curvature(traj_m)
     re_i_j <- c(as.integer(i), as.integer(j), curvature)
-    re_train <- rbind(re, re_i_j)
+    re_train <- rbind(re_train, re_i_j)
   }
 }
+mea_train <- read.table('train_measures.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
+all(mea_train - re_train < 1e-7)
 
+traj = read.table('test_trajectories.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
+re_test <- matrix(ncol = 6, nrow = 0)
+for (i in min(traj$subject_nr):max(traj$subject_nr)) {
+  traj_i <- traj[traj$subject_nr == i, ]
+  for (j in as.numeric(names(summary(factor(traj_i$count_trial))))) {
+    traj_i_j <- traj[(traj$subject_nr == i) & (traj$count_trial == j), 3:5]
+    traj_m <- as.matrix(traj_i_j)
+    traj_m <- normalize(traj_m)
+    curvature <- measure_curvature(traj_m)
+    re_i_j <- c(as.integer(i), as.integer(j), curvature)
+    re_test <- rbind(re_test, re_i_j)
+  }
+}
+rownames(re_test) <- NULL
+re_test <- data.frame(re_test)
+names(re_test) <- c("subject_nr","count_trial","tot_dist","max_abs_dev","avg_abs_dev","AUC")
+print(re_test)
