@@ -1,35 +1,3 @@
----
-title: "ps1_q3"
-author: "Sijun Zhang"
-date: "2019/9/23"
-output:
-  html_document:
-    fig_width: 9
-    toc: yes
-  pdf_document:
-    keep_tex: yes
-    latex_engine: xelatex
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-# Problem 3
-
-## Import Data
-```{r}
-traj <- read.table('train_trajectories.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
-traj_01_04 <- traj[(traj$subject_nr == 1) & (traj$count_trial == 4), 3:5]
-traj_m <- as.matrix(traj_01_04)
-plot(traj_m[, 1], traj_m[, 2])
-```
-
-In this report, the trajectory with subject_nr equal to 1 and count_trial equal to 4 is selected as demo data. The above figure shows the original curve of this trajectory and we will perform normalization and metrics measurements in the following steps.
-
-## Set Origin Zero 
-[5pts] Write a function that accepts a n n×3 matrix representing the trajectory (x, y, t) and translates it to begin with time zero at the origin.
-
-```{r}
 # INPUT: n×3 matrix representing the trajectory (x, y, t)
 # OUTPUT: nx3 matrix begining with time zero at the origin
 set_origin_zero = function(x) {
@@ -41,17 +9,7 @@ set_origin_zero = function(x) {
   }
   return(y)
 }
-traj_m <- set_origin_zero(traj_m)
-plot(traj_m[, 1], traj_m[, 2])
-```
 
-
-In this part, I sequentially minused each point with the origin coordination, so that the curve was translated to the one beginning at origin and time zero.
-
-## Compute Angle
-[5pts] Write a function that computes the angle θ formed by the secant line connecting the origin and the final position in the trajectory. Your answer should be an angle between [−π,π]. Be sure your your solution works for a trajectory ending in any of the four quadrants.
-
-```{r}
 # INPUT: xops and yops value of a point
 # OUTPUT: the angle θ formed by the line connecting the origin and the point
 compute_angle = function(x, y) {
@@ -85,15 +43,7 @@ compute_secant_angle = function(x) {
   theta <- compute_angle(final_x, final_y)
   return(theta)
 }
-compute_secant_angle(traj_m)
-```
 
-In this part, I wrote a universal function to compute the angle between the origin and the selected pint. I found that the period of tan function is only π, there were two special cases need to aware, one is the points at 3rd and 2nd quadrants and the other one is the points lying on the negative axis. I set the the points lying on the negative axis have -π angle to avoid runtime error.
-
-## Rotate End to X-axis
-[5pts] Write a function to rotate the (x, y) coordinates of a trajectory so that the final point lies along the positive x-axis.
-
-```{r}
 # INPUT: n×3 matrix representing the trajectory (x, y, t) beginning at zero
 # OUTPUT: rotate the (x, y) coordinates of a trajectory so that the final point lies along the positive x-axis.
 rotate_end_to_xaxis = function(x) {
@@ -109,17 +59,7 @@ rotate_end_to_xaxis = function(x) {
   }
   return(y)
 }
-traj_m <- set_origin_zero(traj_m)
-traj_m <- rotate_end_to_xaxis(traj_m)
-plot(traj_m[, 1], traj_m[, 2])
-```
 
-In this part, I computed each point's angle to the origin and minus the angle of the last points, then maintain the secant distance unchanged to rotate each point to the new angle, so that the curve was rotated to have the ends on x-axis.
-
-## Normalize
-[2pts] Combine the three parts above into a single function that normalizes an n×3 trajectory matrix to begin at the origin and end on the positive x-axis.
-
-```{r}
 # INPUT: n×3 matrix representing the trajectory (x, y, t)
 # OUTPUT: rotate the (x, y) coordinates of a trajectory so that the final point lies along the positive x-axis.
 normalize = function(x) {
@@ -127,16 +67,8 @@ normalize = function(x) {
   y <- rotate_end_to_xaxis(y)
   return(y)
 }
-traj_m <- normalize(traj_m)
-plot(traj_m[, 1], traj_m[, 2])
-```
 
-This part combine the previous functions into a pipeline.
 
-## Measure the Curvature
-[8pts] Write a function that accepts a normalized trajectory and computes the following metrics describing its curvature:
-
-```{r}
 # INPUT: a normalized trajectory
 # OUTPUT:  the metrics describing its curvature 
 measure_curvature = function(x) {
@@ -164,17 +96,7 @@ measure_curvature = function(x) {
   re <- c(tot_dist, max_abs_dev, avg_abs_dev, AUC)
   return(re)
 }
-traj_m <- normalize(traj_m)
-re <- measure_curvature(traj_m)
-print(re)
-```
 
-In this part, the total (Euclidean) distance traveled, and AUC need to traverse the curve and as the curve has been normalized, the deviation from secant is actually the y value of each points. Finally I combined the four results into a list to output.
-
-## Benchmarks
-[5pts] Apply your function to the sample trajectories at the Stats506_F19 repo on GitHub and check your solutions against the sample measures. Then, compute the metrics above for the test trajectories and report your results in a nicely formatted table.
-
-```{r}
 options(digits = 15)
 
 traj = read.table('train_trajectories.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
@@ -191,12 +113,7 @@ for (i in min(traj$subject_nr):max(traj$subject_nr)) {
   }
 }
 mea_train <- read.table('train_measures.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
-all(abs(mea_train - re_train) < 1e-7)
-```
-
-Firstly, I use the the train_trajectories.csv to test the accuracy of the curvature measurements function and normalizing part. Then I load the validation measures and compare the value for each trajectory. The result shows that the computaion are very close to the validation results.
-
-```{r}
+all(mea_train - re_train < 1e-7)
 
 traj = read.table('test_trajectories.csv', sep = ',', stringsAsFactors = FALSE, header = TRUE)
 re_test <- matrix(ncol = 6, nrow = 0)
@@ -211,14 +128,7 @@ for (i in min(traj$subject_nr):max(traj$subject_nr)) {
     re_test <- rbind(re_test, re_i_j)
   }
 }
-options(digits = 9)
 rownames(re_test) <- NULL
 re_test <- data.frame(re_test)
 names(re_test) <- c("subject_nr","count_trial","tot_dist","max_abs_dev","avg_abs_dev","AUC")
 print(re_test)
-
-```
-
-The test_trajectories.csv contains 5 different trajectories and using the previous functions, I obtained the above metrics for the curvature.
-
-
