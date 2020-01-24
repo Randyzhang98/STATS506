@@ -1,0 +1,5687 @@
+doeid,division,uatyp10,internet,uatyp10_i,prop
+10001,Pacific,U,1,C,1
+10002,West South Central,R,1,R,1
+10003,East South Central,U,1,C,1
+10004,West North Central,C,1,C,1
+10005,Middle Atlantic,U,1,C,1
+10006,New England,C,1,C,1
+10007,South Atlantic,U,0,C,0
+10008,East North Central,R,1,R,1
+10009,Middle Atlantic,U,1,C,1
+10010,West South Central,U,1,C,1
+10011,New England,U,1,C,1
+10012,West North Central,U,1,C,1
+10013,East South Central,C,1,C,1
+10014,East North Central,U,1,C,1
+10015,Mountain North,U,1,C,1
+10016,West South Central,U,1,C,1
+10017,South Atlantic,U,1,C,1
+10018,Middle Atlantic,U,1,C,1
+10019,Pacific,U,1,C,1
+10020,South Atlantic,R,1,R,1
+10021,Pacific,U,1,C,1
+10022,South Atlantic,U,1,C,1
+10023,East North Central,U,1,C,1
+10024,South Atlantic,U,0,C,0
+10025,East North Central,U,1,C,1
+10026,Middle Atlantic,U,1,C,1
+10027,South Atlantic,U,1,C,1
+10028,South Atlantic,R,0,R,0
+10029,South Atlantic,U,1,C,1
+10030,Middle Atlantic,C,1,C,1
+10031,Mountain South,U,1,C,1
+10032,West South Central,U,1,C,1
+10033,Middle Atlantic,U,1,C,1
+10034,Middle Atlantic,U,1,C,1
+10035,South Atlantic,U,1,C,1
+10036,Middle Atlantic,U,1,C,1
+10037,East South Central,U,0,C,0
+10038,East South Central,R,0,R,0
+10039,Mountain North,R,1,R,1
+10040,South Atlantic,U,1,C,1
+10041,West North Central,U,1,C,1
+10042,West North Central,U,1,C,1
+10043,Pacific,U,1,C,1
+10044,New England,U,1,C,1
+10045,Pacific,U,1,C,1
+10046,New England,U,1,C,1
+10047,Pacific,R,1,R,1
+10048,South Atlantic,U,1,C,1
+10049,West South Central,U,1,C,1
+10050,West South Central,R,0,R,0
+10051,East North Central,R,1,R,1
+10052,Middle Atlantic,R,1,R,1
+10053,West South Central,U,0,C,0
+10054,East North Central,U,1,C,1
+10055,New England,R,1,R,1
+10056,West North Central,R,1,R,1
+10057,Pacific,U,1,C,1
+10058,West South Central,U,1,C,1
+10059,East South Central,R,1,R,1
+10060,South Atlantic,U,1,C,1
+10061,Pacific,U,1,C,1
+10062,South Atlantic,U,1,C,1
+10063,West North Central,U,1,C,1
+10064,Mountain South,R,1,R,1
+10065,Pacific,U,1,C,1
+10066,East North Central,U,1,C,1
+10067,East North Central,C,1,C,1
+10068,Middle Atlantic,U,1,C,1
+10069,Pacific,C,0,C,0
+10070,East South Central,C,1,C,1
+10071,New England,U,1,C,1
+10072,Pacific,U,0,C,0
+10073,Mountain North,U,1,C,1
+10074,East South Central,U,1,C,1
+10075,New England,R,1,R,1
+10076,West North Central,U,1,C,1
+10077,West South Central,C,1,C,1
+10078,Pacific,U,1,C,1
+10079,West South Central,U,1,C,1
+10080,West South Central,R,1,R,1
+10081,East North Central,U,1,C,1
+10082,East South Central,R,1,R,1
+10083,East North Central,U,1,C,1
+10084,Mountain North,U,1,C,1
+10085,Pacific,U,1,C,1
+10086,Pacific,U,1,C,1
+10087,South Atlantic,U,1,C,1
+10088,West South Central,U,1,C,1
+10089,East North Central,U,1,C,1
+10090,Pacific,U,1,C,1
+10091,East North Central,U,1,C,1
+10092,East North Central,C,1,C,1
+10093,East North Central,R,1,R,1
+10094,East North Central,U,1,C,1
+10095,East South Central,C,1,C,1
+10096,Mountain North,U,1,C,1
+10097,East South Central,C,1,C,1
+10098,Pacific,R,1,R,1
+10099,East South Central,R,0,R,0
+10100,Pacific,R,1,R,1
+10101,East North Central,U,0,C,0
+10102,Pacific,U,1,C,1
+10103,Pacific,U,1,C,1
+10104,South Atlantic,U,1,C,1
+10105,South Atlantic,U,1,C,1
+10106,East North Central,U,1,C,1
+10107,Middle Atlantic,U,1,C,1
+10108,East North Central,U,1,C,1
+10109,South Atlantic,U,1,C,1
+10110,East South Central,U,1,C,1
+10111,East South Central,C,1,C,1
+10112,South Atlantic,U,1,C,1
+10113,East North Central,U,1,C,1
+10114,South Atlantic,U,0,C,0
+10115,East North Central,U,0,C,0
+10116,West South Central,R,0,R,0
+10117,East North Central,U,1,C,1
+10118,West South Central,R,1,R,1
+10119,Mountain South,U,1,C,1
+10120,Middle Atlantic,U,1,C,1
+10121,Middle Atlantic,U,1,C,1
+10122,South Atlantic,U,0,C,0
+10123,West South Central,U,1,C,1
+10124,East North Central,R,1,R,1
+10125,Pacific,U,1,C,1
+10126,Pacific,U,0,C,0
+10127,South Atlantic,R,1,R,1
+10128,South Atlantic,R,0,R,0
+10129,South Atlantic,U,1,C,1
+10130,West South Central,U,1,C,1
+10131,Pacific,U,1,C,1
+10132,New England,C,1,C,1
+10133,South Atlantic,R,1,R,1
+10134,South Atlantic,U,1,C,1
+10135,Pacific,U,1,C,1
+10136,Mountain South,U,1,C,1
+10137,West South Central,C,1,C,1
+10138,West North Central,U,1,C,1
+10139,South Atlantic,U,1,C,1
+10140,East North Central,C,1,C,1
+10141,South Atlantic,U,1,C,1
+10142,South Atlantic,C,1,C,1
+10143,South Atlantic,R,1,R,1
+10144,Middle Atlantic,U,0,C,0
+10145,Pacific,U,1,C,1
+10146,East North Central,R,1,R,1
+10147,West South Central,R,1,R,1
+10148,Mountain North,R,1,R,1
+10149,East South Central,U,1,C,1
+10150,West North Central,U,1,C,1
+10151,Pacific,U,0,C,0
+10152,West South Central,R,0,R,0
+10153,South Atlantic,R,1,R,1
+10154,South Atlantic,U,1,C,1
+10155,South Atlantic,U,1,C,1
+10156,New England,R,1,R,1
+10157,East North Central,U,1,C,1
+10158,South Atlantic,U,1,C,1
+10159,West North Central,U,0,C,0
+10160,Middle Atlantic,U,1,C,1
+10161,South Atlantic,U,1,C,1
+10162,West South Central,R,1,R,1
+10163,Middle Atlantic,R,1,R,1
+10164,South Atlantic,U,0,C,0
+10165,Pacific,R,1,R,1
+10166,West South Central,R,1,R,1
+10167,West South Central,U,0,C,0
+10168,East North Central,R,1,R,1
+10169,West North Central,C,0,C,0
+10170,West South Central,C,0,C,0
+10171,West North Central,U,1,C,1
+10172,West South Central,C,1,C,1
+10173,West South Central,U,0,C,0
+10174,Pacific,U,0,C,0
+10175,New England,U,1,C,1
+10176,West South Central,R,1,R,1
+10177,East South Central,U,0,C,0
+10178,Middle Atlantic,U,1,C,1
+10179,Pacific,U,1,C,1
+10180,West South Central,R,1,R,1
+10181,Mountain South,U,1,C,1
+10182,East South Central,R,0,R,0
+10183,West South Central,R,0,R,0
+10184,New England,U,1,C,1
+10185,West South Central,C,0,C,0
+10186,West South Central,U,0,C,0
+10187,East North Central,U,1,C,1
+10188,West South Central,C,1,C,1
+10189,East North Central,U,1,C,1
+10190,Pacific,U,1,C,1
+10191,South Atlantic,U,1,C,1
+10192,West North Central,R,1,R,1
+10193,East North Central,U,1,C,1
+10194,East North Central,U,1,C,1
+10195,Pacific,U,1,C,1
+10196,Pacific,C,1,C,1
+10197,West North Central,U,1,C,1
+10198,South Atlantic,U,1,C,1
+10199,West North Central,U,1,C,1
+10200,West South Central,R,1,R,1
+10201,Pacific,U,1,C,1
+10202,Mountain North,U,1,C,1
+10203,South Atlantic,U,1,C,1
+10204,Pacific,U,1,C,1
+10205,West North Central,U,1,C,1
+10206,Pacific,U,1,C,1
+10207,Middle Atlantic,C,1,C,1
+10208,Pacific,R,1,R,1
+10209,West North Central,U,1,C,1
+10210,Pacific,U,1,C,1
+10211,East South Central,C,1,C,1
+10212,New England,U,1,C,1
+10213,New England,R,0,R,0
+10214,Pacific,U,1,C,1
+10215,Pacific,C,1,C,1
+10216,Mountain North,R,1,R,1
+10217,New England,U,1,C,1
+10218,South Atlantic,U,1,C,1
+10219,South Atlantic,U,1,C,1
+10220,East North Central,U,1,C,1
+10221,Pacific,U,1,C,1
+10222,West North Central,U,1,C,1
+10223,Pacific,R,1,R,1
+10224,New England,U,1,C,1
+10225,Mountain North,U,1,C,1
+10226,West South Central,R,0,R,0
+10227,New England,R,1,R,1
+10228,Pacific,U,1,C,1
+10229,South Atlantic,R,1,R,1
+10230,East North Central,U,0,C,0
+10231,West South Central,R,1,R,1
+10232,Middle Atlantic,R,1,R,1
+10233,West North Central,U,1,C,1
+10234,Pacific,U,0,C,0
+10235,West North Central,R,1,R,1
+10236,Pacific,U,0,C,0
+10237,Pacific,U,0,C,0
+10238,Mountain South,U,0,C,0
+10239,Pacific,U,1,C,1
+10240,East North Central,U,1,C,1
+10241,West North Central,U,0,C,0
+10242,South Atlantic,U,1,C,1
+10243,West South Central,U,1,C,1
+10244,Middle Atlantic,U,0,C,0
+10245,West South Central,R,1,R,1
+10246,Mountain North,U,1,C,1
+10247,South Atlantic,R,1,R,1
+10248,Pacific,U,1,C,1
+10249,West North Central,C,1,C,1
+10250,West North Central,U,1,C,1
+10251,West North Central,U,1,C,1
+10252,Pacific,U,1,C,1
+10253,West South Central,R,1,R,1
+10254,South Atlantic,U,1,C,1
+10255,East North Central,R,1,R,1
+10256,East North Central,R,1,R,1
+10257,Pacific,U,0,C,0
+10258,East North Central,U,1,C,1
+10259,Pacific,C,1,C,1
+10260,West North Central,U,1,C,1
+10261,West South Central,R,1,R,1
+10262,South Atlantic,U,1,C,1
+10263,Mountain South,U,1,C,1
+10264,Pacific,R,1,R,1
+10265,West South Central,C,1,C,1
+10266,Mountain North,U,1,C,1
+10267,Mountain North,U,1,C,1
+10268,South Atlantic,U,1,C,1
+10269,Pacific,U,1,C,1
+10270,East North Central,U,1,C,1
+10271,West South Central,U,1,C,1
+10272,Pacific,U,1,C,1
+10273,Pacific,U,1,C,1
+10274,East North Central,U,1,C,1
+10275,West South Central,C,0,C,0
+10276,Middle Atlantic,U,1,C,1
+10277,East North Central,U,1,C,1
+10278,Pacific,U,0,C,0
+10279,New England,C,1,C,1
+10280,East North Central,C,0,C,0
+10281,East South Central,U,1,C,1
+10282,West North Central,U,1,C,1
+10283,Middle Atlantic,U,1,C,1
+10284,Middle Atlantic,R,1,R,1
+10285,East North Central,R,1,R,1
+10286,East North Central,U,1,C,1
+10287,West North Central,U,1,C,1
+10288,South Atlantic,R,1,R,1
+10289,Pacific,U,1,C,1
+10290,Middle Atlantic,U,0,C,0
+10291,South Atlantic,U,1,C,1
+10292,Middle Atlantic,C,1,C,1
+10293,South Atlantic,U,1,C,1
+10294,West South Central,R,1,R,1
+10295,Pacific,U,1,C,1
+10296,West North Central,U,1,C,1
+10297,Pacific,U,1,C,1
+10298,East North Central,U,0,C,0
+10299,West North Central,U,1,C,1
+10300,South Atlantic,R,1,R,1
+10301,East North Central,R,1,R,1
+10302,West South Central,U,0,C,0
+10303,West North Central,C,1,C,1
+10304,South Atlantic,C,1,C,1
+10305,West North Central,C,1,C,1
+10306,East North Central,R,1,R,1
+10307,West South Central,U,1,C,1
+10308,West North Central,C,1,C,1
+10309,East North Central,U,1,C,1
+10310,East North Central,U,1,C,1
+10311,Pacific,U,1,C,1
+10312,Pacific,C,1,C,1
+10313,Pacific,U,1,C,1
+10314,South Atlantic,C,1,C,1
+10315,East North Central,R,1,R,1
+10316,South Atlantic,R,1,R,1
+10317,Pacific,U,1,C,1
+10318,South Atlantic,R,0,R,0
+10319,Pacific,U,1,C,1
+10320,Middle Atlantic,U,1,C,1
+10321,East South Central,U,1,C,1
+10322,Pacific,U,1,C,1
+10323,Pacific,U,1,C,1
+10324,South Atlantic,R,1,R,1
+10325,Pacific,U,1,C,1
+10326,South Atlantic,U,1,C,1
+10327,South Atlantic,U,0,C,0
+10328,West South Central,U,1,C,1
+10329,Pacific,U,1,C,1
+10330,Pacific,U,0,C,0
+10331,South Atlantic,U,0,C,0
+10332,Pacific,U,1,C,1
+10333,West South Central,U,1,C,1
+10334,West South Central,R,0,R,0
+10335,Pacific,R,1,R,1
+10336,Middle Atlantic,U,0,C,0
+10337,West North Central,R,0,R,0
+10338,Mountain South,U,1,C,1
+10339,West North Central,U,1,C,1
+10340,West North Central,U,1,C,1
+10341,East South Central,U,0,C,0
+10342,Pacific,R,1,R,1
+10343,West South Central,R,1,R,1
+10344,East North Central,R,1,R,1
+10345,Pacific,C,1,C,1
+10346,West South Central,U,1,C,1
+10347,South Atlantic,R,1,R,1
+10348,Mountain South,U,1,C,1
+10349,Pacific,U,1,C,1
+10350,West North Central,U,1,C,1
+10351,East North Central,R,1,R,1
+10352,West North Central,U,1,C,1
+10353,East North Central,U,1,C,1
+10354,South Atlantic,U,1,C,1
+10355,East North Central,U,1,C,1
+10356,South Atlantic,U,1,C,1
+10357,South Atlantic,U,1,C,1
+10358,Mountain South,R,1,R,1
+10359,Mountain South,U,1,C,1
+10360,South Atlantic,R,1,R,1
+10361,Pacific,U,1,C,1
+10362,South Atlantic,U,1,C,1
+10363,West South Central,C,1,C,1
+10364,South Atlantic,U,1,C,1
+10365,Pacific,C,0,C,0
+10366,New England,U,1,C,1
+10367,South Atlantic,C,1,C,1
+10368,South Atlantic,R,0,R,0
+10369,Middle Atlantic,U,1,C,1
+10370,Mountain South,U,1,C,1
+10371,East North Central,U,1,C,1
+10372,East North Central,U,1,C,1
+10373,Pacific,U,0,C,0
+10374,West South Central,U,1,C,1
+10375,West North Central,C,0,C,0
+10376,East North Central,R,1,R,1
+10377,New England,C,1,C,1
+10378,West South Central,C,1,C,1
+10379,South Atlantic,U,1,C,1
+10380,Middle Atlantic,U,1,C,1
+10381,West North Central,U,1,C,1
+10382,Mountain North,C,0,C,0
+10383,Middle Atlantic,U,1,C,1
+10384,Pacific,U,1,C,1
+10385,Middle Atlantic,U,1,C,1
+10386,West North Central,U,1,C,1
+10387,Pacific,U,1,C,1
+10388,Pacific,U,1,C,1
+10389,Pacific,U,1,C,1
+10390,Mountain North,U,1,C,1
+10391,West South Central,R,0,R,0
+10392,South Atlantic,U,1,C,1
+10393,East North Central,U,1,C,1
+10394,East South Central,U,1,C,1
+10395,Pacific,U,1,C,1
+10396,Mountain North,U,1,C,1
+10397,East North Central,R,1,R,1
+10398,West South Central,U,1,C,1
+10399,East South Central,R,1,R,1
+10400,Pacific,U,1,C,1
+10401,Pacific,U,1,C,1
+10402,East North Central,U,1,C,1
+10403,Middle Atlantic,U,1,C,1
+10404,East North Central,U,1,C,1
+10405,Mountain South,U,1,C,1
+10406,East North Central,U,1,C,1
+10407,East North Central,R,1,R,1
+10408,South Atlantic,U,1,C,1
+10409,East North Central,U,1,C,1
+10410,Middle Atlantic,R,1,R,1
+10411,South Atlantic,U,1,C,1
+10412,South Atlantic,U,1,C,1
+10413,West South Central,U,1,C,1
+10414,West South Central,R,0,R,0
+10415,Mountain South,U,1,C,1
+10416,West South Central,R,1,R,1
+10417,East North Central,R,0,R,0
+10418,Middle Atlantic,U,1,C,1
+10419,East North Central,R,1,R,1
+10420,Pacific,R,1,R,1
+10421,South Atlantic,U,1,C,1
+10422,New England,R,0,R,0
+10423,East North Central,U,1,C,1
+10424,East North Central,U,1,C,1
+10425,South Atlantic,U,1,C,1
+10426,New England,R,1,R,1
+10427,East South Central,R,1,R,1
+10428,Middle Atlantic,U,1,C,1
+10429,South Atlantic,U,1,C,1
+10430,South Atlantic,R,1,R,1
+10431,West South Central,R,1,R,1
+10432,Pacific,R,1,R,1
+10433,South Atlantic,U,1,C,1
+10434,Middle Atlantic,U,1,C,1
+10435,East North Central,U,1,C,1
+10436,South Atlantic,U,1,C,1
+10437,Middle Atlantic,C,1,C,1
+10438,West South Central,U,1,C,1
+10439,Mountain North,U,1,C,1
+10440,East South Central,C,1,C,1
+10441,Mountain North,U,1,C,1
+10442,Pacific,U,1,C,1
+10443,Pacific,U,0,C,0
+10444,Pacific,U,1,C,1
+10445,Pacific,U,1,C,1
+10446,South Atlantic,U,1,C,1
+10447,East South Central,U,1,C,1
+10448,West South Central,U,0,C,0
+10449,West North Central,U,1,C,1
+10450,East South Central,U,1,C,1
+10451,West North Central,R,0,R,0
+10452,Pacific,U,1,C,1
+10453,South Atlantic,U,1,C,1
+10454,South Atlantic,U,1,C,1
+10455,Mountain South,U,1,C,1
+10456,West North Central,U,1,C,1
+10457,East North Central,U,1,C,1
+10458,East North Central,R,1,R,1
+10459,South Atlantic,U,1,C,1
+10460,Pacific,U,1,C,1
+10461,Pacific,R,1,R,1
+10462,West North Central,U,1,C,1
+10463,South Atlantic,U,1,C,1
+10464,South Atlantic,R,0,R,0
+10465,West South Central,U,1,C,1
+10466,South Atlantic,U,1,C,1
+10467,South Atlantic,U,1,C,1
+10468,West North Central,U,1,C,1
+10469,South Atlantic,C,1,C,1
+10470,South Atlantic,U,1,C,1
+10471,West South Central,C,1,C,1
+10472,East North Central,R,0,R,0
+10473,Middle Atlantic,U,1,C,1
+10474,East South Central,R,1,R,1
+10475,Pacific,U,1,C,1
+10476,South Atlantic,R,1,R,1
+10477,West South Central,R,1,R,1
+10478,Mountain South,U,1,C,1
+10479,Pacific,C,0,C,0
+10480,South Atlantic,R,1,R,1
+10481,East North Central,C,0,C,0
+10482,Mountain South,U,1,C,1
+10483,East North Central,U,0,C,0
+10484,Middle Atlantic,U,1,C,1
+10485,East North Central,U,1,C,1
+10486,East North Central,U,1,C,1
+10487,Pacific,U,1,C,1
+10488,South Atlantic,U,1,C,1
+10489,South Atlantic,C,1,C,1
+10490,East North Central,R,0,R,0
+10491,South Atlantic,U,1,C,1
+10492,Middle Atlantic,U,1,C,1
+10493,West North Central,R,1,R,1
+10494,East North Central,C,1,C,1
+10495,Pacific,R,1,R,1
+10496,Middle Atlantic,U,1,C,1
+10497,East North Central,U,1,C,1
+10498,South Atlantic,R,1,R,1
+10499,South Atlantic,U,1,C,1
+10500,South Atlantic,U,0,C,0
+10501,South Atlantic,U,1,C,1
+10502,Mountain South,U,1,C,1
+10503,West North Central,U,1,C,1
+10504,East North Central,U,1,C,1
+10505,Middle Atlantic,U,1,C,1
+10506,East North Central,U,1,C,1
+10507,East North Central,U,1,C,1
+10508,Mountain North,U,1,C,1
+10509,East South Central,R,1,R,1
+10510,South Atlantic,U,1,C,1
+10511,South Atlantic,U,1,C,1
+10512,West South Central,R,1,R,1
+10513,West North Central,U,1,C,1
+10514,West South Central,U,1,C,1
+10515,South Atlantic,U,1,C,1
+10516,South Atlantic,U,1,C,1
+10517,West North Central,C,1,C,1
+10518,East North Central,C,1,C,1
+10519,West North Central,U,1,C,1
+10520,West North Central,U,1,C,1
+10521,Pacific,U,0,C,0
+10522,Pacific,U,1,C,1
+10523,East North Central,U,1,C,1
+10524,Mountain South,U,1,C,1
+10525,South Atlantic,U,1,C,1
+10526,New England,U,1,C,1
+10527,Mountain South,U,1,C,1
+10528,South Atlantic,R,0,R,0
+10529,West North Central,U,1,C,1
+10530,Middle Atlantic,U,1,C,1
+10531,Mountain South,U,1,C,1
+10532,Middle Atlantic,U,1,C,1
+10533,West South Central,C,1,C,1
+10534,New England,U,1,C,1
+10535,Pacific,U,1,C,1
+10536,Middle Atlantic,C,1,C,1
+10537,East North Central,R,1,R,1
+10538,Middle Atlantic,U,1,C,1
+10539,East North Central,U,1,C,1
+10540,West South Central,C,1,C,1
+10541,South Atlantic,U,1,C,1
+10542,South Atlantic,C,1,C,1
+10543,West South Central,U,1,C,1
+10544,East North Central,U,1,C,1
+10545,South Atlantic,C,0,C,0
+10546,Mountain South,U,1,C,1
+10547,West South Central,U,1,C,1
+10548,West South Central,U,1,C,1
+10549,Pacific,U,1,C,1
+10550,West North Central,U,0,C,0
+10551,Pacific,U,1,C,1
+10552,South Atlantic,U,1,C,1
+10553,West South Central,R,1,R,1
+10554,West South Central,C,0,C,0
+10555,Mountain South,U,1,C,1
+10556,East North Central,R,1,R,1
+10557,Pacific,U,1,C,1
+10558,South Atlantic,U,1,C,1
+10559,East North Central,U,1,C,1
+10560,West North Central,U,1,C,1
+10561,South Atlantic,C,1,C,1
+10562,West North Central,U,1,C,1
+10563,South Atlantic,U,1,C,1
+10564,New England,C,1,C,1
+10565,Pacific,U,1,C,1
+10566,Pacific,R,0,R,0
+10567,South Atlantic,U,1,C,1
+10568,East North Central,U,1,C,1
+10569,Middle Atlantic,U,0,C,0
+10570,East North Central,U,1,C,1
+10571,Pacific,C,1,C,1
+10572,Middle Atlantic,U,1,C,1
+10573,South Atlantic,C,1,C,1
+10574,East North Central,U,1,C,1
+10575,West South Central,U,0,C,0
+10576,West South Central,R,1,R,1
+10577,Mountain North,U,1,C,1
+10578,South Atlantic,C,1,C,1
+10579,East North Central,U,1,C,1
+10580,Pacific,U,1,C,1
+10581,East North Central,U,1,C,1
+10582,Pacific,U,1,C,1
+10583,South Atlantic,U,1,C,1
+10584,Middle Atlantic,R,1,R,1
+10585,East North Central,C,1,C,1
+10586,Middle Atlantic,U,0,C,0
+10587,Pacific,R,0,R,0
+10588,South Atlantic,R,1,R,1
+10589,South Atlantic,R,1,R,1
+10590,South Atlantic,U,1,C,1
+10591,New England,U,1,C,1
+10592,Mountain South,U,1,C,1
+10593,West South Central,U,1,C,1
+10594,West South Central,U,1,C,1
+10595,Pacific,U,1,C,1
+10596,East North Central,U,0,C,0
+10597,South Atlantic,U,1,C,1
+10598,Pacific,U,1,C,1
+10599,Pacific,U,1,C,1
+10600,New England,U,1,C,1
+10601,South Atlantic,U,1,C,1
+10602,East North Central,U,1,C,1
+10603,Mountain North,R,1,R,1
+10604,Pacific,U,1,C,1
+10605,Pacific,U,1,C,1
+10606,West South Central,U,1,C,1
+10607,Pacific,C,1,C,1
+10608,South Atlantic,R,1,R,1
+10609,Pacific,U,1,C,1
+10610,Middle Atlantic,U,1,C,1
+10611,New England,R,1,R,1
+10612,New England,U,1,C,1
+10613,East North Central,R,1,R,1
+10614,East South Central,U,1,C,1
+10615,New England,U,1,C,1
+10616,Pacific,R,1,R,1
+10617,East South Central,U,1,C,1
+10618,East North Central,R,1,R,1
+10619,Middle Atlantic,U,1,C,1
+10620,South Atlantic,C,1,C,1
+10621,South Atlantic,U,1,C,1
+10622,West South Central,R,1,R,1
+10623,Pacific,U,1,C,1
+10624,Mountain South,U,1,C,1
+10625,Middle Atlantic,R,1,R,1
+10626,East South Central,C,1,C,1
+10627,South Atlantic,R,0,R,0
+10628,Pacific,U,1,C,1
+10629,South Atlantic,U,0,C,0
+10630,East South Central,C,0,C,0
+10631,East South Central,C,1,C,1
+10632,East North Central,U,1,C,1
+10633,East South Central,U,1,C,1
+10634,South Atlantic,C,1,C,1
+10635,Pacific,U,1,C,1
+10636,South Atlantic,U,1,C,1
+10637,Pacific,U,1,C,1
+10638,West North Central,C,1,C,1
+10639,East South Central,C,1,C,1
+10640,Pacific,U,0,C,0
+10641,Middle Atlantic,U,0,C,0
+10642,East North Central,U,1,C,1
+10643,West North Central,R,1,R,1
+10644,East North Central,U,1,C,1
+10645,Pacific,R,1,R,1
+10646,East North Central,U,1,C,1
+10647,West North Central,U,1,C,1
+10648,South Atlantic,U,1,C,1
+10649,Pacific,U,0,C,0
+10650,Middle Atlantic,U,1,C,1
+10651,East North Central,U,1,C,1
+10652,East South Central,U,1,C,1
+10653,South Atlantic,U,1,C,1
+10654,Pacific,U,1,C,1
+10655,East North Central,U,0,C,0
+10656,West South Central,U,1,C,1
+10657,Middle Atlantic,U,1,C,1
+10658,Mountain North,R,1,R,1
+10659,Pacific,U,1,C,1
+10660,West North Central,U,0,C,0
+10661,East North Central,R,1,R,1
+10662,South Atlantic,U,1,C,1
+10663,Middle Atlantic,U,1,C,1
+10664,Mountain North,C,1,C,1
+10665,South Atlantic,U,1,C,1
+10666,Pacific,U,1,C,1
+10667,East North Central,C,1,C,1
+10668,East North Central,R,1,R,1
+10669,South Atlantic,U,1,C,1
+10670,Pacific,R,1,R,1
+10671,South Atlantic,U,1,C,1
+10672,Mountain North,U,1,C,1
+10673,South Atlantic,C,1,C,1
+10674,East North Central,U,1,C,1
+10675,New England,U,1,C,1
+10676,Pacific,U,1,C,1
+10677,Mountain South,U,1,C,1
+10678,Pacific,U,1,C,1
+10679,Middle Atlantic,C,1,C,1
+10680,Pacific,U,1,C,1
+10681,Pacific,U,1,C,1
+10682,Middle Atlantic,U,1,C,1
+10683,West North Central,U,1,C,1
+10684,Mountain North,U,1,C,1
+10685,Pacific,U,1,C,1
+10686,New England,U,1,C,1
+10687,New England,R,1,R,1
+10688,Pacific,U,1,C,1
+10689,Middle Atlantic,U,1,C,1
+10690,Mountain South,U,1,C,1
+10691,East North Central,U,0,C,0
+10692,East North Central,U,1,C,1
+10693,Mountain South,U,1,C,1
+10694,West South Central,U,1,C,1
+10695,South Atlantic,R,1,R,1
+10696,South Atlantic,R,1,R,1
+10697,South Atlantic,U,1,C,1
+10698,South Atlantic,U,1,C,1
+10699,Pacific,U,1,C,1
+10700,Pacific,U,0,C,0
+10701,West South Central,U,0,C,0
+10702,East South Central,U,1,C,1
+10703,East North Central,R,1,R,1
+10704,Mountain North,R,0,R,0
+10705,South Atlantic,R,1,R,1
+10706,West South Central,U,0,C,0
+10707,West South Central,U,1,C,1
+10708,West North Central,U,0,C,0
+10709,East North Central,U,1,C,1
+10710,Pacific,U,1,C,1
+10711,South Atlantic,U,1,C,1
+10712,South Atlantic,R,1,R,1
+10713,South Atlantic,R,1,R,1
+10714,East North Central,R,1,R,1
+10715,East North Central,R,1,R,1
+10716,West North Central,U,1,C,1
+10717,Middle Atlantic,U,1,C,1
+10718,West South Central,C,1,C,1
+10719,West North Central,C,1,C,1
+10720,Pacific,U,1,C,1
+10721,East South Central,U,1,C,1
+10722,South Atlantic,C,1,C,1
+10723,West South Central,U,1,C,1
+10724,Pacific,U,0,C,0
+10725,South Atlantic,U,1,C,1
+10726,Mountain South,U,1,C,1
+10727,Pacific,U,1,C,1
+10728,New England,U,1,C,1
+10729,West South Central,U,1,C,1
+10730,Pacific,U,1,C,1
+10731,Middle Atlantic,U,1,C,1
+10732,East South Central,R,0,R,0
+10733,South Atlantic,U,1,C,1
+10734,Middle Atlantic,U,1,C,1
+10735,West North Central,U,1,C,1
+10736,South Atlantic,U,1,C,1
+10737,East North Central,U,1,C,1
+10738,South Atlantic,U,1,C,1
+10739,West North Central,U,1,C,1
+10740,South Atlantic,U,1,C,1
+10741,East South Central,U,0,C,0
+10742,West North Central,R,1,R,1
+10743,Pacific,U,1,C,1
+10744,South Atlantic,U,1,C,1
+10745,West South Central,U,1,C,1
+10746,New England,R,1,R,1
+10747,South Atlantic,U,1,C,1
+10748,South Atlantic,U,1,C,1
+10749,South Atlantic,U,1,C,1
+10750,West South Central,U,1,C,1
+10751,Mountain South,U,1,C,1
+10752,Pacific,U,1,C,1
+10753,Mountain North,U,1,C,1
+10754,Pacific,U,1,C,1
+10755,South Atlantic,U,1,C,1
+10756,South Atlantic,U,1,C,1
+10757,West North Central,R,1,R,1
+10758,Pacific,U,0,C,0
+10759,Middle Atlantic,U,1,C,1
+10760,Mountain North,U,1,C,1
+10761,West South Central,R,0,R,0
+10762,South Atlantic,U,1,C,1
+10763,East North Central,U,0,C,0
+10764,Pacific,R,0,R,0
+10765,East North Central,R,1,R,1
+10766,Pacific,U,1,C,1
+10767,West North Central,U,1,C,1
+10768,New England,U,1,C,1
+10769,West North Central,U,0,C,0
+10770,West North Central,C,1,C,1
+10771,South Atlantic,U,1,C,1
+10772,West South Central,R,0,R,0
+10773,Middle Atlantic,U,1,C,1
+10774,Mountain South,U,1,C,1
+10775,Pacific,U,0,C,0
+10776,West North Central,C,1,C,1
+10777,West South Central,U,1,C,1
+10778,New England,U,1,C,1
+10779,East South Central,U,1,C,1
+10780,South Atlantic,U,1,C,1
+10781,Middle Atlantic,R,1,R,1
+10782,East South Central,R,1,R,1
+10783,West South Central,U,1,C,1
+10784,Mountain North,U,1,C,1
+10785,East North Central,U,1,C,1
+10786,Pacific,U,1,C,1
+10787,East North Central,U,1,C,1
+10788,Pacific,R,0,R,0
+10789,East North Central,U,1,C,1
+10790,East North Central,U,1,C,1
+10791,Pacific,U,1,C,1
+10792,West North Central,U,0,C,0
+10793,East South Central,C,1,C,1
+10794,Mountain North,U,0,C,0
+10795,East North Central,U,1,C,1
+10796,Pacific,C,1,C,1
+10797,West North Central,U,1,C,1
+10798,East South Central,U,0,C,0
+10799,East North Central,U,1,C,1
+10800,West South Central,R,1,R,1
+10801,Middle Atlantic,U,1,C,1
+10802,Pacific,R,0,R,0
+10803,West South Central,U,1,C,1
+10804,West North Central,U,1,C,1
+10805,West South Central,U,1,C,1
+10806,New England,R,1,R,1
+10807,Pacific,U,1,C,1
+10808,East North Central,U,1,C,1
+10809,Pacific,U,1,C,1
+10810,East North Central,U,1,C,1
+10811,Pacific,U,1,C,1
+10812,Middle Atlantic,C,1,C,1
+10813,East South Central,C,1,C,1
+10814,West South Central,U,1,C,1
+10815,East North Central,U,1,C,1
+10816,West South Central,U,1,C,1
+10817,West South Central,U,1,C,1
+10818,Middle Atlantic,R,1,R,1
+10819,Mountain South,U,1,C,1
+10820,Mountain North,U,1,C,1
+10821,Middle Atlantic,U,1,C,1
+10822,Pacific,U,1,C,1
+10823,East North Central,U,0,C,0
+10824,Mountain North,U,0,C,0
+10825,East South Central,C,1,C,1
+10826,South Atlantic,U,0,C,0
+10827,East North Central,U,1,C,1
+10828,South Atlantic,U,1,C,1
+10829,South Atlantic,U,1,C,1
+10830,South Atlantic,C,1,C,1
+10831,East North Central,U,1,C,1
+10832,Mountain South,U,1,C,1
+10833,East South Central,C,1,C,1
+10834,West North Central,R,0,R,0
+10835,South Atlantic,R,0,R,0
+10836,South Atlantic,U,1,C,1
+10837,West North Central,U,1,C,1
+10838,South Atlantic,U,1,C,1
+10839,South Atlantic,R,1,R,1
+10840,West North Central,C,1,C,1
+10841,Mountain South,U,1,C,1
+10842,East South Central,R,0,R,0
+10843,Middle Atlantic,U,1,C,1
+10844,Mountain North,R,1,R,1
+10845,New England,U,1,C,1
+10846,Middle Atlantic,C,1,C,1
+10847,West North Central,U,1,C,1
+10848,East South Central,U,1,C,1
+10849,East North Central,C,0,C,0
+10850,Pacific,U,1,C,1
+10851,Pacific,C,1,C,1
+10852,Pacific,U,1,C,1
+10853,South Atlantic,R,1,R,1
+10854,South Atlantic,R,1,R,1
+10855,West South Central,U,1,C,1
+10856,East North Central,R,1,R,1
+10857,New England,U,1,C,1
+10858,South Atlantic,R,1,R,1
+10859,South Atlantic,U,1,C,1
+10860,South Atlantic,U,1,C,1
+10861,East North Central,U,1,C,1
+10862,East North Central,C,1,C,1
+10863,West South Central,R,0,R,0
+10864,Middle Atlantic,U,1,C,1
+10865,New England,U,1,C,1
+10866,East South Central,U,1,C,1
+10867,Middle Atlantic,U,1,C,1
+10868,Mountain North,U,1,C,1
+10869,New England,C,1,C,1
+10870,New England,R,1,R,1
+10871,South Atlantic,R,1,R,1
+10872,West North Central,C,1,C,1
+10873,South Atlantic,C,1,C,1
+10874,East South Central,U,0,C,0
+10875,Pacific,U,1,C,1
+10876,East North Central,R,1,R,1
+10877,Pacific,U,1,C,1
+10878,Middle Atlantic,U,1,C,1
+10879,New England,R,1,R,1
+10880,East North Central,U,1,C,1
+10881,East South Central,U,1,C,1
+10882,South Atlantic,U,1,C,1
+10883,East North Central,U,1,C,1
+10884,East North Central,U,1,C,1
+10885,Mountain South,U,1,C,1
+10886,South Atlantic,R,1,R,1
+10887,Mountain South,U,1,C,1
+10888,West North Central,U,1,C,1
+10889,East North Central,C,0,C,0
+10890,East South Central,U,1,C,1
+10891,West North Central,U,1,C,1
+10892,East North Central,U,1,C,1
+10893,East North Central,U,1,C,1
+10894,West North Central,U,1,C,1
+10895,Pacific,U,1,C,1
+10896,Pacific,U,1,C,1
+10897,Middle Atlantic,U,1,C,1
+10898,East South Central,R,1,R,1
+10899,Pacific,U,1,C,1
+10900,Pacific,U,1,C,1
+10901,South Atlantic,R,0,R,0
+10902,West North Central,R,1,R,1
+10903,Mountain South,U,0,C,0
+10904,West North Central,U,1,C,1
+10905,South Atlantic,U,0,C,0
+10906,South Atlantic,U,1,C,1
+10907,Mountain South,U,1,C,1
+10908,Pacific,R,1,R,1
+10909,East North Central,U,1,C,1
+10910,West North Central,C,1,C,1
+10911,Pacific,U,1,C,1
+10912,Middle Atlantic,R,1,R,1
+10913,East North Central,C,1,C,1
+10914,Pacific,C,1,C,1
+10915,East North Central,U,1,C,1
+10916,South Atlantic,U,1,C,1
+10917,Pacific,C,0,C,0
+10918,Pacific,U,0,C,0
+10919,West South Central,R,0,R,0
+10920,East North Central,U,0,C,0
+10921,East North Central,U,1,C,1
+10922,Pacific,U,1,C,1
+10923,East North Central,R,1,R,1
+10924,West South Central,U,1,C,1
+10925,West North Central,U,0,C,0
+10926,South Atlantic,U,1,C,1
+10927,East North Central,U,1,C,1
+10928,Pacific,R,1,R,1
+10929,East South Central,U,1,C,1
+10930,East South Central,U,1,C,1
+10931,Mountain South,U,1,C,1
+10932,Pacific,R,1,R,1
+10933,Middle Atlantic,U,1,C,1
+10934,East South Central,R,1,R,1
+10935,West South Central,U,1,C,1
+10936,East North Central,C,0,C,0
+10937,West South Central,U,1,C,1
+10938,West North Central,C,1,C,1
+10939,East North Central,U,1,C,1
+10940,South Atlantic,R,1,R,1
+10941,East North Central,R,0,R,0
+10942,West South Central,U,1,C,1
+10943,Middle Atlantic,U,1,C,1
+10944,East North Central,U,1,C,1
+10945,East North Central,R,1,R,1
+10946,Mountain South,U,1,C,1
+10947,West South Central,U,1,C,1
+10948,East North Central,U,1,C,1
+10949,West North Central,U,1,C,1
+10950,East North Central,C,1,C,1
+10951,East North Central,U,1,C,1
+10952,West North Central,U,1,C,1
+10953,East South Central,U,1,C,1
+10954,West North Central,U,1,C,1
+10955,South Atlantic,U,1,C,1
+10956,South Atlantic,U,1,C,1
+10957,South Atlantic,U,1,C,1
+10958,West South Central,U,0,C,0
+10959,East North Central,C,1,C,1
+10960,West South Central,C,0,C,0
+10961,East North Central,U,1,C,1
+10962,Mountain North,U,1,C,1
+10963,West North Central,U,1,C,1
+10964,South Atlantic,U,1,C,1
+10965,East South Central,U,0,C,0
+10966,West South Central,U,1,C,1
+10967,West North Central,U,1,C,1
+10968,South Atlantic,U,1,C,1
+10969,West South Central,U,1,C,1
+10970,West North Central,R,1,R,1
+10971,East North Central,U,1,C,1
+10972,South Atlantic,U,1,C,1
+10973,New England,U,1,C,1
+10974,Middle Atlantic,U,1,C,1
+10975,West South Central,R,1,R,1
+10976,West North Central,U,1,C,1
+10977,South Atlantic,C,1,C,1
+10978,New England,R,1,R,1
+10979,New England,R,1,R,1
+10980,Mountain South,U,1,C,1
+10981,West South Central,C,1,C,1
+10982,East North Central,U,0,C,0
+10983,Middle Atlantic,U,1,C,1
+10984,West South Central,U,0,C,0
+10985,Pacific,U,1,C,1
+10986,East South Central,U,1,C,1
+10987,South Atlantic,U,1,C,1
+10988,West South Central,U,1,C,1
+10989,Mountain North,U,0,C,0
+10990,Mountain South,U,1,C,1
+10991,Pacific,U,1,C,1
+10992,Pacific,U,0,C,0
+10993,West South Central,R,1,R,1
+10994,Middle Atlantic,U,1,C,1
+10995,Middle Atlantic,U,0,C,0
+10996,Mountain South,R,1,R,1
+10997,South Atlantic,U,1,C,1
+10998,West South Central,U,1,C,1
+10999,East South Central,R,1,R,1
+11000,South Atlantic,R,0,R,0
+11001,East North Central,R,1,R,1
+11002,East North Central,U,0,C,0
+11003,Middle Atlantic,U,1,C,1
+11004,East North Central,U,1,C,1
+11005,East North Central,U,1,C,1
+11006,New England,U,1,C,1
+11007,East South Central,R,1,R,1
+11008,South Atlantic,R,0,R,0
+11009,Pacific,U,1,C,1
+11010,Pacific,U,1,C,1
+11011,New England,U,1,C,1
+11012,New England,U,1,C,1
+11013,West North Central,C,0,C,0
+11014,West North Central,U,1,C,1
+11015,East South Central,R,1,R,1
+11016,East North Central,C,1,C,1
+11017,West South Central,C,0,C,0
+11018,Pacific,U,1,C,1
+11019,Pacific,U,1,C,1
+11020,Pacific,U,1,C,1
+11021,East North Central,U,1,C,1
+11022,Pacific,U,1,C,1
+11023,West South Central,R,0,R,0
+11024,South Atlantic,R,1,R,1
+11025,East North Central,R,1,R,1
+11026,West South Central,R,1,R,1
+11027,East North Central,U,1,C,1
+11028,South Atlantic,U,1,C,1
+11029,Pacific,R,1,R,1
+11030,East North Central,R,1,R,1
+11031,South Atlantic,U,1,C,1
+11032,West South Central,R,0,R,0
+11033,Middle Atlantic,U,0,C,0
+11034,Pacific,U,1,C,1
+11035,East South Central,U,1,C,1
+11036,Mountain North,R,0,R,0
+11037,Middle Atlantic,U,1,C,1
+11038,Pacific,U,1,C,1
+11039,Mountain North,U,1,C,1
+11040,West South Central,U,1,C,1
+11041,South Atlantic,U,1,C,1
+11042,Middle Atlantic,U,1,C,1
+11043,West South Central,R,1,R,1
+11044,South Atlantic,U,1,C,1
+11045,Mountain North,U,1,C,1
+11046,Pacific,C,1,C,1
+11047,Pacific,R,1,R,1
+11048,New England,C,1,C,1
+11049,East South Central,C,1,C,1
+11050,Mountain South,U,1,C,1
+11051,West North Central,U,1,C,1
+11052,West South Central,U,1,C,1
+11053,Pacific,U,1,C,1
+11054,East South Central,U,1,C,1
+11055,Mountain North,U,1,C,1
+11056,New England,U,1,C,1
+11057,Mountain South,R,1,R,1
+11058,West South Central,U,0,C,0
+11059,East South Central,U,1,C,1
+11060,South Atlantic,U,1,C,1
+11061,Pacific,U,1,C,1
+11062,Pacific,U,1,C,1
+11063,East South Central,R,1,R,1
+11064,South Atlantic,U,0,C,0
+11065,West South Central,R,1,R,1
+11066,South Atlantic,U,1,C,1
+11067,East North Central,U,1,C,1
+11068,Pacific,U,1,C,1
+11069,West South Central,U,1,C,1
+11070,South Atlantic,R,1,R,1
+11071,Mountain North,U,1,C,1
+11072,East South Central,R,1,R,1
+11073,Pacific,U,1,C,1
+11074,South Atlantic,U,1,C,1
+11075,Pacific,U,1,C,1
+11076,East South Central,U,1,C,1
+11077,Mountain South,U,1,C,1
+11078,East North Central,U,1,C,1
+11079,East South Central,U,0,C,0
+11080,Middle Atlantic,R,1,R,1
+11081,South Atlantic,C,0,C,0
+11082,South Atlantic,U,1,C,1
+11083,New England,C,1,C,1
+11084,East North Central,U,1,C,1
+11085,Pacific,U,1,C,1
+11086,West South Central,U,1,C,1
+11087,South Atlantic,U,1,C,1
+11088,Pacific,U,1,C,1
+11089,Pacific,U,0,C,0
+11090,West South Central,U,1,C,1
+11091,East North Central,U,1,C,1
+11092,South Atlantic,R,1,R,1
+11093,East South Central,R,1,R,1
+11094,Middle Atlantic,C,1,C,1
+11095,South Atlantic,R,1,R,1
+11096,South Atlantic,U,1,C,1
+11097,East South Central,U,1,C,1
+11098,South Atlantic,C,0,C,0
+11099,East North Central,C,1,C,1
+11100,South Atlantic,U,0,C,0
+11101,West South Central,U,1,C,1
+11102,New England,R,1,R,1
+11103,East North Central,U,1,C,1
+11104,East South Central,U,1,C,1
+11105,East South Central,U,1,C,1
+11106,Pacific,U,1,C,1
+11107,West South Central,U,1,C,1
+11108,West South Central,R,0,R,0
+11109,South Atlantic,R,0,R,0
+11110,Pacific,U,0,C,0
+11111,West South Central,U,1,C,1
+11112,West North Central,R,1,R,1
+11113,Pacific,U,1,C,1
+11114,West North Central,U,1,C,1
+11115,Mountain South,U,1,C,1
+11116,East North Central,U,1,C,1
+11117,Pacific,U,1,C,1
+11118,East South Central,R,1,R,1
+11119,Pacific,U,0,C,0
+11120,West North Central,R,1,R,1
+11121,Middle Atlantic,U,1,C,1
+11122,West South Central,U,1,C,1
+11123,West South Central,R,1,R,1
+11124,Pacific,C,1,C,1
+11125,South Atlantic,U,1,C,1
+11126,West South Central,U,1,C,1
+11127,West South Central,U,0,C,0
+11128,West South Central,U,1,C,1
+11129,Middle Atlantic,U,1,C,1
+11130,South Atlantic,U,1,C,1
+11131,Middle Atlantic,R,1,R,1
+11132,East North Central,U,1,C,1
+11133,South Atlantic,U,1,C,1
+11134,Pacific,U,1,C,1
+11135,East North Central,U,1,C,1
+11136,East North Central,U,1,C,1
+11137,Mountain South,U,1,C,1
+11138,New England,R,1,R,1
+11139,Pacific,R,1,R,1
+11140,Pacific,U,1,C,1
+11141,West North Central,R,1,R,1
+11142,East North Central,R,0,R,0
+11143,East South Central,U,1,C,1
+11144,West South Central,U,1,C,1
+11145,Pacific,U,1,C,1
+11146,South Atlantic,U,1,C,1
+11147,West South Central,U,1,C,1
+11148,West South Central,C,1,C,1
+11149,East South Central,R,0,R,0
+11150,East North Central,U,1,C,1
+11151,West North Central,U,0,C,0
+11152,West South Central,C,1,C,1
+11153,East South Central,U,1,C,1
+11154,East North Central,R,0,R,0
+11155,East North Central,R,1,R,1
+11156,New England,R,0,R,0
+11157,South Atlantic,U,0,C,0
+11158,New England,R,1,R,1
+11159,Mountain South,U,0,C,0
+11160,East North Central,U,1,C,1
+11161,South Atlantic,U,0,C,0
+11162,West South Central,U,1,C,1
+11163,East South Central,U,1,C,1
+11164,West South Central,R,1,R,1
+11165,South Atlantic,U,1,C,1
+11166,East North Central,R,1,R,1
+11167,South Atlantic,U,1,C,1
+11168,Middle Atlantic,U,1,C,1
+11169,New England,R,1,R,1
+11170,West North Central,C,1,C,1
+11171,West South Central,R,0,R,0
+11172,Pacific,U,1,C,1
+11173,South Atlantic,U,0,C,0
+11174,Mountain North,U,1,C,1
+11175,Pacific,U,1,C,1
+11176,West North Central,U,1,C,1
+11177,West South Central,R,1,R,1
+11178,South Atlantic,C,0,C,0
+11179,Pacific,U,1,C,1
+11180,West North Central,C,1,C,1
+11181,West North Central,U,1,C,1
+11182,Pacific,U,1,C,1
+11183,West South Central,U,1,C,1
+11184,Pacific,C,1,C,1
+11185,Mountain North,R,0,R,0
+11186,West South Central,U,1,C,1
+11187,West South Central,U,1,C,1
+11188,West North Central,R,0,R,0
+11189,East North Central,U,1,C,1
+11190,West South Central,U,1,C,1
+11191,West South Central,C,1,C,1
+11192,South Atlantic,R,1,R,1
+11193,East South Central,R,1,R,1
+11194,South Atlantic,U,1,C,1
+11195,Pacific,U,1,C,1
+11196,South Atlantic,U,1,C,1
+11197,Pacific,U,0,C,0
+11198,South Atlantic,U,1,C,1
+11199,East North Central,U,1,C,1
+11200,West North Central,C,1,C,1
+11201,South Atlantic,R,1,R,1
+11202,South Atlantic,U,1,C,1
+11203,East North Central,C,1,C,1
+11204,Pacific,U,1,C,1
+11205,West South Central,C,0,C,0
+11206,East North Central,U,1,C,1
+11207,South Atlantic,C,1,C,1
+11208,Middle Atlantic,C,1,C,1
+11209,New England,U,1,C,1
+11210,Pacific,U,1,C,1
+11211,South Atlantic,U,1,C,1
+11212,Mountain South,U,1,C,1
+11213,West North Central,R,1,R,1
+11214,South Atlantic,U,1,C,1
+11215,Middle Atlantic,R,1,R,1
+11216,Mountain South,U,1,C,1
+11217,Pacific,U,1,C,1
+11218,South Atlantic,U,1,C,1
+11219,South Atlantic,U,1,C,1
+11220,Mountain South,U,1,C,1
+11221,South Atlantic,U,1,C,1
+11222,West North Central,U,1,C,1
+11223,West North Central,R,1,R,1
+11224,South Atlantic,R,1,R,1
+11225,West North Central,C,1,C,1
+11226,West South Central,R,1,R,1
+11227,West North Central,U,0,C,0
+11228,South Atlantic,U,0,C,0
+11229,Mountain South,R,1,R,1
+11230,Middle Atlantic,U,1,C,1
+11231,Mountain North,C,1,C,1
+11232,New England,U,1,C,1
+11233,East South Central,U,1,C,1
+11234,West North Central,R,1,R,1
+11235,Pacific,U,1,C,1
+11236,West South Central,C,1,C,1
+11237,East North Central,U,1,C,1
+11238,South Atlantic,U,1,C,1
+11239,West South Central,R,0,R,0
+11240,Pacific,U,1,C,1
+11241,West South Central,U,0,C,0
+11242,East South Central,U,1,C,1
+11243,West South Central,U,1,C,1
+11244,South Atlantic,R,0,R,0
+11245,Middle Atlantic,R,1,R,1
+11246,Pacific,R,0,R,0
+11247,East North Central,C,1,C,1
+11248,Pacific,R,1,R,1
+11249,West North Central,U,1,C,1
+11250,South Atlantic,U,1,C,1
+11251,South Atlantic,U,1,C,1
+11252,West South Central,U,1,C,1
+11253,West South Central,R,1,R,1
+11254,Middle Atlantic,C,1,C,1
+11255,West South Central,C,0,C,0
+11256,Mountain South,U,1,C,1
+11257,Pacific,U,1,C,1
+11258,Pacific,U,1,C,1
+11259,West South Central,U,0,C,0
+11260,Pacific,U,1,C,1
+11261,Mountain North,U,1,C,1
+11262,West South Central,C,1,C,1
+11263,West South Central,U,1,C,1
+11264,East North Central,U,1,C,1
+11265,Pacific,U,1,C,1
+11266,East North Central,U,1,C,1
+11267,Middle Atlantic,R,1,R,1
+11268,Pacific,U,1,C,1
+11269,East South Central,U,1,C,1
+11270,East South Central,R,1,R,1
+11271,West North Central,U,1,C,1
+11272,West North Central,C,1,C,1
+11273,South Atlantic,U,1,C,1
+11274,Pacific,U,1,C,1
+11275,South Atlantic,U,1,C,1
+11276,South Atlantic,R,1,R,1
+11277,Mountain South,U,1,C,1
+11278,East North Central,U,1,C,1
+11279,South Atlantic,U,1,C,1
+11280,Middle Atlantic,U,1,C,1
+11281,East North Central,U,1,C,1
+11282,West North Central,C,1,C,1
+11283,New England,C,1,C,1
+11284,East South Central,U,0,C,0
+11285,West North Central,U,1,C,1
+11286,Middle Atlantic,R,1,R,1
+11287,East South Central,U,0,C,0
+11288,South Atlantic,U,0,C,0
+11289,Pacific,U,0,C,0
+11290,Pacific,U,1,C,1
+11291,West North Central,U,1,C,1
+11292,Pacific,U,1,C,1
+11293,South Atlantic,U,0,C,0
+11294,Pacific,U,1,C,1
+11295,Mountain South,U,0,C,0
+11296,East South Central,U,1,C,1
+11297,Pacific,C,1,C,1
+11298,Middle Atlantic,U,1,C,1
+11299,East North Central,U,1,C,1
+11300,East North Central,U,0,C,0
+11301,South Atlantic,U,0,C,0
+11302,East North Central,U,1,C,1
+11303,South Atlantic,U,0,C,0
+11304,West North Central,U,1,C,1
+11305,South Atlantic,R,1,R,1
+11306,West South Central,R,1,R,1
+11307,Pacific,C,1,C,1
+11308,Pacific,U,1,C,1
+11309,Mountain South,U,1,C,1
+11310,Middle Atlantic,U,1,C,1
+11311,West South Central,U,1,C,1
+11312,East South Central,U,1,C,1
+11313,Pacific,U,0,C,0
+11314,South Atlantic,R,1,R,1
+11315,Pacific,U,1,C,1
+11316,East North Central,U,1,C,1
+11317,Mountain South,U,1,C,1
+11318,West North Central,U,1,C,1
+11319,Pacific,U,1,C,1
+11320,West South Central,U,0,C,0
+11321,New England,U,1,C,1
+11322,Mountain South,U,0,C,0
+11323,West South Central,U,1,C,1
+11324,West South Central,U,1,C,1
+11325,South Atlantic,U,1,C,1
+11326,South Atlantic,R,1,R,1
+11327,West South Central,U,1,C,1
+11328,South Atlantic,R,1,R,1
+11329,Middle Atlantic,U,0,C,0
+11330,East South Central,R,0,R,0
+11331,Middle Atlantic,U,1,C,1
+11332,Middle Atlantic,U,1,C,1
+11333,East North Central,U,1,C,1
+11334,West South Central,U,1,C,1
+11335,East South Central,U,1,C,1
+11336,South Atlantic,U,1,C,1
+11337,East North Central,R,1,R,1
+11338,East North Central,U,1,C,1
+11339,Pacific,U,1,C,1
+11340,Pacific,R,1,R,1
+11341,Mountain South,U,1,C,1
+11342,East North Central,C,0,C,0
+11343,Middle Atlantic,R,1,R,1
+11344,Pacific,R,1,R,1
+11345,South Atlantic,U,0,C,0
+11346,Mountain North,U,1,C,1
+11347,East South Central,U,0,C,0
+11348,East North Central,U,0,C,0
+11349,South Atlantic,C,1,C,1
+11350,South Atlantic,R,0,R,0
+11351,East South Central,U,0,C,0
+11352,Mountain South,U,1,C,1
+11353,Pacific,U,0,C,0
+11354,East North Central,R,1,R,1
+11355,Middle Atlantic,U,1,C,1
+11356,South Atlantic,C,1,C,1
+11357,East South Central,R,1,R,1
+11358,South Atlantic,R,1,R,1
+11359,East North Central,R,1,R,1
+11360,South Atlantic,R,1,R,1
+11361,East South Central,U,1,C,1
+11362,East North Central,U,1,C,1
+11363,East North Central,C,1,C,1
+11364,West North Central,U,1,C,1
+11365,Middle Atlantic,U,1,C,1
+11366,East North Central,R,1,R,1
+11367,West South Central,C,1,C,1
+11368,South Atlantic,R,1,R,1
+11369,East North Central,U,1,C,1
+11370,South Atlantic,U,1,C,1
+11371,Pacific,U,1,C,1
+11372,West South Central,R,1,R,1
+11373,East North Central,C,0,C,0
+11374,South Atlantic,R,0,R,0
+11375,South Atlantic,U,0,C,0
+11376,Pacific,U,1,C,1
+11377,West North Central,U,1,C,1
+11378,East North Central,U,1,C,1
+11379,West North Central,R,1,R,1
+11380,Pacific,U,1,C,1
+11381,Mountain South,U,1,C,1
+11382,East South Central,U,1,C,1
+11383,Pacific,U,1,C,1
+11384,New England,U,1,C,1
+11385,West South Central,U,1,C,1
+11386,East South Central,C,1,C,1
+11387,West South Central,U,0,C,0
+11388,East North Central,R,0,R,0
+11389,South Atlantic,C,0,C,0
+11390,Middle Atlantic,U,1,C,1
+11391,Pacific,U,1,C,1
+11392,Pacific,R,1,R,1
+11393,West North Central,R,1,R,1
+11394,Pacific,U,0,C,0
+11395,East North Central,U,1,C,1
+11396,South Atlantic,U,1,C,1
+11397,West South Central,R,0,R,0
+11398,South Atlantic,R,0,R,0
+11399,West North Central,U,1,C,1
+11400,South Atlantic,R,1,R,1
+11401,East North Central,C,1,C,1
+11402,Pacific,U,1,C,1
+11403,Mountain South,R,1,R,1
+11404,South Atlantic,C,1,C,1
+11405,South Atlantic,U,1,C,1
+11406,Mountain South,R,1,R,1
+11407,East South Central,C,1,C,1
+11408,Pacific,U,1,C,1
+11409,Pacific,R,1,R,1
+11410,Pacific,C,1,C,1
+11411,East North Central,U,1,C,1
+11412,East South Central,U,1,C,1
+11413,East North Central,U,1,C,1
+11414,Pacific,R,1,R,1
+11415,South Atlantic,U,1,C,1
+11416,South Atlantic,U,1,C,1
+11417,South Atlantic,R,1,R,1
+11418,West South Central,U,1,C,1
+11419,West South Central,U,1,C,1
+11420,West South Central,U,1,C,1
+11421,East North Central,U,1,C,1
+11422,South Atlantic,R,1,R,1
+11423,East North Central,U,1,C,1
+11424,East South Central,U,1,C,1
+11425,Middle Atlantic,U,1,C,1
+11426,Middle Atlantic,U,1,C,1
+11427,West South Central,U,1,C,1
+11428,Pacific,U,1,C,1
+11429,Mountain South,U,1,C,1
+11430,Middle Atlantic,R,1,R,1
+11431,Middle Atlantic,U,1,C,1
+11432,East North Central,U,0,C,0
+11433,New England,U,1,C,1
+11434,West South Central,U,1,C,1
+11435,Mountain South,U,0,C,0
+11436,Middle Atlantic,U,1,C,1
+11437,East North Central,U,1,C,1
+11438,East South Central,C,1,C,1
+11439,Pacific,U,1,C,1
+11440,Middle Atlantic,R,1,R,1
+11441,New England,R,1,R,1
+11442,Pacific,U,1,C,1
+11443,Pacific,R,0,R,0
+11444,South Atlantic,U,0,C,0
+11445,East North Central,U,0,C,0
+11446,Mountain North,U,1,C,1
+11447,Pacific,U,0,C,0
+11448,Mountain North,U,1,C,1
+11449,Pacific,R,1,R,1
+11450,New England,R,1,R,1
+11451,South Atlantic,U,1,C,1
+11452,Mountain South,U,1,C,1
+11453,South Atlantic,U,1,C,1
+11454,East North Central,C,1,C,1
+11455,Pacific,U,0,C,0
+11456,Middle Atlantic,R,1,R,1
+11457,South Atlantic,U,1,C,1
+11458,South Atlantic,R,1,R,1
+11459,South Atlantic,U,1,C,1
+11460,South Atlantic,U,1,C,1
+11461,East North Central,U,1,C,1
+11462,West North Central,R,1,R,1
+11463,East South Central,U,1,C,1
+11464,West South Central,R,1,R,1
+11465,Pacific,U,1,C,1
+11466,East North Central,U,1,C,1
+11467,Pacific,R,1,R,1
+11468,Pacific,U,1,C,1
+11469,Middle Atlantic,C,1,C,1
+11470,South Atlantic,U,1,C,1
+11471,Mountain South,U,1,C,1
+11472,Pacific,U,1,C,1
+11473,Pacific,U,0,C,0
+11474,South Atlantic,U,1,C,1
+11475,South Atlantic,R,1,R,1
+11476,Pacific,U,1,C,1
+11477,Pacific,U,1,C,1
+11478,South Atlantic,U,0,C,0
+11479,West North Central,U,1,C,1
+11480,New England,U,0,C,0
+11481,West South Central,U,1,C,1
+11482,Pacific,U,1,C,1
+11483,East North Central,R,1,R,1
+11484,East North Central,U,1,C,1
+11485,West South Central,U,1,C,1
+11486,Pacific,R,1,R,1
+11487,South Atlantic,U,0,C,0
+11488,Middle Atlantic,U,1,C,1
+11489,West South Central,C,1,C,1
+11490,South Atlantic,U,1,C,1
+11491,South Atlantic,U,1,C,1
+11492,Middle Atlantic,U,1,C,1
+11493,East South Central,U,1,C,1
+11494,West North Central,U,1,C,1
+11495,Middle Atlantic,U,1,C,1
+11496,East South Central,U,1,C,1
+11497,Mountain North,U,1,C,1
+11498,Mountain North,U,1,C,1
+11499,Mountain South,U,1,C,1
+11500,Pacific,U,0,C,0
+11501,South Atlantic,C,1,C,1
+11502,East North Central,U,1,C,1
+11503,Pacific,U,1,C,1
+11504,West South Central,U,1,C,1
+11505,Pacific,U,1,C,1
+11506,East South Central,R,1,R,1
+11507,Pacific,U,1,C,1
+11508,Pacific,U,1,C,1
+11509,West North Central,U,1,C,1
+11510,East North Central,R,1,R,1
+11511,West South Central,R,1,R,1
+11512,East North Central,U,1,C,1
+11513,West South Central,U,1,C,1
+11514,South Atlantic,U,1,C,1
+11515,West North Central,U,0,C,0
+11516,South Atlantic,U,1,C,1
+11517,Pacific,U,1,C,1
+11518,East North Central,U,1,C,1
+11519,Pacific,U,1,C,1
+11520,South Atlantic,U,1,C,1
+11521,Pacific,U,0,C,0
+11522,East North Central,C,1,C,1
+11523,South Atlantic,U,1,C,1
+11524,East North Central,U,1,C,1
+11525,West South Central,U,1,C,1
+11526,Pacific,U,1,C,1
+11527,West North Central,R,1,R,1
+11528,East South Central,R,0,R,0
+11529,Middle Atlantic,U,1,C,1
+11530,New England,R,1,R,1
+11531,East North Central,U,0,C,0
+11532,East North Central,R,1,R,1
+11533,Pacific,U,1,C,1
+11534,Middle Atlantic,U,1,C,1
+11535,Pacific,U,1,C,1
+11536,Pacific,C,1,C,1
+11537,Pacific,U,1,C,1
+11538,South Atlantic,R,1,R,1
+11539,Pacific,U,1,C,1
+11540,Pacific,U,0,C,0
+11541,South Atlantic,U,1,C,1
+11542,East South Central,R,1,R,1
+11543,West South Central,U,0,C,0
+11544,East North Central,R,1,R,1
+11545,Pacific,U,0,C,0
+11546,Pacific,U,1,C,1
+11547,New England,R,1,R,1
+11548,West South Central,U,0,C,0
+11549,South Atlantic,U,1,C,1
+11550,East North Central,U,1,C,1
+11551,East North Central,R,1,R,1
+11552,East South Central,R,0,R,0
+11553,Pacific,U,1,C,1
+11554,South Atlantic,C,1,C,1
+11555,West South Central,U,1,C,1
+11556,New England,U,1,C,1
+11557,East North Central,U,1,C,1
+11558,West South Central,U,0,C,0
+11559,Pacific,U,1,C,1
+11560,New England,R,1,R,1
+11561,Mountain South,U,1,C,1
+11562,West South Central,R,0,R,0
+11563,West North Central,C,1,C,1
+11564,West North Central,U,0,C,0
+11565,East North Central,U,1,C,1
+11566,East South Central,R,1,R,1
+11567,East North Central,R,1,R,1
+11568,South Atlantic,U,1,C,1
+11569,East South Central,U,1,C,1
+11570,East North Central,U,1,C,1
+11571,South Atlantic,R,1,R,1
+11572,Mountain South,U,1,C,1
+11573,West North Central,C,1,C,1
+11574,South Atlantic,R,1,R,1
+11575,East South Central,R,0,R,0
+11576,Middle Atlantic,R,0,R,0
+11577,Mountain South,U,1,C,1
+11578,Mountain North,U,1,C,1
+11579,Middle Atlantic,R,1,R,1
+11580,South Atlantic,C,1,C,1
+11581,South Atlantic,U,1,C,1
+11582,Mountain South,U,0,C,0
+11583,South Atlantic,U,1,C,1
+11584,West North Central,C,1,C,1
+11585,East South Central,R,1,R,1
+11586,Mountain South,R,1,R,1
+11587,Pacific,U,1,C,1
+11588,Middle Atlantic,U,1,C,1
+11589,West North Central,U,1,C,1
+11590,East North Central,R,1,R,1
+11591,East North Central,R,1,R,1
+11592,Pacific,R,0,R,0
+11593,East North Central,U,1,C,1
+11594,East North Central,C,1,C,1
+11595,East North Central,U,1,C,1
+11596,South Atlantic,U,1,C,1
+11597,West North Central,C,1,C,1
+11598,East South Central,R,1,R,1
+11599,Pacific,R,1,R,1
+11600,Pacific,U,1,C,1
+11601,South Atlantic,U,1,C,1
+11602,Middle Atlantic,U,1,C,1
+11603,South Atlantic,U,1,C,1
+11604,Mountain South,U,1,C,1
+11605,Middle Atlantic,R,1,R,1
+11606,West North Central,U,1,C,1
+11607,South Atlantic,U,0,C,0
+11608,Mountain South,U,1,C,1
+11609,West North Central,R,1,R,1
+11610,South Atlantic,U,1,C,1
+11611,South Atlantic,R,1,R,1
+11612,West South Central,U,1,C,1
+11613,East North Central,U,1,C,1
+11614,South Atlantic,C,0,C,0
+11615,West South Central,R,0,R,0
+11616,Pacific,U,0,C,0
+11617,Middle Atlantic,U,0,C,0
+11618,Pacific,U,1,C,1
+11619,Mountain South,U,1,C,1
+11620,Middle Atlantic,U,1,C,1
+11621,East North Central,U,1,C,1
+11622,West North Central,R,1,R,1
+11623,East North Central,R,0,R,0
+11624,Mountain South,U,1,C,1
+11625,South Atlantic,U,0,C,0
+11626,West North Central,U,1,C,1
+11627,Pacific,U,1,C,1
+11628,East North Central,R,1,R,1
+11629,East North Central,U,1,C,1
+11630,Pacific,U,1,C,1
+11631,Pacific,U,0,C,0
+11632,Pacific,U,0,C,0
+11633,West North Central,C,1,C,1
+11634,West North Central,U,0,C,0
+11635,Middle Atlantic,U,1,C,1
+11636,Mountain South,U,1,C,1
+11637,West South Central,R,1,R,1
+11638,Pacific,U,1,C,1
+11639,South Atlantic,U,1,C,1
+11640,South Atlantic,R,1,R,1
+11641,Pacific,U,1,C,1
+11642,Middle Atlantic,U,1,C,1
+11643,West North Central,U,0,C,0
+11644,Pacific,U,1,C,1
+11645,East South Central,U,1,C,1
+11646,West North Central,R,1,R,1
+11647,West South Central,U,1,C,1
+11648,Middle Atlantic,U,1,C,1
+11649,Middle Atlantic,U,1,C,1
+11650,East North Central,R,1,R,1
+11651,Middle Atlantic,U,1,C,1
+11652,Middle Atlantic,U,1,C,1
+11653,West South Central,C,0,C,0
+11654,West South Central,U,1,C,1
+11655,Pacific,U,1,C,1
+11656,Pacific,R,1,R,1
+11657,Mountain South,U,1,C,1
+11658,East South Central,R,1,R,1
+11659,Mountain North,U,0,C,0
+11660,East North Central,R,1,R,1
+11661,East North Central,U,1,C,1
+11662,South Atlantic,R,1,R,1
+11663,East North Central,R,1,R,1
+11664,West North Central,R,1,R,1
+11665,East North Central,R,1,R,1
+11666,East South Central,R,0,R,0
+11667,West South Central,U,1,C,1
+11668,South Atlantic,R,1,R,1
+11669,South Atlantic,R,1,R,1
+11670,Middle Atlantic,U,1,C,1
+11671,Middle Atlantic,U,1,C,1
+11672,South Atlantic,R,1,R,1
+11673,South Atlantic,U,1,C,1
+11674,Pacific,U,1,C,1
+11675,South Atlantic,U,1,C,1
+11676,Pacific,U,0,C,0
+11677,East South Central,R,1,R,1
+11678,South Atlantic,U,1,C,1
+11679,East South Central,U,1,C,1
+11680,Middle Atlantic,U,1,C,1
+11681,Pacific,U,1,C,1
+11682,West North Central,C,1,C,1
+11683,Middle Atlantic,U,1,C,1
+11684,New England,U,0,C,0
+11685,South Atlantic,R,1,R,1
+11686,Mountain South,U,1,C,1
+11687,Pacific,U,1,C,1
+11688,West North Central,C,1,C,1
+11689,South Atlantic,R,1,R,1
+11690,New England,U,1,C,1
+11691,Pacific,U,1,C,1
+11692,Mountain South,U,1,C,1
+11693,East North Central,U,1,C,1
+11694,West South Central,C,1,C,1
+11695,West South Central,U,1,C,1
+11696,New England,R,1,R,1
+11697,Middle Atlantic,U,0,C,0
+11698,West North Central,C,1,C,1
+11699,East North Central,U,1,C,1
+11700,Middle Atlantic,U,1,C,1
+11701,East North Central,C,1,C,1
+11702,South Atlantic,C,1,C,1
+11703,West North Central,U,1,C,1
+11704,Pacific,U,0,C,0
+11705,East North Central,R,1,R,1
+11706,West North Central,R,0,R,0
+11707,South Atlantic,C,0,C,0
+11708,East South Central,U,1,C,1
+11709,East North Central,U,1,C,1
+11710,Pacific,R,1,R,1
+11711,East North Central,R,0,R,0
+11712,West North Central,U,1,C,1
+11713,East South Central,C,1,C,1
+11714,South Atlantic,U,1,C,1
+11715,West South Central,R,0,R,0
+11716,Pacific,C,0,C,0
+11717,East North Central,U,1,C,1
+11718,South Atlantic,C,1,C,1
+11719,West South Central,U,1,C,1
+11720,Pacific,U,1,C,1
+11721,Middle Atlantic,U,0,C,0
+11722,New England,C,1,C,1
+11723,Pacific,U,1,C,1
+11724,West South Central,U,1,C,1
+11725,Pacific,C,1,C,1
+11726,East North Central,U,1,C,1
+11727,South Atlantic,R,1,R,1
+11728,East South Central,C,1,C,1
+11729,Middle Atlantic,U,1,C,1
+11730,Pacific,U,1,C,1
+11731,West South Central,U,1,C,1
+11732,West North Central,U,1,C,1
+11733,South Atlantic,U,1,C,1
+11734,Middle Atlantic,U,1,C,1
+11735,West South Central,R,1,R,1
+11736,Mountain South,U,1,C,1
+11737,West South Central,U,1,C,1
+11738,Pacific,U,1,C,1
+11739,South Atlantic,U,1,C,1
+11740,South Atlantic,U,1,C,1
+11741,Middle Atlantic,U,1,C,1
+11742,Pacific,U,1,C,1
+11743,Mountain North,C,1,C,1
+11744,Pacific,U,1,C,1
+11745,Pacific,U,1,C,1
+11746,Mountain North,U,1,C,1
+11747,South Atlantic,R,1,R,1
+11748,South Atlantic,R,1,R,1
+11749,West South Central,U,1,C,1
+11750,South Atlantic,U,1,C,1
+11751,South Atlantic,U,1,C,1
+11752,New England,R,1,R,1
+11753,Middle Atlantic,U,1,C,1
+11754,South Atlantic,R,1,R,1
+11755,East South Central,U,1,C,1
+11756,Mountain North,R,1,R,1
+11757,South Atlantic,U,1,C,1
+11758,East North Central,U,1,C,1
+11759,Middle Atlantic,R,0,R,0
+11760,Middle Atlantic,U,0,C,0
+11761,Pacific,U,1,C,1
+11762,Pacific,U,1,C,1
+11763,East South Central,U,1,C,1
+11764,East South Central,R,1,R,1
+11765,South Atlantic,U,1,C,1
+11766,South Atlantic,U,1,C,1
+11767,Middle Atlantic,U,1,C,1
+11768,Pacific,U,1,C,1
+11769,South Atlantic,U,1,C,1
+11770,West South Central,U,1,C,1
+11771,Pacific,U,1,C,1
+11772,Middle Atlantic,R,1,R,1
+11773,South Atlantic,U,1,C,1
+11774,Pacific,U,1,C,1
+11775,Pacific,U,1,C,1
+11776,South Atlantic,U,0,C,0
+11777,South Atlantic,U,1,C,1
+11778,East South Central,R,1,R,1
+11779,Pacific,U,1,C,1
+11780,Pacific,C,1,C,1
+11781,East North Central,R,1,R,1
+11782,West South Central,R,1,R,1
+11783,South Atlantic,U,1,C,1
+11784,New England,U,1,C,1
+11785,South Atlantic,U,0,C,0
+11786,East North Central,U,1,C,1
+11787,Mountain South,R,1,R,1
+11788,Pacific,U,1,C,1
+11789,New England,U,1,C,1
+11790,Mountain South,U,1,C,1
+11791,Pacific,U,1,C,1
+11792,New England,R,1,R,1
+11793,Middle Atlantic,R,0,R,0
+11794,Middle Atlantic,U,1,C,1
+11795,Middle Atlantic,U,1,C,1
+11796,South Atlantic,R,1,R,1
+11797,East North Central,U,1,C,1
+11798,Middle Atlantic,U,1,C,1
+11799,Mountain South,U,0,C,0
+11800,South Atlantic,U,1,C,1
+11801,West North Central,R,1,R,1
+11802,Pacific,U,0,C,0
+11803,East South Central,C,1,C,1
+11804,East North Central,U,0,C,0
+11805,South Atlantic,U,1,C,1
+11806,South Atlantic,R,1,R,1
+11807,Middle Atlantic,U,1,C,1
+11808,West North Central,U,1,C,1
+11809,Mountain South,U,1,C,1
+11810,Mountain South,U,1,C,1
+11811,West North Central,R,1,R,1
+11812,Pacific,U,1,C,1
+11813,East South Central,U,1,C,1
+11814,East South Central,R,1,R,1
+11815,South Atlantic,U,1,C,1
+11816,West South Central,R,1,R,1
+11817,South Atlantic,R,0,R,0
+11818,Mountain North,U,0,C,0
+11819,East North Central,R,1,R,1
+11820,South Atlantic,U,1,C,1
+11821,East North Central,R,1,R,1
+11822,Middle Atlantic,U,0,C,0
+11823,Middle Atlantic,U,1,C,1
+11824,Pacific,U,1,C,1
+11825,West South Central,C,1,C,1
+11826,West North Central,U,0,C,0
+11827,Pacific,U,1,C,1
+11828,West South Central,R,1,R,1
+11829,New England,C,0,C,0
+11830,Middle Atlantic,U,1,C,1
+11831,West North Central,U,1,C,1
+11832,West North Central,U,1,C,1
+11833,West North Central,U,1,C,1
+11834,Pacific,U,1,C,1
+11835,West North Central,U,1,C,1
+11836,Mountain South,U,1,C,1
+11837,Mountain North,U,0,C,0
+11838,South Atlantic,U,1,C,1
+11839,West South Central,U,0,C,0
+11840,West North Central,R,0,R,0
+11841,Middle Atlantic,U,1,C,1
+11842,South Atlantic,U,1,C,1
+11843,Middle Atlantic,U,1,C,1
+11844,Pacific,U,1,C,1
+11845,New England,U,1,C,1
+11846,New England,C,1,C,1
+11847,East South Central,U,1,C,1
+11848,East South Central,U,1,C,1
+11849,Mountain South,U,1,C,1
+11850,West North Central,U,1,C,1
+11851,South Atlantic,U,1,C,1
+11852,Pacific,U,1,C,1
+11853,West North Central,U,1,C,1
+11854,West South Central,U,1,C,1
+11855,Middle Atlantic,U,1,C,1
+11856,Mountain South,R,0,R,0
+11857,West South Central,U,1,C,1
+11858,West South Central,C,0,C,0
+11859,Middle Atlantic,C,1,C,1
+11860,Mountain South,U,1,C,1
+11861,South Atlantic,U,1,C,1
+11862,South Atlantic,U,1,C,1
+11863,Middle Atlantic,U,0,C,0
+11864,New England,U,0,C,0
+11865,West North Central,U,1,C,1
+11866,West North Central,U,1,C,1
+11867,East North Central,U,1,C,1
+11868,South Atlantic,U,1,C,1
+11869,West South Central,C,1,C,1
+11870,New England,U,1,C,1
+11871,Mountain North,U,1,C,1
+11872,Pacific,U,1,C,1
+11873,Pacific,U,1,C,1
+11874,Pacific,R,1,R,1
+11875,South Atlantic,R,1,R,1
+11876,South Atlantic,R,1,R,1
+11877,South Atlantic,R,1,R,1
+11878,East North Central,C,1,C,1
+11879,Middle Atlantic,C,1,C,1
+11880,Pacific,U,1,C,1
+11881,New England,U,1,C,1
+11882,South Atlantic,U,1,C,1
+11883,East North Central,U,1,C,1
+11884,South Atlantic,U,1,C,1
+11885,West North Central,C,0,C,0
+11886,Mountain South,U,1,C,1
+11887,East South Central,U,1,C,1
+11888,South Atlantic,R,0,R,0
+11889,Middle Atlantic,U,1,C,1
+11890,Pacific,R,1,R,1
+11891,West North Central,U,1,C,1
+11892,Pacific,R,1,R,1
+11893,Mountain North,U,1,C,1
+11894,Middle Atlantic,U,1,C,1
+11895,West South Central,R,0,R,0
+11896,Middle Atlantic,U,1,C,1
+11897,South Atlantic,U,1,C,1
+11898,South Atlantic,R,1,R,1
+11899,East South Central,R,1,R,1
+11900,East South Central,U,1,C,1
+11901,Pacific,U,1,C,1
+11902,South Atlantic,R,1,R,1
+11903,Pacific,R,1,R,1
+11904,East North Central,R,1,R,1
+11905,New England,C,1,C,1
+11906,Middle Atlantic,U,1,C,1
+11907,South Atlantic,R,1,R,1
+11908,Pacific,U,1,C,1
+11909,West South Central,C,1,C,1
+11910,Middle Atlantic,U,1,C,1
+11911,Pacific,U,1,C,1
+11912,East North Central,U,1,C,1
+11913,Middle Atlantic,U,0,C,0
+11914,West South Central,R,1,R,1
+11915,East North Central,C,1,C,1
+11916,New England,U,1,C,1
+11917,West South Central,R,1,R,1
+11918,East North Central,U,0,C,0
+11919,South Atlantic,U,1,C,1
+11920,East South Central,U,1,C,1
+11921,Pacific,U,0,C,0
+11922,South Atlantic,U,1,C,1
+11923,Middle Atlantic,C,1,C,1
+11924,Middle Atlantic,U,1,C,1
+11925,Mountain North,U,1,C,1
+11926,Pacific,U,1,C,1
+11927,Pacific,U,1,C,1
+11928,South Atlantic,U,1,C,1
+11929,West North Central,U,1,C,1
+11930,East North Central,U,1,C,1
+11931,East South Central,U,0,C,0
+11932,East North Central,R,1,R,1
+11933,West North Central,R,0,R,0
+11934,East North Central,U,1,C,1
+11935,Pacific,C,1,C,1
+11936,Pacific,U,1,C,1
+11937,East North Central,U,1,C,1
+11938,West South Central,R,1,R,1
+11939,East North Central,U,1,C,1
+11940,West South Central,C,1,C,1
+11941,South Atlantic,R,0,R,0
+11942,Mountain South,U,1,C,1
+11943,Pacific,U,0,C,0
+11944,East North Central,U,1,C,1
+11945,West South Central,R,0,R,0
+11946,South Atlantic,U,1,C,1
+11947,West North Central,U,0,C,0
+11948,Pacific,U,1,C,1
+11949,East North Central,U,1,C,1
+11950,West South Central,R,1,R,1
+11951,Middle Atlantic,U,1,C,1
+11952,South Atlantic,U,1,C,1
+11953,South Atlantic,U,1,C,1
+11954,South Atlantic,U,1,C,1
+11955,Pacific,U,0,C,0
+11956,East North Central,U,1,C,1
+11957,East North Central,U,1,C,1
+11958,South Atlantic,U,1,C,1
+11959,Pacific,U,1,C,1
+11960,West South Central,U,1,C,1
+11961,Pacific,U,1,C,1
+11962,Pacific,U,0,C,0
+11963,Pacific,U,0,C,0
+11964,South Atlantic,U,1,C,1
+11965,Middle Atlantic,U,1,C,1
+11966,Pacific,U,1,C,1
+11967,East North Central,U,1,C,1
+11968,South Atlantic,U,1,C,1
+11969,East South Central,U,1,C,1
+11970,West South Central,U,1,C,1
+11971,Mountain North,R,1,R,1
+11972,West South Central,U,1,C,1
+11973,West South Central,U,0,C,0
+11974,South Atlantic,R,0,R,0
+11975,New England,U,0,C,0
+11976,West North Central,C,1,C,1
+11977,West South Central,R,1,R,1
+11978,Middle Atlantic,U,1,C,1
+11979,Middle Atlantic,U,0,C,0
+11980,Pacific,U,1,C,1
+11981,West South Central,U,1,C,1
+11982,West South Central,U,1,C,1
+11983,East North Central,U,1,C,1
+11984,South Atlantic,U,1,C,1
+11985,West South Central,R,1,R,1
+11986,South Atlantic,U,1,C,1
+11987,East North Central,C,1,C,1
+11988,Middle Atlantic,U,1,C,1
+11989,West South Central,R,1,R,1
+11990,Pacific,U,1,C,1
+11991,New England,C,1,C,1
+11992,South Atlantic,U,0,C,0
+11993,Pacific,U,1,C,1
+11994,West North Central,R,1,R,1
+11995,Middle Atlantic,U,1,C,1
+11996,West South Central,U,1,C,1
+11997,Mountain South,U,0,C,0
+11998,West South Central,R,1,R,1
+11999,West South Central,C,1,C,1
+12000,West South Central,U,0,C,0
+12001,East North Central,U,1,C,1
+12002,East North Central,U,1,C,1
+12003,West North Central,U,0,C,0
+12004,East North Central,U,1,C,1
+12005,Middle Atlantic,U,0,C,0
+12006,Middle Atlantic,U,1,C,1
+12007,South Atlantic,C,0,C,0
+12008,West South Central,U,1,C,1
+12009,New England,U,1,C,1
+12010,South Atlantic,U,1,C,1
+12011,New England,U,1,C,1
+12012,Pacific,U,1,C,1
+12013,Pacific,U,1,C,1
+12014,West South Central,R,1,R,1
+12015,West South Central,U,1,C,1
+12016,West North Central,R,1,R,1
+12017,Pacific,U,1,C,1
+12018,Pacific,U,1,C,1
+12019,West North Central,U,1,C,1
+12020,East North Central,U,1,C,1
+12021,Mountain South,U,1,C,1
+12022,West South Central,U,1,C,1
+12023,New England,R,1,R,1
+12024,Pacific,R,1,R,1
+12025,Mountain South,U,1,C,1
+12026,South Atlantic,U,1,C,1
+12027,East South Central,U,1,C,1
+12028,South Atlantic,C,1,C,1
+12029,Pacific,R,1,R,1
+12030,East North Central,R,1,R,1
+12031,Pacific,U,1,C,1
+12032,Mountain South,U,1,C,1
+12033,Mountain South,U,1,C,1
+12034,West South Central,U,1,C,1
+12035,New England,U,1,C,1
+12036,East North Central,U,1,C,1
+12037,East North Central,R,1,R,1
+12038,West South Central,U,0,C,0
+12039,South Atlantic,U,1,C,1
+12040,East North Central,R,1,R,1
+12041,Middle Atlantic,U,1,C,1
+12042,Mountain South,U,1,C,1
+12043,Mountain South,U,1,C,1
+12044,East South Central,U,0,C,0
+12045,Mountain South,U,1,C,1
+12046,West North Central,R,1,R,1
+12047,South Atlantic,U,1,C,1
+12048,South Atlantic,U,1,C,1
+12049,New England,R,1,R,1
+12050,East North Central,U,1,C,1
+12051,West South Central,U,1,C,1
+12052,Pacific,C,0,C,0
+12053,South Atlantic,R,0,R,0
+12054,New England,U,1,C,1
+12055,Middle Atlantic,U,1,C,1
+12056,South Atlantic,U,1,C,1
+12057,South Atlantic,R,1,R,1
+12058,South Atlantic,U,1,C,1
+12059,East South Central,U,1,C,1
+12060,Mountain North,U,1,C,1
+12061,East South Central,U,0,C,0
+12062,Pacific,U,1,C,1
+12063,South Atlantic,R,1,R,1
+12064,South Atlantic,U,1,C,1
+12065,West South Central,U,1,C,1
+12066,East North Central,U,1,C,1
+12067,Pacific,U,1,C,1
+12068,West North Central,U,1,C,1
+12069,West North Central,C,1,C,1
+12070,Mountain North,U,1,C,1
+12071,East North Central,R,1,R,1
+12072,South Atlantic,U,1,C,1
+12073,Middle Atlantic,U,1,C,1
+12074,Pacific,U,1,C,1
+12075,Pacific,U,1,C,1
+12076,Mountain North,U,1,C,1
+12077,South Atlantic,U,1,C,1
+12078,East South Central,U,1,C,1
+12079,South Atlantic,U,1,C,1
+12080,Pacific,U,1,C,1
+12081,East North Central,U,1,C,1
+12082,East South Central,U,0,C,0
+12083,Mountain South,R,1,R,1
+12084,Middle Atlantic,U,1,C,1
+12085,East North Central,U,1,C,1
+12086,Pacific,R,0,R,0
+12087,West South Central,R,1,R,1
+12088,West South Central,R,1,R,1
+12089,South Atlantic,U,1,C,1
+12090,West South Central,R,0,R,0
+12091,Mountain South,U,0,C,0
+12092,East North Central,U,1,C,1
+12093,West North Central,R,1,R,1
+12094,West North Central,U,0,C,0
+12095,West North Central,U,1,C,1
+12096,Mountain North,U,1,C,1
+12097,South Atlantic,U,1,C,1
+12098,West South Central,U,1,C,1
+12099,South Atlantic,R,1,R,1
+12100,New England,R,0,R,0
+12101,East South Central,U,1,C,1
+12102,East South Central,R,0,R,0
+12103,New England,U,1,C,1
+12104,New England,U,1,C,1
+12105,South Atlantic,U,1,C,1
+12106,Mountain North,U,1,C,1
+12107,East South Central,U,1,C,1
+12108,New England,R,1,R,1
+12109,South Atlantic,R,1,R,1
+12110,Pacific,C,1,C,1
+12111,Pacific,R,0,R,0
+12112,Middle Atlantic,C,1,C,1
+12113,New England,U,1,C,1
+12114,West North Central,U,0,C,0
+12115,Middle Atlantic,R,1,R,1
+12116,Mountain South,C,1,C,1
+12117,South Atlantic,U,1,C,1
+12118,West North Central,U,1,C,1
+12119,New England,C,0,C,0
+12120,West North Central,R,1,R,1
+12121,Mountain South,U,1,C,1
+12122,Pacific,U,1,C,1
+12123,West South Central,R,1,R,1
+12124,East North Central,U,1,C,1
+12125,South Atlantic,U,1,C,1
+12126,East North Central,U,1,C,1
+12127,West South Central,R,1,R,1
+12128,South Atlantic,U,1,C,1
+12129,East North Central,U,1,C,1
+12130,South Atlantic,R,1,R,1
+12131,West North Central,U,1,C,1
+12132,Middle Atlantic,R,1,R,1
+12133,South Atlantic,U,1,C,1
+12134,Pacific,U,1,C,1
+12135,South Atlantic,U,1,C,1
+12136,South Atlantic,U,1,C,1
+12137,Pacific,U,1,C,1
+12138,Mountain South,U,0,C,0
+12139,Mountain North,U,1,C,1
+12140,East North Central,C,1,C,1
+12141,South Atlantic,U,1,C,1
+12142,South Atlantic,R,1,R,1
+12143,South Atlantic,U,1,C,1
+12144,Pacific,U,1,C,1
+12145,Mountain South,U,1,C,1
+12146,New England,U,1,C,1
+12147,East North Central,U,1,C,1
+12148,Pacific,R,1,R,1
+12149,New England,U,0,C,0
+12150,Pacific,U,1,C,1
+12151,Mountain North,U,1,C,1
+12152,East North Central,U,1,C,1
+12153,East North Central,C,1,C,1
+12154,Pacific,U,1,C,1
+12155,West South Central,R,1,R,1
+12156,West North Central,U,1,C,1
+12157,New England,U,0,C,0
+12158,South Atlantic,U,1,C,1
+12159,Mountain North,R,0,R,0
+12160,South Atlantic,U,1,C,1
+12161,East South Central,C,1,C,1
+12162,Pacific,U,1,C,1
+12163,East North Central,U,1,C,1
+12164,West North Central,R,1,R,1
+12165,Middle Atlantic,U,1,C,1
+12166,West South Central,U,1,C,1
+12167,Mountain North,U,1,C,1
+12168,South Atlantic,U,1,C,1
+12169,Mountain South,U,1,C,1
+12170,South Atlantic,U,1,C,1
+12171,West South Central,R,1,R,1
+12172,Pacific,C,1,C,1
+12173,Pacific,U,1,C,1
+12174,West South Central,R,1,R,1
+12175,Pacific,U,1,C,1
+12176,Middle Atlantic,U,1,C,1
+12177,West South Central,U,1,C,1
+12178,South Atlantic,U,1,C,1
+12179,Pacific,U,1,C,1
+12180,Pacific,U,1,C,1
+12181,South Atlantic,U,0,C,0
+12182,Mountain North,R,1,R,1
+12183,West South Central,U,1,C,1
+12184,Pacific,U,1,C,1
+12185,Mountain North,U,1,C,1
+12186,Middle Atlantic,U,1,C,1
+12187,Pacific,U,1,C,1
+12188,East North Central,U,1,C,1
+12189,West South Central,C,1,C,1
+12190,Pacific,U,1,C,1
+12191,Middle Atlantic,U,1,C,1
+12192,Pacific,U,1,C,1
+12193,South Atlantic,C,1,C,1
+12194,East South Central,R,1,R,1
+12195,Middle Atlantic,U,1,C,1
+12196,East North Central,R,1,R,1
+12197,South Atlantic,U,1,C,1
+12198,West North Central,U,1,C,1
+12199,Mountain South,U,1,C,1
+12200,Mountain South,U,1,C,1
+12201,Pacific,U,1,C,1
+12202,Pacific,U,1,C,1
+12203,East South Central,R,0,R,0
+12204,East North Central,R,1,R,1
+12205,Middle Atlantic,U,1,C,1
+12206,West North Central,U,1,C,1
+12207,East North Central,U,1,C,1
+12208,South Atlantic,U,1,C,1
+12209,West South Central,R,1,R,1
+12210,South Atlantic,R,0,R,0
+12211,Pacific,U,1,C,1
+12212,West South Central,R,1,R,1
+12213,South Atlantic,U,1,C,1
+12214,Pacific,U,1,C,1
+12215,South Atlantic,U,0,C,0
+12216,South Atlantic,R,1,R,1
+12217,South Atlantic,C,0,C,0
+12218,Pacific,U,1,C,1
+12219,South Atlantic,U,1,C,1
+12220,South Atlantic,U,1,C,1
+12221,Pacific,U,0,C,0
+12222,New England,U,1,C,1
+12223,Pacific,U,1,C,1
+12224,South Atlantic,R,1,R,1
+12225,East South Central,U,1,C,1
+12226,South Atlantic,U,1,C,1
+12227,South Atlantic,C,1,C,1
+12228,South Atlantic,U,1,C,1
+12229,West North Central,U,1,C,1
+12230,Pacific,R,1,R,1
+12231,Middle Atlantic,U,1,C,1
+12232,South Atlantic,U,1,C,1
+12233,Mountain North,U,1,C,1
+12234,West South Central,U,1,C,1
+12235,Middle Atlantic,U,1,C,1
+12236,East North Central,U,1,C,1
+12237,West North Central,C,1,C,1
+12238,West North Central,U,1,C,1
+12239,South Atlantic,U,1,C,1
+12240,East North Central,C,0,C,0
+12241,South Atlantic,U,0,C,0
+12242,Mountain North,U,1,C,1
+12243,Pacific,U,0,C,0
+12244,Middle Atlantic,R,1,R,1
+12245,West North Central,C,1,C,1
+12246,East South Central,R,1,R,1
+12247,Middle Atlantic,U,1,C,1
+12248,East North Central,U,1,C,1
+12249,West North Central,C,1,C,1
+12250,Pacific,C,1,C,1
+12251,South Atlantic,U,1,C,1
+12252,Pacific,R,1,R,1
+12253,Pacific,U,1,C,1
+12254,South Atlantic,C,1,C,1
+12255,Mountain North,U,1,C,1
+12256,Mountain South,U,1,C,1
+12257,East North Central,C,0,C,0
+12258,Middle Atlantic,U,1,C,1
+12259,Middle Atlantic,U,1,C,1
+12260,Pacific,C,1,C,1
+12261,Pacific,U,1,C,1
+12262,West South Central,U,1,C,1
+12263,East North Central,U,1,C,1
+12264,Mountain North,C,1,C,1
+12265,Pacific,U,1,C,1
+12266,East North Central,U,1,C,1
+12267,West South Central,U,1,C,1
+12268,Middle Atlantic,U,0,C,0
+12269,South Atlantic,U,1,C,1
+12270,South Atlantic,U,1,C,1
+12271,South Atlantic,R,1,R,1
+12272,New England,U,1,C,1
+12273,West North Central,U,1,C,1
+12274,Pacific,U,1,C,1
+12275,East North Central,C,1,C,1
+12276,New England,U,1,C,1
+12277,Middle Atlantic,R,1,R,1
+12278,New England,U,1,C,1
+12279,East South Central,R,1,R,1
+12280,New England,R,1,R,1
+12281,Pacific,R,1,R,1
+12282,East North Central,U,0,C,0
+12283,South Atlantic,R,1,R,1
+12284,New England,R,1,R,1
+12285,Mountain South,U,1,C,1
+12286,Mountain North,U,1,C,1
+12287,East North Central,U,0,C,0
+12288,South Atlantic,U,0,C,0
+12289,Mountain North,U,1,C,1
+12290,West North Central,U,1,C,1
+12291,West South Central,U,1,C,1
+12292,West South Central,U,1,C,1
+12293,Pacific,U,1,C,1
+12294,East North Central,U,1,C,1
+12295,Middle Atlantic,R,1,R,1
+12296,East North Central,C,1,C,1
+12297,West North Central,R,1,R,1
+12298,South Atlantic,U,1,C,1
+12299,West North Central,U,1,C,1
+12300,South Atlantic,R,0,R,0
+12301,West North Central,C,1,C,1
+12302,Middle Atlantic,U,1,C,1
+12303,South Atlantic,U,1,C,1
+12304,Middle Atlantic,U,1,C,1
+12305,East South Central,C,1,C,1
+12306,Middle Atlantic,U,1,C,1
+12307,East South Central,U,0,C,0
+12308,East North Central,U,1,C,1
+12309,Mountain South,U,0,C,0
+12310,South Atlantic,U,1,C,1
+12311,Pacific,U,1,C,1
+12312,New England,U,1,C,1
+12313,Pacific,U,1,C,1
+12314,West South Central,R,1,R,1
+12315,East South Central,R,0,R,0
+12316,South Atlantic,U,1,C,1
+12317,West North Central,R,1,R,1
+12318,Middle Atlantic,U,1,C,1
+12319,South Atlantic,U,1,C,1
+12320,Pacific,R,1,R,1
+12321,Pacific,U,1,C,1
+12322,Pacific,U,1,C,1
+12323,Pacific,U,1,C,1
+12324,Pacific,U,1,C,1
+12325,East South Central,U,1,C,1
+12326,New England,U,1,C,1
+12327,West North Central,U,1,C,1
+12328,East North Central,U,1,C,1
+12329,Pacific,U,1,C,1
+12330,Pacific,R,1,R,1
+12331,Middle Atlantic,U,1,C,1
+12332,East South Central,U,1,C,1
+12333,East North Central,U,1,C,1
+12334,South Atlantic,R,1,R,1
+12335,South Atlantic,U,1,C,1
+12336,South Atlantic,R,1,R,1
+12337,South Atlantic,U,1,C,1
+12338,South Atlantic,U,1,C,1
+12339,West North Central,C,1,C,1
+12340,South Atlantic,U,1,C,1
+12341,East North Central,U,1,C,1
+12342,South Atlantic,U,1,C,1
+12343,West North Central,R,1,R,1
+12344,Pacific,U,1,C,1
+12345,West South Central,C,1,C,1
+12346,South Atlantic,U,1,C,1
+12347,South Atlantic,R,1,R,1
+12348,Mountain North,R,0,R,0
+12349,West North Central,U,1,C,1
+12350,East North Central,R,1,R,1
+12351,West North Central,U,1,C,1
+12352,Pacific,U,1,C,1
+12353,Pacific,U,1,C,1
+12354,West North Central,U,1,C,1
+12355,East South Central,C,1,C,1
+12356,West North Central,U,1,C,1
+12357,New England,R,1,R,1
+12358,Middle Atlantic,U,1,C,1
+12359,Pacific,U,1,C,1
+12360,Middle Atlantic,U,1,C,1
+12361,East North Central,R,1,R,1
+12362,West South Central,U,1,C,1
+12363,West North Central,C,1,C,1
+12364,West South Central,U,1,C,1
+12365,Pacific,U,1,C,1
+12366,West South Central,U,1,C,1
+12367,East North Central,R,1,R,1
+12368,West North Central,U,1,C,1
+12369,Pacific,U,1,C,1
+12370,East North Central,R,1,R,1
+12371,South Atlantic,U,1,C,1
+12372,East North Central,U,1,C,1
+12373,Pacific,U,1,C,1
+12374,Pacific,U,1,C,1
+12375,Pacific,U,1,C,1
+12376,Middle Atlantic,R,1,R,1
+12377,South Atlantic,U,0,C,0
+12378,New England,R,1,R,1
+12379,West South Central,R,1,R,1
+12380,East North Central,U,1,C,1
+12381,Mountain North,C,1,C,1
+12382,Mountain North,U,0,C,0
+12383,Pacific,U,1,C,1
+12384,South Atlantic,U,1,C,1
+12385,East South Central,R,1,R,1
+12386,Middle Atlantic,U,1,C,1
+12387,West North Central,R,1,R,1
+12388,South Atlantic,U,1,C,1
+12389,West North Central,U,0,C,0
+12390,Pacific,U,1,C,1
+12391,East North Central,R,1,R,1
+12392,West South Central,U,1,C,1
+12393,East North Central,R,1,R,1
+12394,South Atlantic,U,1,C,1
+12395,South Atlantic,U,1,C,1
+12396,Middle Atlantic,U,1,C,1
+12397,Mountain South,R,0,R,0
+12398,Pacific,U,1,C,1
+12399,West South Central,C,0,C,0
+12400,Middle Atlantic,U,1,C,1
+12401,East North Central,R,1,R,1
+12402,East North Central,U,1,C,1
+12403,Pacific,U,1,C,1
+12404,West North Central,U,1,C,1
+12405,Pacific,C,1,C,1
+12406,West South Central,C,1,C,1
+12407,South Atlantic,U,0,C,0
+12408,Pacific,U,1,C,1
+12409,Pacific,R,1,R,1
+12410,South Atlantic,C,1,C,1
+12411,West South Central,R,1,R,1
+12412,Mountain South,U,0,C,0
+12413,West South Central,R,1,R,1
+12414,Pacific,U,1,C,1
+12415,South Atlantic,R,1,R,1
+12416,Pacific,U,1,C,1
+12417,South Atlantic,U,1,C,1
+12418,West South Central,U,1,C,1
+12419,Mountain North,U,1,C,1
+12420,East North Central,U,1,C,1
+12421,South Atlantic,R,1,R,1
+12422,West South Central,U,1,C,1
+12423,South Atlantic,U,1,C,1
+12424,Pacific,U,1,C,1
+12425,Middle Atlantic,U,1,C,1
+12426,West South Central,U,0,C,0
+12427,East North Central,U,0,C,0
+12428,West North Central,R,0,R,0
+12429,East South Central,R,1,R,1
+12430,West South Central,U,0,C,0
+12431,East North Central,U,1,C,1
+12432,East North Central,U,1,C,1
+12433,New England,R,1,R,1
+12434,East North Central,R,1,R,1
+12435,West North Central,C,1,C,1
+12436,Pacific,U,1,C,1
+12437,East South Central,R,0,R,0
+12438,West South Central,U,1,C,1
+12439,Pacific,U,1,C,1
+12440,Middle Atlantic,U,1,C,1
+12441,Mountain South,U,1,C,1
+12442,Pacific,R,1,R,1
+12443,West South Central,C,1,C,1
+12444,Mountain North,U,1,C,1
+12445,East South Central,R,1,R,1
+12446,East North Central,C,1,C,1
+12447,Pacific,U,1,C,1
+12448,South Atlantic,U,1,C,1
+12449,Pacific,U,1,C,1
+12450,Pacific,U,1,C,1
+12451,Mountain South,U,1,C,1
+12452,Pacific,U,0,C,0
+12453,Middle Atlantic,U,0,C,0
+12454,East North Central,C,0,C,0
+12455,West North Central,R,0,R,0
+12456,West North Central,U,1,C,1
+12457,Middle Atlantic,C,0,C,0
+12458,East South Central,U,1,C,1
+12459,West South Central,R,1,R,1
+12460,Pacific,R,1,R,1
+12461,West North Central,R,1,R,1
+12462,West South Central,R,1,R,1
+12463,East North Central,U,1,C,1
+12464,East South Central,R,1,R,1
+12465,Pacific,U,1,C,1
+12466,Pacific,R,1,R,1
+12467,South Atlantic,R,1,R,1
+12468,Pacific,U,1,C,1
+12469,Pacific,U,1,C,1
+12470,South Atlantic,U,1,C,1
+12471,Pacific,U,0,C,0
+12472,Pacific,U,1,C,1
+12473,South Atlantic,U,1,C,1
+12474,South Atlantic,U,1,C,1
+12475,Pacific,C,1,C,1
+12476,South Atlantic,U,1,C,1
+12477,Pacific,U,1,C,1
+12478,West South Central,R,1,R,1
+12479,East North Central,U,1,C,1
+12480,Middle Atlantic,U,1,C,1
+12481,East North Central,R,1,R,1
+12482,New England,U,1,C,1
+12483,Middle Atlantic,U,1,C,1
+12484,East North Central,U,1,C,1
+12485,South Atlantic,R,1,R,1
+12486,Pacific,U,1,C,1
+12487,South Atlantic,R,1,R,1
+12488,South Atlantic,U,0,C,0
+12489,East North Central,U,1,C,1
+12490,Middle Atlantic,R,1,R,1
+12491,West South Central,R,1,R,1
+12492,South Atlantic,U,1,C,1
+12493,West North Central,R,1,R,1
+12494,New England,C,1,C,1
+12495,Middle Atlantic,U,1,C,1
+12496,Mountain South,U,0,C,0
+12497,West North Central,U,1,C,1
+12498,East North Central,U,1,C,1
+12499,South Atlantic,U,1,C,1
+12500,West South Central,R,0,R,0
+12501,East North Central,R,1,R,1
+12502,South Atlantic,U,1,C,1
+12503,Mountain North,U,1,C,1
+12504,Middle Atlantic,U,1,C,1
+12505,Pacific,U,1,C,1
+12506,South Atlantic,R,1,R,1
+12507,Pacific,U,1,C,1
+12508,Mountain North,R,1,R,1
+12509,South Atlantic,U,1,C,1
+12510,South Atlantic,U,1,C,1
+12511,New England,C,1,C,1
+12512,Mountain North,R,1,R,1
+12513,East North Central,U,1,C,1
+12514,New England,U,1,C,1
+12515,Pacific,U,1,C,1
+12516,South Atlantic,U,1,C,1
+12517,Pacific,C,1,C,1
+12518,Mountain South,U,1,C,1
+12519,Pacific,U,1,C,1
+12520,Pacific,U,1,C,1
+12521,Pacific,U,1,C,1
+12522,South Atlantic,U,1,C,1
+12523,Pacific,R,0,R,0
+12524,Pacific,U,1,C,1
+12525,Pacific,U,1,C,1
+12526,South Atlantic,U,1,C,1
+12527,East North Central,R,1,R,1
+12528,East North Central,U,1,C,1
+12529,West North Central,R,1,R,1
+12530,New England,U,1,C,1
+12531,West South Central,U,1,C,1
+12532,West South Central,U,1,C,1
+12533,East North Central,U,1,C,1
+12534,West North Central,U,1,C,1
+12535,East North Central,U,1,C,1
+12536,South Atlantic,U,1,C,1
+12537,South Atlantic,R,1,R,1
+12538,New England,U,1,C,1
+12539,Mountain South,U,1,C,1
+12540,Middle Atlantic,U,1,C,1
+12541,Middle Atlantic,U,1,C,1
+12542,East South Central,R,1,R,1
+12543,West North Central,U,1,C,1
+12544,Pacific,U,0,C,0
+12545,Mountain South,U,1,C,1
+12546,West North Central,U,1,C,1
+12547,Pacific,U,1,C,1
+12548,New England,U,1,C,1
+12549,Pacific,U,1,C,1
+12550,West North Central,U,1,C,1
+12551,Pacific,U,1,C,1
+12552,Middle Atlantic,U,1,C,1
+12553,South Atlantic,U,1,C,1
+12554,East South Central,U,0,C,0
+12555,Pacific,U,1,C,1
+12556,South Atlantic,U,1,C,1
+12557,South Atlantic,U,1,C,1
+12558,Middle Atlantic,U,1,C,1
+12559,Middle Atlantic,U,1,C,1
+12560,Mountain South,U,0,C,0
+12561,East North Central,U,1,C,1
+12562,Middle Atlantic,R,1,R,1
+12563,Pacific,U,1,C,1
+12564,Pacific,U,1,C,1
+12565,New England,U,1,C,1
+12566,West South Central,C,1,C,1
+12567,Pacific,C,1,C,1
+12568,West North Central,R,1,R,1
+12569,East South Central,U,1,C,1
+12570,South Atlantic,U,1,C,1
+12571,West South Central,U,1,C,1
+12572,South Atlantic,R,1,R,1
+12573,West South Central,R,1,R,1
+12574,Middle Atlantic,R,1,R,1
+12575,Mountain North,U,1,C,1
+12576,South Atlantic,R,0,R,0
+12577,Mountain South,U,1,C,1
+12578,Pacific,U,1,C,1
+12579,West South Central,U,1,C,1
+12580,West North Central,C,1,C,1
+12581,South Atlantic,R,1,R,1
+12582,Mountain North,R,1,R,1
+12583,Middle Atlantic,U,0,C,0
+12584,East South Central,R,1,R,1
+12585,South Atlantic,U,1,C,1
+12586,Pacific,U,1,C,1
+12587,West South Central,U,1,C,1
+12588,South Atlantic,U,1,C,1
+12589,Mountain North,C,1,C,1
+12590,Mountain South,U,1,C,1
+12591,Middle Atlantic,R,1,R,1
+12592,West North Central,C,1,C,1
+12593,West South Central,R,1,R,1
+12594,Middle Atlantic,U,1,C,1
+12595,South Atlantic,U,1,C,1
+12596,Pacific,U,1,C,1
+12597,Pacific,U,1,C,1
+12598,East North Central,U,1,C,1
+12599,East North Central,R,1,R,1
+12600,Pacific,U,1,C,1
+12601,Middle Atlantic,U,1,C,1
+12602,South Atlantic,U,1,C,1
+12603,East North Central,C,1,C,1
+12604,East North Central,R,1,R,1
+12605,Pacific,R,1,R,1
+12606,South Atlantic,U,1,C,1
+12607,South Atlantic,U,1,C,1
+12608,East North Central,U,1,C,1
+12609,West South Central,U,0,C,0
+12610,Pacific,U,1,C,1
+12611,Pacific,U,1,C,1
+12612,South Atlantic,R,1,R,1
+12613,New England,R,1,R,1
+12614,West South Central,C,1,C,1
+12615,West South Central,R,1,R,1
+12616,South Atlantic,U,1,C,1
+12617,Pacific,R,1,R,1
+12618,West South Central,U,0,C,0
+12619,South Atlantic,U,1,C,1
+12620,West North Central,U,1,C,1
+12621,Mountain North,C,0,C,0
+12622,West South Central,U,1,C,1
+12623,East South Central,U,1,C,1
+12624,East North Central,U,0,C,0
+12625,East South Central,R,1,R,1
+12626,South Atlantic,U,1,C,1
+12627,East North Central,U,1,C,1
+12628,South Atlantic,U,1,C,1
+12629,East North Central,R,1,R,1
+12630,East South Central,U,1,C,1
+12631,South Atlantic,R,1,R,1
+12632,Pacific,U,1,C,1
+12633,East North Central,U,1,C,1
+12634,Mountain South,U,1,C,1
+12635,Middle Atlantic,R,1,R,1
+12636,Pacific,U,1,C,1
+12637,South Atlantic,U,1,C,1
+12638,Pacific,U,1,C,1
+12639,West North Central,R,0,R,0
+12640,West South Central,U,0,C,0
+12641,Pacific,U,1,C,1
+12642,Pacific,C,1,C,1
+12643,East North Central,R,1,R,1
+12644,Pacific,R,1,R,1
+12645,Mountain South,U,1,C,1
+12646,Middle Atlantic,U,1,C,1
+12647,West South Central,R,1,R,1
+12648,West North Central,R,1,R,1
+12649,East South Central,R,1,R,1
+12650,East North Central,U,1,C,1
+12651,East South Central,U,1,C,1
+12652,Middle Atlantic,U,1,C,1
+12653,East North Central,U,1,C,1
+12654,East South Central,C,1,C,1
+12655,Mountain North,C,0,C,0
+12656,South Atlantic,U,1,C,1
+12657,Pacific,U,1,C,1
+12658,West North Central,C,1,C,1
+12659,Pacific,U,1,C,1
+12660,Pacific,U,1,C,1
+12661,South Atlantic,U,1,C,1
+12662,East North Central,U,0,C,0
+12663,Middle Atlantic,U,1,C,1
+12664,West North Central,U,1,C,1
+12665,East North Central,U,1,C,1
+12666,South Atlantic,U,1,C,1
+12667,Middle Atlantic,U,1,C,1
+12668,New England,R,1,R,1
+12669,West North Central,U,1,C,1
+12670,West South Central,U,1,C,1
+12671,Mountain North,U,0,C,0
+12672,South Atlantic,U,1,C,1
+12673,South Atlantic,R,1,R,1
+12674,Mountain South,U,1,C,1
+12675,East North Central,U,1,C,1
+12676,Pacific,U,1,C,1
+12677,East North Central,U,0,C,0
+12678,East North Central,R,1,R,1
+12679,Middle Atlantic,R,1,R,1
+12680,Mountain South,U,1,C,1
+12681,East North Central,R,1,R,1
+12682,Mountain North,U,1,C,1
+12683,West South Central,C,0,C,0
+12684,South Atlantic,U,1,C,1
+12685,Mountain North,R,1,R,1
+12686,South Atlantic,U,0,C,0
+12687,Middle Atlantic,U,0,C,0
+12688,Pacific,U,1,C,1
+12689,Mountain South,R,0,R,0
+12690,East North Central,U,0,C,0
+12691,West South Central,C,1,C,1
+12692,Mountain South,U,1,C,1
+12693,West North Central,U,1,C,1
+12694,Pacific,U,1,C,1
+12695,East North Central,U,1,C,1
+12696,Middle Atlantic,U,1,C,1
+12697,Pacific,C,0,C,0
+12698,East North Central,U,1,C,1
+12699,Pacific,U,1,C,1
+12700,West North Central,R,1,R,1
+12701,Middle Atlantic,U,1,C,1
+12702,Middle Atlantic,C,0,C,0
+12703,New England,C,0,C,0
+12704,West South Central,U,1,C,1
+12705,South Atlantic,R,1,R,1
+12706,Pacific,U,1,C,1
+12707,East North Central,U,1,C,1
+12708,Pacific,U,1,C,1
+12709,Mountain North,U,1,C,1
+12710,Pacific,U,1,C,1
+12711,South Atlantic,R,1,R,1
+12712,Pacific,R,0,R,0
+12713,South Atlantic,U,1,C,1
+12714,South Atlantic,U,1,C,1
+12715,Mountain South,U,1,C,1
+12716,New England,R,1,R,1
+12717,East South Central,U,1,C,1
+12718,Middle Atlantic,R,1,R,1
+12719,Pacific,U,1,C,1
+12720,West South Central,U,1,C,1
+12721,East South Central,C,1,C,1
+12722,East South Central,C,0,C,0
+12723,East South Central,R,0,R,0
+12724,West North Central,U,1,C,1
+12725,Pacific,U,0,C,0
+12726,East South Central,U,1,C,1
+12727,West South Central,U,1,C,1
+12728,Pacific,U,1,C,1
+12729,South Atlantic,C,1,C,1
+12730,West South Central,U,1,C,1
+12731,Pacific,U,1,C,1
+12732,Mountain North,U,1,C,1
+12733,Pacific,U,1,C,1
+12734,South Atlantic,R,0,R,0
+12735,Pacific,U,1,C,1
+12736,Pacific,U,1,C,1
+12737,Middle Atlantic,U,1,C,1
+12738,New England,U,1,C,1
+12739,Mountain South,U,1,C,1
+12740,Pacific,U,1,C,1
+12741,South Atlantic,R,1,R,1
+12742,East North Central,U,1,C,1
+12743,Pacific,U,1,C,1
+12744,West South Central,U,1,C,1
+12745,Pacific,U,1,C,1
+12746,South Atlantic,U,1,C,1
+12747,Pacific,U,1,C,1
+12748,South Atlantic,U,1,C,1
+12749,Middle Atlantic,R,1,R,1
+12750,South Atlantic,U,1,C,1
+12751,Pacific,C,1,C,1
+12752,Pacific,R,0,R,0
+12753,West South Central,R,1,R,1
+12754,Pacific,U,1,C,1
+12755,New England,C,1,C,1
+12756,Mountain South,U,1,C,1
+12757,South Atlantic,U,1,C,1
+12758,South Atlantic,U,1,C,1
+12759,Pacific,U,1,C,1
+12760,West North Central,U,1,C,1
+12761,West North Central,U,1,C,1
+12762,West South Central,C,1,C,1
+12763,South Atlantic,R,1,R,1
+12764,East North Central,U,1,C,1
+12765,West South Central,U,1,C,1
+12766,East South Central,C,1,C,1
+12767,East South Central,R,1,R,1
+12768,Middle Atlantic,U,0,C,0
+12769,Pacific,U,1,C,1
+12770,East North Central,C,1,C,1
+12771,West North Central,U,0,C,0
+12772,Middle Atlantic,U,1,C,1
+12773,West North Central,C,1,C,1
+12774,Mountain South,U,1,C,1
+12775,Middle Atlantic,U,1,C,1
+12776,Pacific,U,1,C,1
+12777,West South Central,R,1,R,1
+12778,South Atlantic,U,1,C,1
+12779,West North Central,U,1,C,1
+12780,East North Central,C,1,C,1
+12781,South Atlantic,U,1,C,1
+12782,Pacific,U,1,C,1
+12783,South Atlantic,U,0,C,0
+12784,Pacific,U,1,C,1
+12785,Pacific,U,1,C,1
+12786,West North Central,U,1,C,1
+12787,Middle Atlantic,U,1,C,1
+12788,East North Central,U,1,C,1
+12789,West North Central,U,1,C,1
+12790,East South Central,R,0,R,0
+12791,Mountain North,R,0,R,0
+12792,Mountain South,U,1,C,1
+12793,New England,U,0,C,0
+12794,Pacific,U,1,C,1
+12795,Pacific,U,1,C,1
+12796,Pacific,U,1,C,1
+12797,South Atlantic,U,1,C,1
+12798,West South Central,U,0,C,0
+12799,South Atlantic,R,1,R,1
+12800,Middle Atlantic,C,1,C,1
+12801,New England,U,1,C,1
+12802,South Atlantic,C,1,C,1
+12803,Pacific,R,1,R,1
+12804,South Atlantic,U,1,C,1
+12805,Pacific,U,1,C,1
+12806,West South Central,U,1,C,1
+12807,West North Central,U,1,C,1
+12808,East South Central,C,0,C,0
+12809,West South Central,U,1,C,1
+12810,East North Central,U,1,C,1
+12811,East North Central,U,1,C,1
+12812,South Atlantic,U,0,C,0
+12813,East North Central,C,1,C,1
+12814,West North Central,U,1,C,1
+12815,West South Central,U,0,C,0
+12816,Pacific,R,1,R,1
+12817,West South Central,R,0,R,0
+12818,East North Central,R,1,R,1
+12819,West North Central,C,0,C,0
+12820,East North Central,U,1,C,1
+12821,West South Central,U,1,C,1
+12822,East North Central,U,1,C,1
+12823,East North Central,U,1,C,1
+12824,East South Central,C,0,C,0
+12825,Mountain South,U,1,C,1
+12826,Pacific,R,1,R,1
+12827,Middle Atlantic,U,0,C,0
+12828,Pacific,U,1,C,1
+12829,West North Central,R,1,R,1
+12830,East North Central,U,0,C,0
+12831,South Atlantic,U,1,C,1
+12832,West North Central,C,1,C,1
+12833,Pacific,U,1,C,1
+12834,Pacific,U,1,C,1
+12835,West North Central,U,1,C,1
+12836,Pacific,U,1,C,1
+12837,Middle Atlantic,U,1,C,1
+12838,East South Central,U,0,C,0
+12839,Middle Atlantic,U,1,C,1
+12840,West South Central,U,1,C,1
+12841,Middle Atlantic,U,1,C,1
+12842,Pacific,U,1,C,1
+12843,South Atlantic,U,1,C,1
+12844,Pacific,U,1,C,1
+12845,East North Central,U,1,C,1
+12846,West South Central,U,1,C,1
+12847,East North Central,C,0,C,0
+12848,East North Central,C,1,C,1
+12849,West North Central,C,1,C,1
+12850,West North Central,U,1,C,1
+12851,South Atlantic,U,1,C,1
+12852,East North Central,U,1,C,1
+12853,Pacific,U,1,C,1
+12854,Pacific,U,1,C,1
+12855,South Atlantic,U,1,C,1
+12856,Mountain North,C,1,C,1
+12857,East North Central,C,1,C,1
+12858,South Atlantic,U,1,C,1
+12859,Middle Atlantic,C,1,C,1
+12860,Pacific,U,1,C,1
+12861,Middle Atlantic,U,1,C,1
+12862,Pacific,R,1,R,1
+12863,East North Central,U,1,C,1
+12864,East North Central,R,1,R,1
+12865,East North Central,U,1,C,1
+12866,New England,U,0,C,0
+12867,East South Central,R,1,R,1
+12868,East North Central,R,1,R,1
+12869,Pacific,U,1,C,1
+12870,Pacific,U,1,C,1
+12871,Mountain North,U,0,C,0
+12872,West South Central,U,1,C,1
+12873,West South Central,R,1,R,1
+12874,South Atlantic,R,1,R,1
+12875,West North Central,U,0,C,0
+12876,New England,U,1,C,1
+12877,East North Central,C,1,C,1
+12878,West North Central,U,1,C,1
+12879,West North Central,R,1,R,1
+12880,West North Central,R,0,R,0
+12881,New England,R,1,R,1
+12882,West South Central,R,0,R,0
+12883,Pacific,R,1,R,1
+12884,Pacific,U,1,C,1
+12885,Middle Atlantic,U,1,C,1
+12886,Middle Atlantic,U,1,C,1
+12887,South Atlantic,U,1,C,1
+12888,Pacific,U,0,C,0
+12889,Mountain North,R,1,R,1
+12890,South Atlantic,U,1,C,1
+12891,Pacific,U,1,C,1
+12892,Middle Atlantic,U,1,C,1
+12893,Pacific,C,0,C,0
+12894,Pacific,R,1,R,1
+12895,East South Central,R,1,R,1
+12896,South Atlantic,U,1,C,1
+12897,West South Central,U,1,C,1
+12898,West North Central,U,1,C,1
+12899,Middle Atlantic,R,1,R,1
+12900,West North Central,U,1,C,1
+12901,East North Central,U,1,C,1
+12902,Mountain South,U,1,C,1
+12903,West South Central,R,1,R,1
+12904,East North Central,R,1,R,1
+12905,East North Central,R,0,R,0
+12906,East South Central,U,1,C,1
+12907,Pacific,U,1,C,1
+12908,East South Central,U,0,C,0
+12909,Pacific,U,1,C,1
+12910,West South Central,U,1,C,1
+12911,South Atlantic,U,1,C,1
+12912,Pacific,U,1,C,1
+12913,Mountain North,R,1,R,1
+12914,East South Central,U,1,C,1
+12915,East South Central,C,1,C,1
+12916,East North Central,U,1,C,1
+12917,Pacific,U,1,C,1
+12918,East North Central,U,0,C,0
+12919,Pacific,U,1,C,1
+12920,Pacific,U,1,C,1
+12921,West South Central,R,0,R,0
+12922,Pacific,R,1,R,1
+12923,South Atlantic,U,1,C,1
+12924,Pacific,U,1,C,1
+12925,West South Central,U,1,C,1
+12926,West South Central,U,1,C,1
+12927,Mountain South,R,1,R,1
+12928,Mountain South,C,1,C,1
+12929,East North Central,U,1,C,1
+12930,New England,R,1,R,1
+12931,Pacific,U,1,C,1
+12932,West South Central,R,1,R,1
+12933,East North Central,U,1,C,1
+12934,New England,R,1,R,1
+12935,South Atlantic,U,1,C,1
+12936,Mountain South,U,1,C,1
+12937,West North Central,C,1,C,1
+12938,South Atlantic,U,1,C,1
+12939,Pacific,U,1,C,1
+12940,Pacific,U,1,C,1
+12941,West North Central,R,1,R,1
+12942,Pacific,U,1,C,1
+12943,East North Central,R,1,R,1
+12944,Pacific,R,1,R,1
+12945,New England,C,1,C,1
+12946,Mountain North,R,1,R,1
+12947,Middle Atlantic,U,1,C,1
+12948,South Atlantic,U,1,C,1
+12949,Pacific,U,1,C,1
+12950,East North Central,U,1,C,1
+12951,South Atlantic,U,1,C,1
+12952,Pacific,U,1,C,1
+12953,Pacific,U,1,C,1
+12954,West South Central,U,1,C,1
+12955,Mountain North,U,1,C,1
+12956,New England,U,1,C,1
+12957,South Atlantic,U,1,C,1
+12958,East North Central,U,1,C,1
+12959,Mountain North,U,1,C,1
+12960,Pacific,U,1,C,1
+12961,East North Central,R,0,R,0
+12962,Mountain North,U,0,C,0
+12963,West South Central,U,1,C,1
+12964,East South Central,R,1,R,1
+12965,East North Central,U,1,C,1
+12966,West South Central,R,1,R,1
+12967,Pacific,U,1,C,1
+12968,South Atlantic,U,1,C,1
+12969,West South Central,U,1,C,1
+12970,East South Central,R,0,R,0
+12971,East North Central,R,1,R,1
+12972,Middle Atlantic,R,1,R,1
+12973,West North Central,U,1,C,1
+12974,South Atlantic,R,1,R,1
+12975,Middle Atlantic,U,1,C,1
+12976,East North Central,R,1,R,1
+12977,West South Central,U,1,C,1
+12978,East South Central,U,0,C,0
+12979,South Atlantic,U,1,C,1
+12980,Mountain North,R,1,R,1
+12981,West North Central,U,1,C,1
+12982,South Atlantic,U,1,C,1
+12983,West North Central,R,1,R,1
+12984,East North Central,R,1,R,1
+12985,West North Central,U,1,C,1
+12986,Mountain North,R,1,R,1
+12987,South Atlantic,U,1,C,1
+12988,Pacific,R,1,R,1
+12989,Pacific,U,1,C,1
+12990,Mountain North,U,1,C,1
+12991,West South Central,U,0,C,0
+12992,East North Central,U,1,C,1
+12993,West North Central,U,1,C,1
+12994,South Atlantic,R,1,R,1
+12995,Middle Atlantic,U,1,C,1
+12996,West South Central,U,1,C,1
+12997,Pacific,R,1,R,1
+12998,Pacific,U,1,C,1
+12999,Pacific,U,0,C,0
+13000,West North Central,C,1,C,1
+13001,West North Central,C,1,C,1
+13002,West South Central,R,0,R,0
+13003,East North Central,C,1,C,1
+13004,East North Central,U,1,C,1
+13005,West South Central,U,0,C,0
+13006,Pacific,U,0,C,0
+13007,West South Central,C,1,C,1
+13008,East North Central,U,0,C,0
+13009,West North Central,U,1,C,1
+13010,Middle Atlantic,U,1,C,1
+13011,Pacific,U,1,C,1
+13012,Pacific,U,1,C,1
+13013,West North Central,C,1,C,1
+13014,Pacific,U,1,C,1
+13015,East South Central,R,1,R,1
+13016,South Atlantic,U,1,C,1
+13017,Middle Atlantic,U,1,C,1
+13018,East North Central,U,1,C,1
+13019,Mountain South,U,0,C,0
+13020,Pacific,U,1,C,1
+13021,New England,R,1,R,1
+13022,Mountain North,U,1,C,1
+13023,Middle Atlantic,U,1,C,1
+13024,South Atlantic,U,1,C,1
+13025,Pacific,U,0,C,0
+13026,West South Central,R,1,R,1
+13027,Pacific,U,1,C,1
+13028,West North Central,U,0,C,0
+13029,Pacific,U,1,C,1
+13030,New England,C,1,C,1
+13031,East North Central,U,0,C,0
+13032,South Atlantic,U,1,C,1
+13033,Pacific,U,1,C,1
+13034,Middle Atlantic,U,1,C,1
+13035,South Atlantic,U,1,C,1
+13036,Middle Atlantic,U,1,C,1
+13037,East South Central,U,1,C,1
+13038,South Atlantic,U,1,C,1
+13039,East North Central,U,1,C,1
+13040,East North Central,U,1,C,1
+13041,Pacific,U,1,C,1
+13042,South Atlantic,R,1,R,1
+13043,Pacific,U,1,C,1
+13044,Pacific,U,1,C,1
+13045,Middle Atlantic,U,1,C,1
+13046,South Atlantic,U,1,C,1
+13047,New England,R,1,R,1
+13048,South Atlantic,U,1,C,1
+13049,West North Central,R,1,R,1
+13050,East South Central,R,0,R,0
+13051,East North Central,R,0,R,0
+13052,South Atlantic,U,0,C,0
+13053,South Atlantic,R,0,R,0
+13054,South Atlantic,U,1,C,1
+13055,Middle Atlantic,U,1,C,1
+13056,Pacific,U,1,C,1
+13057,West South Central,R,1,R,1
+13058,West North Central,U,1,C,1
+13059,East North Central,U,1,C,1
+13060,East North Central,R,1,R,1
+13061,Mountain North,U,1,C,1
+13062,South Atlantic,U,1,C,1
+13063,East North Central,R,1,R,1
+13064,West South Central,U,1,C,1
+13065,Pacific,U,1,C,1
+13066,South Atlantic,C,1,C,1
+13067,Mountain South,R,1,R,1
+13068,Pacific,U,1,C,1
+13069,South Atlantic,U,0,C,0
+13070,Middle Atlantic,U,1,C,1
+13071,Mountain North,U,1,C,1
+13072,South Atlantic,U,1,C,1
+13073,East North Central,U,1,C,1
+13074,East North Central,C,1,C,1
+13075,Pacific,R,1,R,1
+13076,South Atlantic,R,1,R,1
+13077,Mountain South,U,1,C,1
+13078,Pacific,U,1,C,1
+13079,East North Central,U,1,C,1
+13080,New England,U,1,C,1
+13081,East North Central,U,1,C,1
+13082,Mountain South,U,1,C,1
+13083,East North Central,R,1,R,1
+13084,Pacific,C,1,C,1
+13085,East North Central,U,1,C,1
+13086,Mountain South,U,0,C,0
+13087,East South Central,U,1,C,1
+13088,West North Central,C,1,C,1
+13089,West North Central,U,1,C,1
+13090,Pacific,U,1,C,1
+13091,East North Central,U,1,C,1
+13092,South Atlantic,R,1,R,1
+13093,East North Central,U,1,C,1
+13094,East North Central,C,1,C,1
+13095,South Atlantic,U,1,C,1
+13096,Pacific,U,1,C,1
+13097,Pacific,U,1,C,1
+13098,West South Central,U,1,C,1
+13099,East North Central,R,0,R,0
+13100,East North Central,U,1,C,1
+13101,West North Central,U,1,C,1
+13102,South Atlantic,U,1,C,1
+13103,Middle Atlantic,C,1,C,1
+13104,West North Central,R,1,R,1
+13105,South Atlantic,R,1,R,1
+13106,Pacific,U,1,C,1
+13107,East North Central,R,1,R,1
+13108,Pacific,C,0,C,0
+13109,Pacific,U,1,C,1
+13110,West North Central,R,1,R,1
+13111,Pacific,U,1,C,1
+13112,Pacific,U,1,C,1
+13113,East South Central,C,1,C,1
+13114,South Atlantic,U,0,C,0
+13115,South Atlantic,U,1,C,1
+13116,West North Central,U,1,C,1
+13117,Mountain North,U,1,C,1
+13118,South Atlantic,C,1,C,1
+13119,Pacific,U,1,C,1
+13120,South Atlantic,U,0,C,0
+13121,West South Central,R,1,R,1
+13122,New England,U,0,C,0
+13123,East North Central,U,1,C,1
+13124,South Atlantic,U,1,C,1
+13125,Middle Atlantic,U,1,C,1
+13126,Pacific,U,1,C,1
+13127,West South Central,C,0,C,0
+13128,East North Central,U,1,C,1
+13129,East South Central,U,1,C,1
+13130,South Atlantic,U,1,C,1
+13131,Pacific,U,1,C,1
+13132,Pacific,U,1,C,1
+13133,West South Central,C,1,C,1
+13134,Pacific,U,1,C,1
+13135,South Atlantic,U,1,C,1
+13136,Pacific,U,1,C,1
+13137,South Atlantic,U,1,C,1
+13138,Mountain South,U,1,C,1
+13139,East South Central,R,0,R,0
+13140,South Atlantic,R,1,R,1
+13141,South Atlantic,U,1,C,1
+13142,South Atlantic,U,1,C,1
+13143,South Atlantic,R,1,R,1
+13144,East North Central,U,1,C,1
+13145,Pacific,R,1,R,1
+13146,East North Central,U,1,C,1
+13147,East South Central,R,1,R,1
+13148,East North Central,R,1,R,1
+13149,East South Central,U,1,C,1
+13150,East South Central,R,0,R,0
+13151,Middle Atlantic,U,1,C,1
+13152,Pacific,U,1,C,1
+13153,Middle Atlantic,U,1,C,1
+13154,West North Central,U,1,C,1
+13155,New England,C,1,C,1
+13156,Mountain North,U,0,C,0
+13157,Pacific,U,1,C,1
+13158,South Atlantic,U,1,C,1
+13159,West South Central,R,1,R,1
+13160,West South Central,C,1,C,1
+13161,Pacific,U,1,C,1
+13162,West North Central,C,0,C,0
+13163,West South Central,C,1,C,1
+13164,New England,R,0,R,0
+13165,East North Central,U,0,C,0
+13166,East North Central,R,0,R,0
+13167,Middle Atlantic,U,1,C,1
+13168,East North Central,U,1,C,1
+13169,Mountain South,C,1,C,1
+13170,Mountain South,U,0,C,0
+13171,South Atlantic,U,1,C,1
+13172,Pacific,U,1,C,1
+13173,Middle Atlantic,U,1,C,1
+13174,East South Central,C,1,C,1
+13175,West North Central,U,1,C,1
+13176,South Atlantic,R,1,R,1
+13177,Pacific,U,1,C,1
+13178,New England,U,1,C,1
+13179,South Atlantic,R,0,R,0
+13180,Middle Atlantic,U,1,C,1
+13181,West North Central,R,1,R,1
+13182,Middle Atlantic,U,1,C,1
+13183,East South Central,C,0,C,0
+13184,South Atlantic,R,1,R,1
+13185,South Atlantic,R,1,R,1
+13186,West South Central,U,1,C,1
+13187,Pacific,R,1,R,1
+13188,South Atlantic,C,1,C,1
+13189,Pacific,R,1,R,1
+13190,Pacific,U,1,C,1
+13191,West North Central,U,1,C,1
+13192,South Atlantic,U,1,C,1
+13193,Pacific,U,1,C,1
+13194,East North Central,U,1,C,1
+13195,Middle Atlantic,U,1,C,1
+13196,West North Central,R,1,R,1
+13197,Mountain North,U,1,C,1
+13198,East South Central,C,1,C,1
+13199,Pacific,U,1,C,1
+13200,South Atlantic,U,1,C,1
+13201,East North Central,U,0,C,0
+13202,Pacific,U,1,C,1
+13203,Pacific,U,1,C,1
+13204,South Atlantic,U,1,C,1
+13205,South Atlantic,U,1,C,1
+13206,West South Central,R,1,R,1
+13207,South Atlantic,R,1,R,1
+13208,South Atlantic,U,1,C,1
+13209,Pacific,U,1,C,1
+13210,West South Central,U,1,C,1
+13211,New England,U,0,C,0
+13212,Mountain North,R,1,R,1
+13213,Pacific,U,1,C,1
+13214,Pacific,U,1,C,1
+13215,Middle Atlantic,U,1,C,1
+13216,South Atlantic,U,1,C,1
+13217,Mountain North,R,1,R,1
+13218,Middle Atlantic,U,1,C,1
+13219,West South Central,U,1,C,1
+13220,South Atlantic,U,1,C,1
+13221,New England,U,1,C,1
+13222,West North Central,C,1,C,1
+13223,South Atlantic,U,1,C,1
+13224,West South Central,C,1,C,1
+13225,East North Central,U,1,C,1
+13226,Mountain North,U,1,C,1
+13227,Pacific,U,1,C,1
+13228,East North Central,U,1,C,1
+13229,Middle Atlantic,U,1,C,1
+13230,South Atlantic,R,0,R,0
+13231,East North Central,U,1,C,1
+13232,West South Central,U,1,C,1
+13233,South Atlantic,U,1,C,1
+13234,Pacific,U,1,C,1
+13235,Pacific,U,1,C,1
+13236,South Atlantic,C,1,C,1
+13237,Mountain North,U,0,C,0
+13238,Middle Atlantic,U,1,C,1
+13239,East North Central,U,1,C,1
+13240,East North Central,R,1,R,1
+13241,Pacific,U,1,C,1
+13242,West North Central,R,1,R,1
+13243,South Atlantic,U,1,C,1
+13244,West South Central,U,1,C,1
+13245,South Atlantic,U,1,C,1
+13246,West South Central,U,1,C,1
+13247,Pacific,U,1,C,1
+13248,Pacific,U,1,C,1
+13249,Middle Atlantic,U,1,C,1
+13250,Pacific,U,1,C,1
+13251,East South Central,U,1,C,1
+13252,West North Central,U,1,C,1
+13253,West North Central,U,1,C,1
+13254,Mountain North,C,1,C,1
+13255,West South Central,U,1,C,1
+13256,West North Central,C,1,C,1
+13257,West North Central,U,1,C,1
+13258,West South Central,U,1,C,1
+13259,Mountain South,R,1,R,1
+13260,Pacific,U,1,C,1
+13261,East North Central,U,1,C,1
+13262,Pacific,R,1,R,1
+13263,Mountain North,U,1,C,1
+13264,East North Central,U,1,C,1
+13265,East South Central,R,1,R,1
+13266,Pacific,U,1,C,1
+13267,Middle Atlantic,U,1,C,1
+13268,East South Central,C,0,C,0
+13269,Mountain North,U,1,C,1
+13270,Middle Atlantic,U,1,C,1
+13271,East North Central,U,0,C,0
+13272,South Atlantic,U,0,C,0
+13273,Mountain North,U,1,C,1
+13274,Pacific,U,0,C,0
+13275,West North Central,R,1,R,1
+13276,Pacific,U,1,C,1
+13277,Mountain North,U,1,C,1
+13278,West North Central,R,1,R,1
+13279,West North Central,R,0,R,0
+13280,South Atlantic,R,1,R,1
+13281,East North Central,U,1,C,1
+13282,Pacific,U,1,C,1
+13283,Mountain South,U,1,C,1
+13284,East North Central,U,1,C,1
+13285,Mountain North,U,1,C,1
+13286,East North Central,U,1,C,1
+13287,East North Central,U,1,C,1
+13288,South Atlantic,R,1,R,1
+13289,West North Central,U,1,C,1
+13290,South Atlantic,U,0,C,0
+13291,South Atlantic,U,1,C,1
+13292,Pacific,R,1,R,1
+13293,East North Central,R,1,R,1
+13294,South Atlantic,R,0,R,0
+13295,Mountain South,U,1,C,1
+13296,West North Central,C,1,C,1
+13297,South Atlantic,U,1,C,1
+13298,West South Central,U,1,C,1
+13299,Middle Atlantic,C,1,C,1
+13300,Mountain North,U,0,C,0
+13301,South Atlantic,U,1,C,1
+13302,Middle Atlantic,U,1,C,1
+13303,Middle Atlantic,C,1,C,1
+13304,West North Central,C,0,C,0
+13305,New England,U,1,C,1
+13306,Pacific,U,1,C,1
+13307,East North Central,R,1,R,1
+13308,Pacific,U,1,C,1
+13309,Mountain South,U,1,C,1
+13310,East North Central,R,1,R,1
+13311,New England,U,1,C,1
+13312,East North Central,R,1,R,1
+13313,New England,U,0,C,0
+13314,Middle Atlantic,U,1,C,1
+13315,West South Central,U,1,C,1
+13316,East North Central,U,0,C,0
+13317,Middle Atlantic,U,1,C,1
+13318,South Atlantic,U,0,C,0
+13319,Mountain South,U,0,C,0
+13320,South Atlantic,U,1,C,1
+13321,West South Central,R,1,R,1
+13322,East North Central,R,1,R,1
+13323,New England,U,1,C,1
+13324,Pacific,U,1,C,1
+13325,Mountain North,U,1,C,1
+13326,South Atlantic,U,0,C,0
+13327,Pacific,U,1,C,1
+13328,Middle Atlantic,U,1,C,1
+13329,West South Central,R,1,R,1
+13330,South Atlantic,U,1,C,1
+13331,Pacific,C,1,C,1
+13332,East North Central,U,1,C,1
+13333,West North Central,U,1,C,1
+13334,Pacific,R,1,R,1
+13335,East South Central,U,1,C,1
+13336,East South Central,C,1,C,1
+13337,South Atlantic,U,1,C,1
+13338,New England,U,1,C,1
+13339,Middle Atlantic,U,1,C,1
+13340,East North Central,U,0,C,0
+13341,Pacific,U,1,C,1
+13342,East North Central,U,1,C,1
+13343,Middle Atlantic,R,1,R,1
+13344,Pacific,U,1,C,1
+13345,Pacific,U,1,C,1
+13346,East South Central,C,1,C,1
+13347,East North Central,R,1,R,1
+13348,Pacific,U,0,C,0
+13349,Pacific,U,1,C,1
+13350,Middle Atlantic,U,1,C,1
+13351,South Atlantic,U,0,C,0
+13352,Middle Atlantic,U,1,C,1
+13353,East North Central,U,1,C,1
+13354,South Atlantic,U,1,C,1
+13355,Pacific,U,1,C,1
+13356,West North Central,U,1,C,1
+13357,East South Central,U,1,C,1
+13358,South Atlantic,R,0,R,0
+13359,Pacific,U,1,C,1
+13360,East South Central,U,1,C,1
+13361,South Atlantic,U,1,C,1
+13362,Mountain North,U,1,C,1
+13363,East North Central,U,1,C,1
+13364,West North Central,U,1,C,1
+13365,South Atlantic,U,1,C,1
+13366,Middle Atlantic,U,1,C,1
+13367,Mountain South,U,1,C,1
+13368,Pacific,C,1,C,1
+13369,West South Central,U,1,C,1
+13370,New England,R,1,R,1
+13371,South Atlantic,U,1,C,1
+13372,South Atlantic,U,0,C,0
+13373,Pacific,U,1,C,1
+13374,South Atlantic,U,1,C,1
+13375,East North Central,R,1,R,1
+13376,Pacific,R,1,R,1
+13377,East North Central,U,0,C,0
+13378,West South Central,R,1,R,1
+13379,South Atlantic,U,1,C,1
+13380,East North Central,R,1,R,1
+13381,West North Central,U,1,C,1
+13382,West South Central,U,1,C,1
+13383,South Atlantic,U,1,C,1
+13384,Mountain North,U,1,C,1
+13385,Middle Atlantic,U,1,C,1
+13386,South Atlantic,U,1,C,1
+13387,East North Central,U,1,C,1
+13388,West North Central,R,1,R,1
+13389,Middle Atlantic,U,0,C,0
+13390,Pacific,U,1,C,1
+13391,South Atlantic,U,1,C,1
+13392,South Atlantic,U,1,C,1
+13393,East North Central,R,1,R,1
+13394,East South Central,U,1,C,1
+13395,New England,U,1,C,1
+13396,West North Central,C,1,C,1
+13397,South Atlantic,C,0,C,0
+13398,West South Central,U,1,C,1
+13399,West North Central,C,1,C,1
+13400,South Atlantic,U,1,C,1
+13401,Pacific,U,1,C,1
+13402,East North Central,U,0,C,0
+13403,Middle Atlantic,U,1,C,1
+13404,East North Central,U,1,C,1
+13405,Pacific,U,1,C,1
+13406,East North Central,U,0,C,0
+13407,West South Central,U,0,C,0
+13408,East South Central,R,1,R,1
+13409,West North Central,U,1,C,1
+13410,Pacific,U,1,C,1
+13411,Mountain South,U,1,C,1
+13412,Middle Atlantic,U,1,C,1
+13413,East South Central,U,1,C,1
+13414,Middle Atlantic,U,1,C,1
+13415,Middle Atlantic,U,0,C,0
+13416,Middle Atlantic,U,1,C,1
+13417,South Atlantic,U,1,C,1
+13418,West North Central,C,1,C,1
+13419,East North Central,U,1,C,1
+13420,East North Central,C,1,C,1
+13421,Pacific,R,1,R,1
+13422,Pacific,R,1,R,1
+13423,South Atlantic,U,1,C,1
+13424,Middle Atlantic,C,1,C,1
+13425,Pacific,U,1,C,1
+13426,Middle Atlantic,U,1,C,1
+13427,South Atlantic,U,1,C,1
+13428,Middle Atlantic,U,1,C,1
+13429,Pacific,U,1,C,1
+13430,East South Central,C,1,C,1
+13431,East South Central,U,1,C,1
+13432,New England,R,1,R,1
+13433,Pacific,U,1,C,1
+13434,Pacific,C,1,C,1
+13435,New England,R,0,R,0
+13436,South Atlantic,R,1,R,1
+13437,South Atlantic,U,1,C,1
+13438,Middle Atlantic,U,1,C,1
+13439,East North Central,R,1,R,1
+13440,East North Central,U,1,C,1
+13441,East North Central,U,1,C,1
+13442,Pacific,U,1,C,1
+13443,Pacific,U,1,C,1
+13444,South Atlantic,U,1,C,1
+13445,Pacific,U,1,C,1
+13446,Pacific,U,1,C,1
+13447,West South Central,U,1,C,1
+13448,New England,U,1,C,1
+13449,Middle Atlantic,U,1,C,1
+13450,Pacific,U,1,C,1
+13451,Pacific,U,1,C,1
+13452,Pacific,R,1,R,1
+13453,Pacific,U,0,C,0
+13454,Pacific,U,1,C,1
+13455,West North Central,U,1,C,1
+13456,East North Central,U,0,C,0
+13457,East North Central,U,1,C,1
+13458,South Atlantic,U,1,C,1
+13459,East South Central,U,1,C,1
+13460,East North Central,R,0,R,0
+13461,West South Central,U,0,C,0
+13462,West South Central,U,1,C,1
+13463,West South Central,R,1,R,1
+13464,Mountain South,U,1,C,1
+13465,Mountain South,U,1,C,1
+13466,Middle Atlantic,R,1,R,1
+13467,East North Central,R,1,R,1
+13468,South Atlantic,R,1,R,1
+13469,West South Central,R,1,R,1
+13470,New England,C,1,C,1
+13471,Pacific,U,1,C,1
+13472,Middle Atlantic,U,1,C,1
+13473,Middle Atlantic,U,1,C,1
+13474,South Atlantic,U,1,C,1
+13475,West South Central,R,0,R,0
+13476,Mountain North,R,1,R,1
+13477,Pacific,U,1,C,1
+13478,Pacific,U,0,C,0
+13479,South Atlantic,R,1,R,1
+13480,West South Central,R,1,R,1
+13481,Middle Atlantic,U,1,C,1
+13482,East North Central,U,1,C,1
+13483,East North Central,U,1,C,1
+13484,West South Central,R,1,R,1
+13485,Mountain South,R,0,R,0
+13486,South Atlantic,R,1,R,1
+13487,West North Central,U,0,C,0
+13488,Middle Atlantic,R,1,R,1
+13489,East South Central,U,1,C,1
+13490,East North Central,U,1,C,1
+13491,Pacific,R,1,R,1
+13492,West North Central,R,1,R,1
+13493,West North Central,U,1,C,1
+13494,East North Central,U,1,C,1
+13495,South Atlantic,U,1,C,1
+13496,Middle Atlantic,U,1,C,1
+13497,Pacific,U,1,C,1
+13498,Pacific,C,0,C,0
+13499,East South Central,C,0,C,0
+13500,East North Central,U,1,C,1
+13501,South Atlantic,R,1,R,1
+13502,Middle Atlantic,U,1,C,1
+13503,Mountain North,U,1,C,1
+13504,Pacific,R,0,R,0
+13505,Middle Atlantic,U,1,C,1
+13506,East North Central,U,0,C,0
+13507,South Atlantic,U,1,C,1
+13508,Middle Atlantic,U,1,C,1
+13509,West South Central,U,1,C,1
+13510,Middle Atlantic,U,1,C,1
+13511,South Atlantic,U,1,C,1
+13512,Pacific,U,0,C,0
+13513,Pacific,U,1,C,1
+13514,New England,C,1,C,1
+13515,West South Central,C,1,C,1
+13516,West North Central,U,1,C,1
+13517,Middle Atlantic,R,1,R,1
+13518,Mountain South,R,1,R,1
+13519,West South Central,U,0,C,0
+13520,South Atlantic,R,1,R,1
+13521,Pacific,R,1,R,1
+13522,New England,C,1,C,1
+13523,South Atlantic,U,1,C,1
+13524,South Atlantic,U,1,C,1
+13525,Mountain North,U,1,C,1
+13526,South Atlantic,U,1,C,1
+13527,South Atlantic,C,1,C,1
+13528,South Atlantic,U,1,C,1
+13529,East North Central,U,1,C,1
+13530,East North Central,U,0,C,0
+13531,East North Central,U,1,C,1
+13532,New England,R,1,R,1
+13533,West South Central,U,1,C,1
+13534,East North Central,U,1,C,1
+13535,Pacific,U,1,C,1
+13536,South Atlantic,U,1,C,1
+13537,Pacific,U,1,C,1
+13538,South Atlantic,R,1,R,1
+13539,West North Central,C,1,C,1
+13540,South Atlantic,U,1,C,1
+13541,West South Central,U,1,C,1
+13542,East South Central,C,0,C,0
+13543,West South Central,U,1,C,1
+13544,Pacific,R,1,R,1
+13545,East North Central,U,1,C,1
+13546,Pacific,U,1,C,1
+13547,South Atlantic,R,1,R,1
+13548,South Atlantic,R,0,R,0
+13549,Pacific,U,1,C,1
+13550,Mountain North,U,1,C,1
+13551,South Atlantic,U,0,C,0
+13552,East North Central,C,1,C,1
+13553,Pacific,U,1,C,1
+13554,West North Central,R,1,R,1
+13555,East North Central,U,1,C,1
+13556,East North Central,U,1,C,1
+13557,East North Central,U,1,C,1
+13558,East South Central,R,1,R,1
+13559,Middle Atlantic,R,1,R,1
+13560,West North Central,R,0,R,0
+13561,East North Central,C,1,C,1
+13562,East South Central,U,1,C,1
+13563,South Atlantic,U,1,C,1
+13564,West North Central,U,0,C,0
+13565,New England,R,1,R,1
+13566,Pacific,U,0,C,0
+13567,West South Central,U,1,C,1
+13568,West South Central,R,1,R,1
+13569,West South Central,R,1,R,1
+13570,East South Central,U,0,C,0
+13571,East North Central,U,1,C,1
+13572,Mountain South,U,1,C,1
+13573,West South Central,R,1,R,1
+13574,East North Central,U,0,C,0
+13575,East South Central,C,0,C,0
+13576,South Atlantic,R,0,R,0
+13577,South Atlantic,R,1,R,1
+13578,West South Central,C,1,C,1
+13579,South Atlantic,U,1,C,1
+13580,East South Central,U,1,C,1
+13581,Middle Atlantic,U,1,C,1
+13582,East South Central,U,0,C,0
+13583,West South Central,U,1,C,1
+13584,Pacific,U,1,C,1
+13585,East North Central,U,1,C,1
+13586,South Atlantic,U,1,C,1
+13587,East North Central,U,1,C,1
+13588,South Atlantic,U,1,C,1
+13589,West South Central,U,1,C,1
+13590,Pacific,U,1,C,1
+13591,Mountain South,U,1,C,1
+13592,East South Central,C,1,C,1
+13593,East North Central,R,1,R,1
+13594,Mountain North,U,1,C,1
+13595,West North Central,U,1,C,1
+13596,New England,R,1,R,1
+13597,East South Central,U,0,C,0
+13598,West North Central,R,1,R,1
+13599,East North Central,C,1,C,1
+13600,South Atlantic,U,1,C,1
+13601,West North Central,R,1,R,1
+13602,West North Central,U,1,C,1
+13603,Pacific,U,1,C,1
+13604,South Atlantic,U,1,C,1
+13605,West South Central,C,1,C,1
+13606,East South Central,U,0,C,0
+13607,Pacific,U,1,C,1
+13608,Pacific,U,1,C,1
+13609,Pacific,U,1,C,1
+13610,Pacific,U,1,C,1
+13611,East North Central,U,0,C,0
+13612,South Atlantic,R,0,R,0
+13613,South Atlantic,R,1,R,1
+13614,Pacific,R,1,R,1
+13615,South Atlantic,R,1,R,1
+13616,East North Central,U,1,C,1
+13617,West North Central,U,1,C,1
+13618,West South Central,U,1,C,1
+13619,Mountain South,U,1,C,1
+13620,Pacific,C,1,C,1
+13621,Pacific,U,1,C,1
+13622,West South Central,C,0,C,0
+13623,East North Central,C,1,C,1
+13624,South Atlantic,R,0,R,0
+13625,Pacific,U,1,C,1
+13626,South Atlantic,R,1,R,1
+13627,East North Central,U,1,C,1
+13628,East South Central,R,0,R,0
+13629,West North Central,U,1,C,1
+13630,East South Central,R,1,R,1
+13631,West North Central,U,1,C,1
+13632,Pacific,U,1,C,1
+13633,Mountain North,U,0,C,0
+13634,West North Central,R,1,R,1
+13635,East North Central,U,1,C,1
+13636,Mountain South,U,1,C,1
+13637,East South Central,U,1,C,1
+13638,East South Central,U,1,C,1
+13639,East North Central,R,1,R,1
+13640,West South Central,R,1,R,1
+13641,East North Central,C,1,C,1
+13642,West North Central,U,1,C,1
+13643,South Atlantic,U,1,C,1
+13644,East North Central,U,1,C,1
+13645,East North Central,U,0,C,0
+13646,Middle Atlantic,U,1,C,1
+13647,South Atlantic,U,1,C,1
+13648,Pacific,U,1,C,1
+13649,Mountain South,U,1,C,1
+13650,West South Central,C,1,C,1
+13651,East North Central,U,1,C,1
+13652,Middle Atlantic,U,1,C,1
+13653,East North Central,R,1,R,1
+13654,New England,C,1,C,1
+13655,Mountain South,U,1,C,1
+13656,Pacific,U,1,C,1
+13657,East North Central,U,1,C,1
+13658,West North Central,U,1,C,1
+13659,West North Central,C,1,C,1
+13660,South Atlantic,U,1,C,1
+13661,South Atlantic,U,1,C,1
+13662,South Atlantic,R,1,R,1
+13663,Mountain North,R,1,R,1
+13664,Mountain South,U,1,C,1
+13665,West South Central,C,0,C,0
+13666,South Atlantic,U,1,C,1
+13667,East North Central,R,1,R,1
+13668,Pacific,U,1,C,1
+13669,West South Central,C,1,C,1
+13670,South Atlantic,U,1,C,1
+13671,East North Central,U,1,C,1
+13672,Mountain South,R,1,R,1
+13673,Middle Atlantic,U,1,C,1
+13674,South Atlantic,C,1,C,1
+13675,Middle Atlantic,U,1,C,1
+13676,Pacific,U,0,C,0
+13677,South Atlantic,R,1,R,1
+13678,East North Central,U,1,C,1
+13679,East South Central,R,0,R,0
+13680,Mountain North,C,1,C,1
+13681,New England,U,1,C,1
+13682,Pacific,U,1,C,1
+13683,West South Central,U,0,C,0
+13684,Mountain South,U,1,C,1
+13685,West North Central,U,1,C,1
+13686,Pacific,U,1,C,1
+13687,South Atlantic,U,1,C,1
+13688,East North Central,U,1,C,1
+13689,South Atlantic,U,1,C,1
+13690,West North Central,U,1,C,1
+13691,West North Central,R,1,R,1
+13692,South Atlantic,C,0,C,0
+13693,East North Central,U,1,C,1
+13694,Mountain South,U,1,C,1
+13695,East South Central,U,1,C,1
+13696,Middle Atlantic,U,1,C,1
+13697,West South Central,C,1,C,1
+13698,South Atlantic,U,0,C,0
+13699,East North Central,U,1,C,1
+13700,Pacific,U,1,C,1
+13701,East North Central,R,1,R,1
+13702,South Atlantic,U,1,C,1
+13703,Mountain North,C,1,C,1
+13704,West North Central,C,1,C,1
+13705,West North Central,U,1,C,1
+13706,West South Central,U,1,C,1
+13707,Middle Atlantic,U,1,C,1
+13708,Mountain North,U,1,C,1
+13709,Middle Atlantic,U,1,C,1
+13710,New England,U,1,C,1
+13711,New England,U,1,C,1
+13712,West South Central,C,1,C,1
+13713,New England,U,1,C,1
+13714,South Atlantic,U,0,C,0
+13715,East North Central,U,1,C,1
+13716,Middle Atlantic,U,1,C,1
+13717,East North Central,U,1,C,1
+13718,Middle Atlantic,U,1,C,1
+13719,Pacific,U,1,C,1
+13720,East North Central,U,1,C,1
+13721,South Atlantic,R,0,R,0
+13722,New England,R,1,R,1
+13723,South Atlantic,U,1,C,1
+13724,South Atlantic,U,0,C,0
+13725,Middle Atlantic,R,1,R,1
+13726,New England,R,1,R,1
+13727,New England,U,1,C,1
+13728,Pacific,U,1,C,1
+13729,South Atlantic,U,1,C,1
+13730,Pacific,U,1,C,1
+13731,East North Central,U,1,C,1
+13732,Pacific,U,1,C,1
+13733,Mountain South,U,1,C,1
+13734,East North Central,C,1,C,1
+13735,South Atlantic,U,0,C,0
+13736,East North Central,U,1,C,1
+13737,East North Central,U,1,C,1
+13738,Pacific,U,1,C,1
+13739,East North Central,U,1,C,1
+13740,East North Central,U,1,C,1
+13741,Pacific,U,1,C,1
+13742,Middle Atlantic,U,1,C,1
+13743,Pacific,U,0,C,0
+13744,Pacific,R,1,R,1
+13745,South Atlantic,U,0,C,0
+13746,Pacific,U,1,C,1
+13747,East South Central,U,1,C,1
+13748,Pacific,U,1,C,1
+13749,East North Central,U,1,C,1
+13750,South Atlantic,U,1,C,1
+13751,West South Central,U,1,C,1
+13752,West South Central,U,1,C,1
+13753,East South Central,C,0,C,0
+13754,East North Central,U,1,C,1
+13755,South Atlantic,U,0,C,0
+13756,West South Central,U,1,C,1
+13757,South Atlantic,U,1,C,1
+13758,South Atlantic,U,0,C,0
+13759,East South Central,R,1,R,1
+13760,Middle Atlantic,R,1,R,1
+13761,East South Central,U,1,C,1
+13762,East South Central,U,1,C,1
+13763,East South Central,U,1,C,1
+13764,Mountain South,U,1,C,1
+13765,West North Central,U,1,C,1
+13766,East South Central,U,1,C,1
+13767,Pacific,U,1,C,1
+13768,Middle Atlantic,U,1,C,1
+13769,Mountain South,U,1,C,1
+13770,West South Central,U,1,C,1
+13771,East North Central,U,1,C,1
+13772,West South Central,R,1,R,1
+13773,Middle Atlantic,U,1,C,1
+13774,Pacific,U,0,C,0
+13775,Pacific,U,1,C,1
+13776,Pacific,R,0,R,0
+13777,East North Central,U,1,C,1
+13778,Middle Atlantic,U,1,C,1
+13779,Mountain North,U,1,C,1
+13780,West North Central,R,1,R,1
+13781,South Atlantic,U,1,C,1
+13782,New England,R,1,R,1
+13783,East North Central,R,1,R,1
+13784,South Atlantic,U,1,C,1
+13785,Middle Atlantic,U,0,C,0
+13786,Middle Atlantic,R,1,R,1
+13787,Middle Atlantic,U,1,C,1
+13788,Pacific,U,1,C,1
+13789,South Atlantic,U,0,C,0
+13790,East South Central,R,0,R,0
+13791,East North Central,R,1,R,1
+13792,Pacific,U,1,C,1
+13793,Pacific,U,1,C,1
+13794,Mountain South,U,0,C,0
+13795,East North Central,U,1,C,1
+13796,West North Central,C,1,C,1
+13797,South Atlantic,R,1,R,1
+13798,Pacific,U,1,C,1
+13799,South Atlantic,U,1,C,1
+13800,East North Central,U,1,C,1
+13801,South Atlantic,U,1,C,1
+13802,West North Central,R,1,R,1
+13803,Pacific,U,1,C,1
+13804,South Atlantic,R,1,R,1
+13805,New England,U,1,C,1
+13806,South Atlantic,R,1,R,1
+13807,Mountain South,U,1,C,1
+13808,South Atlantic,U,1,C,1
+13809,East North Central,U,1,C,1
+13810,West North Central,U,1,C,1
+13811,East North Central,U,1,C,1
+13812,South Atlantic,U,1,C,1
+13813,West North Central,U,1,C,1
+13814,Middle Atlantic,C,1,C,1
+13815,East South Central,C,1,C,1
+13816,South Atlantic,R,1,R,1
+13817,West North Central,U,1,C,1
+13818,Middle Atlantic,U,0,C,0
+13819,Mountain South,U,1,C,1
+13820,West South Central,R,1,R,1
+13821,Middle Atlantic,C,1,C,1
+13822,East North Central,R,1,R,1
+13823,Middle Atlantic,C,1,C,1
+13824,East South Central,U,1,C,1
+13825,South Atlantic,U,0,C,0
+13826,Mountain North,R,1,R,1
+13827,East South Central,U,1,C,1
+13828,Middle Atlantic,C,1,C,1
+13829,Pacific,U,1,C,1
+13830,West North Central,U,1,C,1
+13831,South Atlantic,U,1,C,1
+13832,East North Central,U,1,C,1
+13833,South Atlantic,U,1,C,1
+13834,South Atlantic,U,1,C,1
+13835,East South Central,U,1,C,1
+13836,Mountain South,U,1,C,1
+13837,East South Central,U,1,C,1
+13838,West South Central,U,1,C,1
+13839,Pacific,R,1,R,1
+13840,West South Central,U,1,C,1
+13841,Middle Atlantic,U,1,C,1
+13842,East North Central,R,1,R,1
+13843,East North Central,U,1,C,1
+13844,Middle Atlantic,R,1,R,1
+13845,South Atlantic,U,1,C,1
+13846,Pacific,U,1,C,1
+13847,West South Central,C,0,C,0
+13848,West South Central,U,1,C,1
+13849,East North Central,U,1,C,1
+13850,Middle Atlantic,U,1,C,1
+13851,Mountain North,U,1,C,1
+13852,East North Central,U,0,C,0
+13853,South Atlantic,U,1,C,1
+13854,New England,U,1,C,1
+13855,South Atlantic,R,1,R,1
+13856,East South Central,R,0,R,0
+13857,East North Central,U,1,C,1
+13858,Pacific,U,1,C,1
+13859,West North Central,U,1,C,1
+13860,West South Central,U,1,C,1
+13861,Mountain North,U,1,C,1
+13862,South Atlantic,U,0,C,0
+13863,East South Central,U,1,C,1
+13864,East North Central,U,1,C,1
+13865,Pacific,U,1,C,1
+13866,Middle Atlantic,U,1,C,1
+13867,New England,R,1,R,1
+13868,West North Central,U,1,C,1
+13869,South Atlantic,U,1,C,1
+13870,West North Central,R,1,R,1
+13871,South Atlantic,U,1,C,1
+13872,South Atlantic,R,1,R,1
+13873,West North Central,U,1,C,1
+13874,East South Central,U,1,C,1
+13875,Pacific,R,1,R,1
+13876,Middle Atlantic,U,0,C,0
+13877,Mountain South,U,1,C,1
+13878,West North Central,U,1,C,1
+13879,West North Central,C,0,C,0
+13880,West South Central,R,0,R,0
+13881,East South Central,U,1,C,1
+13882,South Atlantic,C,1,C,1
+13883,West South Central,U,0,C,0
+13884,Mountain North,R,0,R,0
+13885,New England,R,1,R,1
+13886,West South Central,U,1,C,1
+13887,Middle Atlantic,U,1,C,1
+13888,Mountain North,R,1,R,1
+13889,West North Central,C,1,C,1
+13890,Mountain South,U,1,C,1
+13891,Mountain North,C,1,C,1
+13892,South Atlantic,R,0,R,0
+13893,Pacific,U,1,C,1
+13894,Mountain North,U,1,C,1
+13895,Mountain North,U,0,C,0
+13896,East North Central,U,1,C,1
+13897,West South Central,U,1,C,1
+13898,East South Central,R,1,R,1
+13899,Pacific,U,1,C,1
+13900,Middle Atlantic,U,1,C,1
+13901,Middle Atlantic,U,0,C,0
+13902,South Atlantic,R,1,R,1
+13903,South Atlantic,U,1,C,1
+13904,East North Central,R,1,R,1
+13905,Pacific,U,1,C,1
+13906,Mountain North,C,1,C,1
+13907,Middle Atlantic,U,1,C,1
+13908,Middle Atlantic,U,1,C,1
+13909,South Atlantic,R,1,R,1
+13910,West South Central,U,1,C,1
+13911,South Atlantic,U,1,C,1
+13912,New England,U,1,C,1
+13913,Pacific,U,1,C,1
+13914,East North Central,U,1,C,1
+13915,Mountain South,U,0,C,0
+13916,West South Central,U,1,C,1
+13917,South Atlantic,U,1,C,1
+13918,West South Central,C,1,C,1
+13919,Pacific,U,1,C,1
+13920,East North Central,U,1,C,1
+13921,South Atlantic,U,1,C,1
+13922,Middle Atlantic,U,1,C,1
+13923,West North Central,C,1,C,1
+13924,Pacific,U,1,C,1
+13925,Middle Atlantic,U,1,C,1
+13926,Pacific,U,1,C,1
+13927,South Atlantic,U,1,C,1
+13928,New England,U,1,C,1
+13929,Pacific,U,1,C,1
+13930,Mountain South,U,1,C,1
+13931,South Atlantic,U,1,C,1
+13932,New England,R,1,R,1
+13933,East North Central,U,1,C,1
+13934,South Atlantic,U,1,C,1
+13935,Pacific,U,1,C,1
+13936,West South Central,U,1,C,1
+13937,West North Central,U,1,C,1
+13938,Pacific,U,0,C,0
+13939,South Atlantic,R,1,R,1
+13940,East North Central,R,1,R,1
+13941,Pacific,U,1,C,1
+13942,Middle Atlantic,U,1,C,1
+13943,Pacific,U,1,C,1
+13944,New England,R,1,R,1
+13945,East South Central,C,0,C,0
+13946,East South Central,U,1,C,1
+13947,East South Central,C,0,C,0
+13948,Pacific,R,1,R,1
+13949,South Atlantic,U,1,C,1
+13950,Middle Atlantic,U,1,C,1
+13951,Mountain South,U,1,C,1
+13952,Mountain South,U,1,C,1
+13953,East North Central,U,1,C,1
+13954,East North Central,C,1,C,1
+13955,New England,U,1,C,1
+13956,Mountain North,U,1,C,1
+13957,South Atlantic,U,1,C,1
+13958,West North Central,C,0,C,0
+13959,West North Central,U,1,C,1
+13960,East North Central,R,1,R,1
+13961,Mountain North,U,1,C,1
+13962,Middle Atlantic,U,1,C,1
+13963,East South Central,C,1,C,1
+13964,Pacific,U,1,C,1
+13965,Middle Atlantic,U,1,C,1
+13966,East North Central,U,1,C,1
+13967,Pacific,U,1,C,1
+13968,West South Central,R,1,R,1
+13969,East North Central,U,1,C,1
+13970,East North Central,C,1,C,1
+13971,South Atlantic,U,0,C,0
+13972,East North Central,R,1,R,1
+13973,Pacific,U,1,C,1
+13974,South Atlantic,U,1,C,1
+13975,Middle Atlantic,U,1,C,1
+13976,East North Central,R,1,R,1
+13977,East North Central,U,0,C,0
+13978,Mountain South,U,1,C,1
+13979,New England,R,1,R,1
+13980,East South Central,C,1,C,1
+13981,West North Central,R,1,R,1
+13982,Pacific,U,0,C,0
+13983,South Atlantic,R,0,R,0
+13984,East North Central,U,1,C,1
+13985,South Atlantic,U,1,C,1
+13986,South Atlantic,U,1,C,1
+13987,Middle Atlantic,U,1,C,1
+13988,Middle Atlantic,U,1,C,1
+13989,South Atlantic,U,1,C,1
+13990,East South Central,C,1,C,1
+13991,Mountain North,U,1,C,1
+13992,West South Central,U,1,C,1
+13993,East North Central,C,1,C,1
+13994,South Atlantic,R,1,R,1
+13995,East North Central,U,0,C,0
+13996,West North Central,C,1,C,1
+13997,West South Central,U,1,C,1
+13998,East North Central,C,1,C,1
+13999,East South Central,U,1,C,1
+14000,South Atlantic,U,1,C,1
+14001,West North Central,R,1,R,1
+14002,East North Central,U,1,C,1
+14003,West South Central,U,1,C,1
+14004,Pacific,U,1,C,1
+14005,Middle Atlantic,U,1,C,1
+14006,Middle Atlantic,U,1,C,1
+14007,West North Central,C,1,C,1
+14008,West South Central,R,1,R,1
+14009,Pacific,U,1,C,1
+14010,South Atlantic,U,1,C,1
+14011,Middle Atlantic,U,1,C,1
+14012,Middle Atlantic,U,1,C,1
+14013,East South Central,U,0,C,0
+14014,Middle Atlantic,U,1,C,1
+14015,Middle Atlantic,U,1,C,1
+14016,Pacific,U,1,C,1
+14017,Pacific,U,1,C,1
+14018,East South Central,U,1,C,1
+14019,West South Central,U,0,C,0
+14020,South Atlantic,U,1,C,1
+14021,Mountain North,U,1,C,1
+14022,Pacific,U,0,C,0
+14023,East North Central,U,1,C,1
+14024,Pacific,R,1,R,1
+14025,South Atlantic,U,1,C,1
+14026,Pacific,U,1,C,1
+14027,West North Central,U,0,C,0
+14028,New England,U,1,C,1
+14029,Pacific,U,0,C,0
+14030,East North Central,C,1,C,1
+14031,West South Central,U,1,C,1
+14032,New England,U,1,C,1
+14033,Middle Atlantic,R,1,R,1
+14034,Pacific,U,1,C,1
+14035,South Atlantic,U,0,C,0
+14036,South Atlantic,U,1,C,1
+14037,Pacific,R,1,R,1
+14038,East North Central,C,1,C,1
+14039,Middle Atlantic,R,1,R,1
+14040,South Atlantic,R,1,R,1
+14041,East South Central,R,1,R,1
+14042,Pacific,U,1,C,1
+14043,Pacific,U,1,C,1
+14044,East South Central,R,1,R,1
+14045,East North Central,U,1,C,1
+14046,Pacific,U,1,C,1
+14047,Mountain North,U,1,C,1
+14048,Mountain South,U,1,C,1
+14049,East South Central,R,1,R,1
+14050,East South Central,U,1,C,1
+14051,South Atlantic,C,1,C,1
+14052,East South Central,U,1,C,1
+14053,West South Central,C,1,C,1
+14054,East North Central,R,1,R,1
+14055,Mountain South,U,1,C,1
+14056,Pacific,C,1,C,1
+14057,West South Central,U,1,C,1
+14058,West South Central,U,1,C,1
+14059,West South Central,R,1,R,1
+14060,South Atlantic,U,1,C,1
+14061,East North Central,U,1,C,1
+14062,South Atlantic,U,1,C,1
+14063,Pacific,U,1,C,1
+14064,South Atlantic,U,1,C,1
+14065,East South Central,U,0,C,0
+14066,Pacific,U,1,C,1
+14067,West South Central,R,1,R,1
+14068,East North Central,U,1,C,1
+14069,South Atlantic,U,1,C,1
+14070,South Atlantic,U,1,C,1
+14071,South Atlantic,R,1,R,1
+14072,South Atlantic,U,1,C,1
+14073,South Atlantic,U,0,C,0
+14074,South Atlantic,U,1,C,1
+14075,East North Central,U,1,C,1
+14076,East North Central,R,1,R,1
+14077,Pacific,R,1,R,1
+14078,Pacific,U,1,C,1
+14079,West North Central,R,1,R,1
+14080,New England,R,1,R,1
+14081,South Atlantic,U,1,C,1
+14082,East South Central,U,1,C,1
+14083,Mountain North,R,1,R,1
+14084,South Atlantic,U,1,C,1
+14085,Pacific,U,1,C,1
+14086,East North Central,U,1,C,1
+14087,Mountain North,U,1,C,1
+14088,West North Central,U,1,C,1
+14089,West South Central,C,1,C,1
+14090,Pacific,C,1,C,1
+14091,West South Central,C,0,C,0
+14092,South Atlantic,R,1,R,1
+14093,South Atlantic,C,1,C,1
+14094,East North Central,U,1,C,1
+14095,South Atlantic,U,1,C,1
+14096,East North Central,U,1,C,1
+14097,West South Central,U,1,C,1
+14098,New England,U,1,C,1
+14099,West South Central,R,0,R,0
+14100,South Atlantic,U,1,C,1
+14101,East North Central,U,1,C,1
+14102,East North Central,U,0,C,0
+14103,Middle Atlantic,U,1,C,1
+14104,Middle Atlantic,U,1,C,1
+14105,West North Central,U,1,C,1
+14106,East North Central,U,1,C,1
+14107,Mountain North,U,1,C,1
+14108,East North Central,U,1,C,1
+14109,Pacific,U,1,C,1
+14110,East North Central,U,1,C,1
+14111,East South Central,U,1,C,1
+14112,West South Central,R,1,R,1
+14113,Middle Atlantic,U,1,C,1
+14114,Pacific,U,1,C,1
+14115,South Atlantic,R,0,R,0
+14116,West North Central,U,1,C,1
+14117,West South Central,U,1,C,1
+14118,South Atlantic,U,1,C,1
+14119,Mountain South,U,1,C,1
+14120,Mountain North,C,1,C,1
+14121,East North Central,R,1,R,1
+14122,Middle Atlantic,U,1,C,1
+14123,Mountain North,U,1,C,1
+14124,East South Central,U,1,C,1
+14125,Middle Atlantic,U,1,C,1
+14126,West North Central,C,1,C,1
+14127,Pacific,U,1,C,1
+14128,West North Central,U,1,C,1
+14129,West North Central,C,1,C,1
+14130,Pacific,U,1,C,1
+14131,Pacific,U,1,C,1
+14132,West South Central,U,1,C,1
+14133,Mountain South,R,0,R,0
+14134,South Atlantic,U,0,C,0
+14135,Pacific,R,1,R,1
+14136,East South Central,U,1,C,1
+14137,Middle Atlantic,U,1,C,1
+14138,West South Central,R,1,R,1
+14139,South Atlantic,U,1,C,1
+14140,South Atlantic,U,1,C,1
+14141,East South Central,C,1,C,1
+14142,Pacific,U,1,C,1
+14143,Middle Atlantic,U,1,C,1
+14144,East North Central,U,1,C,1
+14145,South Atlantic,U,0,C,0
+14146,West South Central,U,1,C,1
+14147,South Atlantic,U,1,C,1
+14148,East South Central,C,0,C,0
+14149,East North Central,U,1,C,1
+14150,Middle Atlantic,U,1,C,1
+14151,Middle Atlantic,C,1,C,1
+14152,Middle Atlantic,U,1,C,1
+14153,East South Central,U,1,C,1
+14154,East North Central,U,1,C,1
+14155,Pacific,U,1,C,1
+14156,South Atlantic,U,1,C,1
+14157,Pacific,U,1,C,1
+14158,Pacific,U,1,C,1
+14159,South Atlantic,R,1,R,1
+14160,Pacific,U,1,C,1
+14161,Pacific,U,1,C,1
+14162,South Atlantic,R,1,R,1
+14163,South Atlantic,U,1,C,1
+14164,Middle Atlantic,U,1,C,1
+14165,West North Central,U,1,C,1
+14166,New England,U,1,C,1
+14167,South Atlantic,U,1,C,1
+14168,Mountain North,U,1,C,1
+14169,Pacific,R,0,R,0
+14170,Middle Atlantic,U,1,C,1
+14171,Middle Atlantic,U,1,C,1
+14172,South Atlantic,U,1,C,1
+14173,South Atlantic,U,1,C,1
+14174,West North Central,U,1,C,1
+14175,East North Central,C,1,C,1
+14176,East South Central,U,1,C,1
+14177,East North Central,U,1,C,1
+14178,South Atlantic,R,0,R,0
+14179,East North Central,U,1,C,1
+14180,East North Central,C,1,C,1
+14181,Mountain North,U,1,C,1
+14182,Middle Atlantic,C,1,C,1
+14183,West South Central,U,1,C,1
+14184,Middle Atlantic,U,1,C,1
+14185,Pacific,U,1,C,1
+14186,Pacific,U,1,C,1
+14187,South Atlantic,R,1,R,1
+14188,West South Central,U,1,C,1
+14189,West South Central,U,1,C,1
+14190,East North Central,U,1,C,1
+14191,South Atlantic,U,1,C,1
+14192,East North Central,R,1,R,1
+14193,South Atlantic,U,1,C,1
+14194,Mountain South,U,1,C,1
+14195,East South Central,R,1,R,1
+14196,Pacific,U,1,C,1
+14197,South Atlantic,U,1,C,1
+14198,East North Central,R,0,R,0
+14199,New England,U,1,C,1
+14200,South Atlantic,U,1,C,1
+14201,Pacific,C,1,C,1
+14202,East North Central,C,1,C,1
+14203,West North Central,R,1,R,1
+14204,South Atlantic,U,1,C,1
+14205,West South Central,U,1,C,1
+14206,East South Central,R,0,R,0
+14207,Middle Atlantic,U,1,C,1
+14208,Pacific,U,0,C,0
+14209,Pacific,U,1,C,1
+14210,Middle Atlantic,U,1,C,1
+14211,South Atlantic,U,1,C,1
+14212,South Atlantic,U,1,C,1
+14213,East North Central,U,1,C,1
+14214,South Atlantic,U,1,C,1
+14215,West North Central,U,1,C,1
+14216,Mountain South,U,1,C,1
+14217,East North Central,U,0,C,0
+14218,Pacific,U,1,C,1
+14219,Pacific,U,0,C,0
+14220,East North Central,U,1,C,1
+14221,East North Central,U,1,C,1
+14222,Pacific,U,1,C,1
+14223,South Atlantic,U,1,C,1
+14224,New England,U,1,C,1
+14225,Mountain North,U,1,C,1
+14226,Middle Atlantic,U,1,C,1
+14227,West North Central,U,1,C,1
+14228,West North Central,U,1,C,1
+14229,Middle Atlantic,U,1,C,1
+14230,West North Central,U,1,C,1
+14231,South Atlantic,R,1,R,1
+14232,West North Central,C,1,C,1
+14233,Pacific,R,1,R,1
+14234,East North Central,U,1,C,1
+14235,East North Central,R,1,R,1
+14236,West North Central,C,1,C,1
+14237,Mountain South,U,1,C,1
+14238,South Atlantic,U,1,C,1
+14239,New England,U,1,C,1
+14240,Pacific,U,0,C,0
+14241,South Atlantic,U,1,C,1
+14242,Mountain North,U,1,C,1
+14243,East North Central,U,1,C,1
+14244,West South Central,C,1,C,1
+14245,South Atlantic,R,1,R,1
+14246,Pacific,U,1,C,1
+14247,South Atlantic,U,1,C,1
+14248,East North Central,R,1,R,1
+14249,Pacific,U,1,C,1
+14250,South Atlantic,U,1,C,1
+14251,East North Central,U,1,C,1
+14252,Pacific,U,1,C,1
+14253,Mountain North,U,1,C,1
+14254,Pacific,U,1,C,1
+14255,East North Central,U,1,C,1
+14256,Mountain South,U,1,C,1
+14257,West South Central,U,1,C,1
+14258,South Atlantic,U,0,C,0
+14259,West North Central,U,1,C,1
+14260,Pacific,U,1,C,1
+14261,East North Central,R,1,R,1
+14262,Mountain North,U,0,C,0
+14263,West North Central,C,1,C,1
+14264,West South Central,U,1,C,1
+14265,Pacific,U,1,C,1
+14266,East South Central,R,1,R,1
+14267,South Atlantic,U,1,C,1
+14268,Middle Atlantic,U,1,C,1
+14269,Middle Atlantic,R,1,R,1
+14270,South Atlantic,U,1,C,1
+14271,Middle Atlantic,U,1,C,1
+14272,South Atlantic,U,1,C,1
+14273,West North Central,U,1,C,1
+14274,Middle Atlantic,U,1,C,1
+14275,Middle Atlantic,R,1,R,1
+14276,Pacific,U,1,C,1
+14277,Pacific,U,1,C,1
+14278,South Atlantic,U,1,C,1
+14279,Mountain South,U,0,C,0
+14280,Mountain North,R,0,R,0
+14281,South Atlantic,U,1,C,1
+14282,East North Central,C,1,C,1
+14283,Pacific,U,1,C,1
+14284,Middle Atlantic,U,1,C,1
+14285,New England,U,1,C,1
+14286,West North Central,R,1,R,1
+14287,Mountain North,R,1,R,1
+14288,Middle Atlantic,U,1,C,1
+14289,West North Central,C,1,C,1
+14290,East South Central,C,0,C,0
+14291,East North Central,R,1,R,1
+14292,East South Central,R,1,R,1
+14293,South Atlantic,R,1,R,1
+14294,East South Central,R,0,R,0
+14295,Pacific,U,1,C,1
+14296,New England,R,0,R,0
+14297,East South Central,C,1,C,1
+14298,West North Central,U,1,C,1
+14299,South Atlantic,U,1,C,1
+14300,Mountain South,U,1,C,1
+14301,New England,R,1,R,1
+14302,West South Central,U,0,C,0
+14303,South Atlantic,U,1,C,1
+14304,Pacific,U,1,C,1
+14305,West South Central,U,1,C,1
+14306,South Atlantic,U,1,C,1
+14307,New England,C,1,C,1
+14308,West North Central,U,1,C,1
+14309,West North Central,U,1,C,1
+14310,Pacific,U,1,C,1
+14311,South Atlantic,U,1,C,1
+14312,West South Central,U,1,C,1
+14313,Mountain North,C,1,C,1
+14314,East North Central,U,1,C,1
+14315,New England,U,1,C,1
+14316,Pacific,U,1,C,1
+14317,Middle Atlantic,C,1,C,1
+14318,West North Central,U,0,C,0
+14319,South Atlantic,U,1,C,1
+14320,West South Central,U,1,C,1
+14321,Pacific,U,1,C,1
+14322,South Atlantic,U,1,C,1
+14323,Middle Atlantic,U,1,C,1
+14324,East North Central,U,1,C,1
+14325,East South Central,C,1,C,1
+14326,South Atlantic,U,1,C,1
+14327,Middle Atlantic,U,1,C,1
+14328,West North Central,C,1,C,1
+14329,East South Central,R,0,R,0
+14330,Pacific,U,1,C,1
+14331,East North Central,R,1,R,1
+14332,West North Central,R,1,R,1
+14333,Mountain South,U,0,C,0
+14334,Pacific,C,1,C,1
+14335,West South Central,R,1,R,1
+14336,East North Central,U,1,C,1
+14337,Middle Atlantic,U,1,C,1
+14338,New England,C,1,C,1
+14339,West North Central,U,1,C,1
+14340,Pacific,U,1,C,1
+14341,South Atlantic,U,1,C,1
+14342,West South Central,U,1,C,1
+14343,Pacific,U,1,C,1
+14344,Pacific,R,1,R,1
+14345,Middle Atlantic,U,1,C,1
+14346,Pacific,C,0,C,0
+14347,East North Central,C,1,C,1
+14348,Pacific,U,1,C,1
+14349,Pacific,R,1,R,1
+14350,South Atlantic,U,1,C,1
+14351,West South Central,U,1,C,1
+14352,East North Central,U,1,C,1
+14353,Pacific,U,0,C,0
+14354,South Atlantic,U,1,C,1
+14355,Pacific,U,1,C,1
+14356,South Atlantic,R,1,R,1
+14357,Mountain North,U,1,C,1
+14358,Mountain North,U,1,C,1
+14359,East South Central,R,1,R,1
+14360,South Atlantic,U,1,C,1
+14361,East North Central,U,1,C,1
+14362,Pacific,U,1,C,1
+14363,Middle Atlantic,U,1,C,1
+14364,South Atlantic,R,1,R,1
+14365,West North Central,U,0,C,0
+14366,East South Central,U,0,C,0
+14367,East South Central,U,1,C,1
+14368,South Atlantic,C,0,C,0
+14369,Pacific,C,1,C,1
+14370,New England,U,0,C,0
+14371,Middle Atlantic,R,0,R,0
+14372,Pacific,U,1,C,1
+14373,West North Central,U,1,C,1
+14374,Middle Atlantic,U,0,C,0
+14375,East North Central,C,1,C,1
+14376,Mountain South,U,0,C,0
+14377,West South Central,U,1,C,1
+14378,West South Central,U,1,C,1
+14379,South Atlantic,R,1,R,1
+14380,South Atlantic,R,1,R,1
+14381,Middle Atlantic,U,1,C,1
+14382,Pacific,U,1,C,1
+14383,South Atlantic,U,1,C,1
+14384,West North Central,C,1,C,1
+14385,East North Central,C,1,C,1
+14386,South Atlantic,U,1,C,1
+14387,South Atlantic,R,1,R,1
+14388,South Atlantic,U,1,C,1
+14389,South Atlantic,U,1,C,1
+14390,East South Central,U,1,C,1
+14391,Pacific,U,0,C,0
+14392,East South Central,U,1,C,1
+14393,West North Central,R,1,R,1
+14394,West North Central,C,1,C,1
+14395,Pacific,U,1,C,1
+14396,South Atlantic,U,1,C,1
+14397,Middle Atlantic,U,1,C,1
+14398,New England,R,0,R,0
+14399,Middle Atlantic,U,1,C,1
+14400,Middle Atlantic,U,1,C,1
+14401,East North Central,R,0,R,0
+14402,West South Central,R,1,R,1
+14403,Mountain North,U,1,C,1
+14404,West North Central,R,1,R,1
+14405,New England,U,1,C,1
+14406,Pacific,U,1,C,1
+14407,Mountain South,R,1,R,1
+14408,New England,C,1,C,1
+14409,East South Central,R,1,R,1
+14410,West South Central,U,1,C,1
+14411,South Atlantic,U,1,C,1
+14412,East North Central,U,1,C,1
+14413,West North Central,U,0,C,0
+14414,Pacific,U,0,C,0
+14415,South Atlantic,U,1,C,1
+14416,Pacific,U,1,C,1
+14417,West South Central,U,1,C,1
+14418,Mountain North,U,1,C,1
+14419,South Atlantic,U,1,C,1
+14420,East South Central,U,1,C,1
+14421,New England,U,0,C,0
+14422,East North Central,U,1,C,1
+14423,Mountain North,R,1,R,1
+14424,Pacific,U,1,C,1
+14425,West North Central,U,0,C,0
+14426,West North Central,U,1,C,1
+14427,Middle Atlantic,U,1,C,1
+14428,West North Central,C,1,C,1
+14429,Pacific,U,1,C,1
+14430,West South Central,U,1,C,1
+14431,Pacific,U,1,C,1
+14432,Pacific,U,1,C,1
+14433,West North Central,R,1,R,1
+14434,East South Central,R,1,R,1
+14435,East North Central,U,1,C,1
+14436,Pacific,U,1,C,1
+14437,South Atlantic,U,1,C,1
+14438,East North Central,U,1,C,1
+14439,East North Central,R,1,R,1
+14440,Pacific,U,1,C,1
+14441,West North Central,U,0,C,0
+14442,Pacific,U,1,C,1
+14443,New England,R,1,R,1
+14444,South Atlantic,U,1,C,1
+14445,South Atlantic,U,0,C,0
+14446,Mountain North,R,1,R,1
+14447,Middle Atlantic,U,1,C,1
+14448,Mountain South,U,1,C,1
+14449,South Atlantic,U,1,C,1
+14450,Middle Atlantic,U,1,C,1
+14451,West South Central,U,1,C,1
+14452,West North Central,C,1,C,1
+14453,South Atlantic,U,1,C,1
+14454,Pacific,R,1,R,1
+14455,Middle Atlantic,U,1,C,1
+14456,South Atlantic,R,1,R,1
+14457,South Atlantic,U,1,C,1
+14458,Mountain North,U,1,C,1
+14459,South Atlantic,U,0,C,0
+14460,West South Central,R,1,R,1
+14461,East North Central,U,0,C,0
+14462,South Atlantic,U,1,C,1
+14463,South Atlantic,U,1,C,1
+14464,East North Central,C,1,C,1
+14465,Mountain South,U,1,C,1
+14466,Mountain North,U,1,C,1
+14467,East North Central,U,1,C,1
+14468,West South Central,U,1,C,1
+14469,Mountain North,R,1,R,1
+14470,South Atlantic,U,1,C,1
+14471,East North Central,U,1,C,1
+14472,South Atlantic,R,1,R,1
+14473,Pacific,U,1,C,1
+14474,Pacific,U,1,C,1
+14475,West North Central,R,0,R,0
+14476,Pacific,U,1,C,1
+14477,West North Central,C,1,C,1
+14478,Pacific,R,1,R,1
+14479,West North Central,C,1,C,1
+14480,Middle Atlantic,U,1,C,1
+14481,South Atlantic,U,1,C,1
+14482,West North Central,U,1,C,1
+14483,Pacific,C,1,C,1
+14484,East South Central,C,1,C,1
+14485,Pacific,R,0,R,0
+14486,East South Central,R,1,R,1
+14487,Pacific,U,1,C,1
+14488,West North Central,C,1,C,1
+14489,East North Central,U,1,C,1
+14490,East North Central,C,1,C,1
+14491,Pacific,U,1,C,1
+14492,New England,U,1,C,1
+14493,Middle Atlantic,C,1,C,1
+14494,South Atlantic,U,1,C,1
+14495,West North Central,C,1,C,1
+14496,West North Central,U,1,C,1
+14497,South Atlantic,C,1,C,1
+14498,East North Central,U,0,C,0
+14499,West North Central,U,1,C,1
+14500,Pacific,U,1,C,1
+14501,Mountain South,U,1,C,1
+14502,Pacific,U,1,C,1
+14503,Pacific,R,1,R,1
+14504,East North Central,R,1,R,1
+14505,East North Central,U,1,C,1
+14506,West South Central,U,1,C,1
+14507,West North Central,U,1,C,1
+14508,South Atlantic,R,1,R,1
+14509,South Atlantic,U,0,C,0
+14510,New England,R,1,R,1
+14511,East North Central,R,1,R,1
+14512,East North Central,U,1,C,1
+14513,New England,R,1,R,1
+14514,East North Central,U,1,C,1
+14515,East North Central,U,1,C,1
+14516,West North Central,R,1,R,1
+14517,East South Central,C,0,C,0
+14518,West North Central,U,1,C,1
+14519,West North Central,U,1,C,1
+14520,Middle Atlantic,C,1,C,1
+14521,Pacific,R,1,R,1
+14522,South Atlantic,U,0,C,0
+14523,Pacific,C,1,C,1
+14524,East North Central,C,1,C,1
+14525,East North Central,C,0,C,0
+14526,Middle Atlantic,R,1,R,1
+14527,East North Central,C,1,C,1
+14528,Mountain South,U,1,C,1
+14529,Middle Atlantic,U,1,C,1
+14530,East South Central,R,0,R,0
+14531,East North Central,R,1,R,1
+14532,South Atlantic,U,1,C,1
+14533,New England,U,1,C,1
+14534,West North Central,R,1,R,1
+14535,East North Central,R,0,R,0
+14536,East North Central,U,0,C,0
+14537,South Atlantic,R,1,R,1
+14538,Middle Atlantic,U,1,C,1
+14539,East South Central,U,1,C,1
+14540,West North Central,U,1,C,1
+14541,West North Central,R,1,R,1
+14542,Pacific,U,1,C,1
+14543,Pacific,U,1,C,1
+14544,West North Central,U,1,C,1
+14545,Pacific,C,1,C,1
+14546,Middle Atlantic,C,1,C,1
+14547,West South Central,C,1,C,1
+14548,Mountain South,U,1,C,1
+14549,Pacific,R,1,R,1
+14550,South Atlantic,U,1,C,1
+14551,West South Central,R,1,R,1
+14552,Middle Atlantic,C,1,C,1
+14553,Pacific,R,1,R,1
+14554,New England,C,1,C,1
+14555,East South Central,R,0,R,0
+14556,South Atlantic,U,1,C,1
+14557,South Atlantic,U,1,C,1
+14558,South Atlantic,U,0,C,0
+14559,South Atlantic,U,1,C,1
+14560,South Atlantic,R,1,R,1
+14561,Pacific,U,1,C,1
+14562,South Atlantic,R,0,R,0
+14563,Pacific,C,1,C,1
+14564,West South Central,U,1,C,1
+14565,West South Central,U,1,C,1
+14566,South Atlantic,U,1,C,1
+14567,New England,U,1,C,1
+14568,South Atlantic,U,0,C,0
+14569,East South Central,C,1,C,1
+14570,Pacific,U,1,C,1
+14571,East South Central,U,1,C,1
+14572,Pacific,C,0,C,0
+14573,South Atlantic,U,1,C,1
+14574,East North Central,U,1,C,1
+14575,Pacific,U,1,C,1
+14576,East North Central,U,1,C,1
+14577,Pacific,U,1,C,1
+14578,New England,R,1,R,1
+14579,South Atlantic,U,1,C,1
+14580,East South Central,U,1,C,1
+14581,West North Central,R,1,R,1
+14582,Middle Atlantic,C,0,C,0
+14583,East North Central,C,0,C,0
+14584,Mountain North,U,1,C,1
+14585,New England,R,1,R,1
+14586,Middle Atlantic,U,1,C,1
+14587,Middle Atlantic,U,1,C,1
+14588,South Atlantic,U,0,C,0
+14589,West North Central,R,0,R,0
+14590,Pacific,U,0,C,0
+14591,Pacific,U,1,C,1
+14592,Pacific,U,1,C,1
+14593,South Atlantic,U,1,C,1
+14594,South Atlantic,R,1,R,1
+14595,Pacific,U,1,C,1
+14596,East North Central,U,1,C,1
+14597,Pacific,U,1,C,1
+14598,East North Central,U,1,C,1
+14599,South Atlantic,R,1,R,1
+14600,Pacific,U,1,C,1
+14601,East North Central,U,0,C,0
+14602,West North Central,U,1,C,1
+14603,West North Central,R,0,R,0
+14604,West South Central,U,1,C,1
+14605,West South Central,C,1,C,1
+14606,South Atlantic,U,0,C,0
+14607,Pacific,U,1,C,1
+14608,Middle Atlantic,U,1,C,1
+14609,West South Central,U,1,C,1
+14610,South Atlantic,U,1,C,1
+14611,Pacific,U,1,C,1
+14612,South Atlantic,U,1,C,1
+14613,East North Central,U,1,C,1
+14614,East North Central,R,1,R,1
+14615,South Atlantic,U,1,C,1
+14616,Pacific,R,0,R,0
+14617,Middle Atlantic,C,0,C,0
+14618,Pacific,U,1,C,1
+14619,East North Central,U,1,C,1
+14620,South Atlantic,C,0,C,0
+14621,West South Central,U,1,C,1
+14622,Mountain North,R,1,R,1
+14623,East North Central,U,0,C,0
+14624,South Atlantic,U,1,C,1
+14625,Mountain North,U,1,C,1
+14626,South Atlantic,R,1,R,1
+14627,South Atlantic,U,0,C,0
+14628,Pacific,U,1,C,1
+14629,Pacific,R,1,R,1
+14630,East North Central,U,1,C,1
+14631,West South Central,R,0,R,0
+14632,West South Central,U,1,C,1
+14633,South Atlantic,U,1,C,1
+14634,New England,R,0,R,0
+14635,West South Central,U,1,C,1
+14636,South Atlantic,U,1,C,1
+14637,South Atlantic,U,1,C,1
+14638,West South Central,U,1,C,1
+14639,Middle Atlantic,U,1,C,1
+14640,South Atlantic,U,1,C,1
+14641,South Atlantic,U,1,C,1
+14642,East North Central,U,1,C,1
+14643,Pacific,R,1,R,1
+14644,New England,C,1,C,1
+14645,East North Central,C,1,C,1
+14646,South Atlantic,U,0,C,0
+14647,Middle Atlantic,U,1,C,1
+14648,East North Central,U,1,C,1
+14649,Middle Atlantic,U,1,C,1
+14650,South Atlantic,U,1,C,1
+14651,East South Central,R,1,R,1
+14652,South Atlantic,U,1,C,1
+14653,West South Central,U,0,C,0
+14654,East North Central,C,1,C,1
+14655,Pacific,R,1,R,1
+14656,East North Central,R,0,R,0
+14657,Middle Atlantic,U,1,C,1
+14658,Pacific,U,0,C,0
+14659,East South Central,U,1,C,1
+14660,Middle Atlantic,U,1,C,1
+14661,East South Central,U,1,C,1
+14662,South Atlantic,U,1,C,1
+14663,South Atlantic,U,1,C,1
+14664,East North Central,U,0,C,0
+14665,Pacific,U,1,C,1
+14666,Mountain South,C,1,C,1
+14667,South Atlantic,U,1,C,1
+14668,Middle Atlantic,R,1,R,1
+14669,Middle Atlantic,U,1,C,1
+14670,East North Central,C,1,C,1
+14671,South Atlantic,U,1,C,1
+14672,East North Central,R,0,R,0
+14673,East South Central,U,1,C,1
+14674,Middle Atlantic,U,1,C,1
+14675,West South Central,U,1,C,1
+14676,Pacific,U,1,C,1
+14677,Pacific,U,1,C,1
+14678,East South Central,U,1,C,1
+14679,West North Central,U,1,C,1
+14680,East North Central,R,1,R,1
+14681,East South Central,U,1,C,1
+14682,East North Central,C,0,C,0
+14683,Pacific,U,1,C,1
+14684,Pacific,U,1,C,1
+14685,Middle Atlantic,U,1,C,1
+14686,South Atlantic,U,1,C,1
+14687,Pacific,U,1,C,1
+14688,West North Central,U,1,C,1
+14689,Pacific,U,1,C,1
+14690,Middle Atlantic,U,1,C,1
+14691,East North Central,R,1,R,1
+14692,Pacific,U,0,C,0
+14693,Middle Atlantic,U,1,C,1
+14694,West North Central,U,0,C,0
+14695,Pacific,R,1,R,1
+14696,South Atlantic,U,1,C,1
+14697,East North Central,U,1,C,1
+14698,Mountain South,U,1,C,1
+14699,Pacific,C,1,C,1
+14700,Middle Atlantic,U,1,C,1
+14701,Pacific,U,1,C,1
+14702,East North Central,C,1,C,1
+14703,West North Central,U,1,C,1
+14704,Mountain South,U,1,C,1
+14705,New England,U,1,C,1
+14706,West North Central,U,1,C,1
+14707,Middle Atlantic,R,1,R,1
+14708,Mountain North,U,1,C,1
+14709,Pacific,U,1,C,1
+14710,East North Central,U,1,C,1
+14711,South Atlantic,U,1,C,1
+14712,Pacific,U,1,C,1
+14713,Middle Atlantic,U,1,C,1
+14714,West South Central,U,1,C,1
+14715,East North Central,U,1,C,1
+14716,South Atlantic,U,1,C,1
+14717,East North Central,R,0,R,0
+14718,South Atlantic,U,1,C,1
+14719,West North Central,U,1,C,1
+14720,Pacific,U,1,C,1
+14721,Pacific,U,1,C,1
+14722,South Atlantic,U,1,C,1
+14723,East North Central,U,1,C,1
+14724,Mountain South,U,1,C,1
+14725,Pacific,U,1,C,1
+14726,West South Central,C,1,C,1
+14727,Mountain South,U,1,C,1
+14728,Pacific,U,1,C,1
+14729,South Atlantic,U,1,C,1
+14730,West North Central,U,1,C,1
+14731,Mountain North,U,1,C,1
+14732,South Atlantic,C,1,C,1
+14733,East North Central,R,0,R,0
+14734,South Atlantic,U,1,C,1
+14735,Pacific,U,1,C,1
+14736,East North Central,U,1,C,1
+14737,Pacific,U,1,C,1
+14738,East North Central,R,1,R,1
+14739,Pacific,U,1,C,1
+14740,West South Central,U,1,C,1
+14741,South Atlantic,U,1,C,1
+14742,East North Central,U,1,C,1
+14743,West South Central,C,1,C,1
+14744,East North Central,U,1,C,1
+14745,East North Central,C,1,C,1
+14746,East North Central,U,1,C,1
+14747,West North Central,U,1,C,1
+14748,New England,U,1,C,1
+14749,Pacific,U,1,C,1
+14750,Mountain North,R,1,R,1
+14751,East North Central,U,1,C,1
+14752,East North Central,U,0,C,0
+14753,West South Central,C,0,C,0
+14754,Pacific,U,0,C,0
+14755,South Atlantic,U,1,C,1
+14756,Middle Atlantic,R,1,R,1
+14757,Pacific,U,1,C,1
+14758,Mountain South,U,1,C,1
+14759,East South Central,C,0,C,0
+14760,West South Central,C,1,C,1
+14761,Middle Atlantic,U,1,C,1
+14762,Mountain North,U,1,C,1
+14763,South Atlantic,U,1,C,1
+14764,Mountain North,R,1,R,1
+14765,West North Central,C,1,C,1
+14766,Pacific,U,1,C,1
+14767,Middle Atlantic,C,0,C,0
+14768,New England,R,1,R,1
+14769,South Atlantic,U,1,C,1
+14770,New England,C,0,C,0
+14771,Pacific,U,1,C,1
+14772,Middle Atlantic,U,0,C,0
+14773,South Atlantic,U,1,C,1
+14774,West North Central,U,1,C,1
+14775,South Atlantic,U,1,C,1
+14776,Pacific,U,1,C,1
+14777,South Atlantic,U,1,C,1
+14778,New England,U,1,C,1
+14779,South Atlantic,U,1,C,1
+14780,West South Central,R,1,R,1
+14781,East North Central,U,1,C,1
+14782,West South Central,C,0,C,0
+14783,West North Central,U,1,C,1
+14784,Mountain North,U,1,C,1
+14785,East North Central,C,1,C,1
+14786,New England,C,1,C,1
+14787,West South Central,R,1,R,1
+14788,West South Central,R,1,R,1
+14789,Pacific,U,1,C,1
+14790,South Atlantic,R,1,R,1
+14791,West North Central,U,1,C,1
+14792,Pacific,U,1,C,1
+14793,Mountain South,U,1,C,1
+14794,East South Central,C,1,C,1
+14795,Middle Atlantic,U,1,C,1
+14796,East South Central,U,0,C,0
+14797,West South Central,U,1,C,1
+14798,Middle Atlantic,U,1,C,1
+14799,New England,C,0,C,0
+14800,South Atlantic,U,1,C,1
+14801,Middle Atlantic,U,1,C,1
+14802,Mountain North,U,1,C,1
+14803,South Atlantic,U,1,C,1
+14804,East South Central,U,1,C,1
+14805,West South Central,R,1,R,1
+14806,West South Central,C,1,C,1
+14807,South Atlantic,U,1,C,1
+14808,West North Central,C,1,C,1
+14809,Mountain North,R,1,R,1
+14810,Pacific,U,1,C,1
+14811,West South Central,U,0,C,0
+14812,East South Central,U,1,C,1
+14813,South Atlantic,U,1,C,1
+14814,Middle Atlantic,U,1,C,1
+14815,Pacific,U,1,C,1
+14816,West South Central,U,0,C,0
+14817,West North Central,U,1,C,1
+14818,South Atlantic,R,1,R,1
+14819,South Atlantic,U,1,C,1
+14820,New England,U,1,C,1
+14821,East South Central,C,1,C,1
+14822,South Atlantic,U,1,C,1
+14823,East North Central,U,1,C,1
+14824,Pacific,U,1,C,1
+14825,West South Central,U,1,C,1
+14826,East North Central,R,1,R,1
+14827,South Atlantic,U,1,C,1
+14828,Pacific,U,1,C,1
+14829,West South Central,U,1,C,1
+14830,Middle Atlantic,R,1,R,1
+14831,East South Central,C,1,C,1
+14832,Pacific,U,1,C,1
+14833,South Atlantic,C,0,C,0
+14834,West South Central,U,0,C,0
+14835,East North Central,U,1,C,1
+14836,East South Central,U,1,C,1
+14837,East South Central,U,1,C,1
+14838,West South Central,C,1,C,1
+14839,East North Central,U,0,C,0
+14840,Middle Atlantic,C,1,C,1
+14841,West South Central,U,1,C,1
+14842,West South Central,U,1,C,1
+14843,West South Central,U,1,C,1
+14844,Pacific,U,0,C,0
+14845,East South Central,U,1,C,1
+14846,Mountain North,U,1,C,1
+14847,Pacific,U,0,C,0
+14848,West South Central,U,1,C,1
+14849,Pacific,U,1,C,1
+14850,West North Central,U,1,C,1
+14851,West North Central,U,1,C,1
+14852,Pacific,C,1,C,1
+14853,Mountain South,U,1,C,1
+14854,Pacific,U,1,C,1
+14855,West South Central,R,1,R,1
+14856,East South Central,C,1,C,1
+14857,West South Central,U,1,C,1
+14858,East North Central,U,0,C,0
+14859,South Atlantic,U,1,C,1
+14860,Middle Atlantic,U,1,C,1
+14861,South Atlantic,U,1,C,1
+14862,Pacific,U,1,C,1
+14863,Pacific,C,1,C,1
+14864,South Atlantic,R,1,R,1
+14865,East South Central,U,1,C,1
+14866,South Atlantic,U,1,C,1
+14867,West North Central,U,1,C,1
+14868,Pacific,R,0,R,0
+14869,Mountain South,U,1,C,1
+14870,Pacific,U,1,C,1
+14871,East North Central,U,1,C,1
+14872,Pacific,U,1,C,1
+14873,Middle Atlantic,R,0,R,0
+14874,West South Central,U,1,C,1
+14875,Pacific,U,1,C,1
+14876,East North Central,R,1,R,1
+14877,Middle Atlantic,U,0,C,0
+14878,South Atlantic,U,1,C,1
+14879,Middle Atlantic,U,0,C,0
+14880,Pacific,U,1,C,1
+14881,South Atlantic,C,1,C,1
+14882,West North Central,U,1,C,1
+14883,South Atlantic,R,1,R,1
+14884,West North Central,C,1,C,1
+14885,Pacific,U,1,C,1
+14886,Pacific,U,1,C,1
+14887,Pacific,U,1,C,1
+14888,West South Central,U,1,C,1
+14889,West South Central,R,0,R,0
+14890,South Atlantic,R,1,R,1
+14891,South Atlantic,U,1,C,1
+14892,South Atlantic,U,1,C,1
+14893,Pacific,U,1,C,1
+14894,East North Central,R,1,R,1
+14895,South Atlantic,U,1,C,1
+14896,South Atlantic,U,1,C,1
+14897,East South Central,R,1,R,1
+14898,East North Central,U,1,C,1
+14899,Middle Atlantic,R,1,R,1
+14900,East North Central,U,1,C,1
+14901,East North Central,C,1,C,1
+14902,Middle Atlantic,R,1,R,1
+14903,Pacific,U,1,C,1
+14904,Mountain North,U,1,C,1
+14905,South Atlantic,U,0,C,0
+14906,South Atlantic,U,1,C,1
+14907,Pacific,R,0,R,0
+14908,West South Central,R,1,R,1
+14909,Pacific,U,1,C,1
+14910,Middle Atlantic,R,1,R,1
+14911,East North Central,C,1,C,1
+14912,South Atlantic,U,1,C,1
+14913,West South Central,R,0,R,0
+14914,South Atlantic,U,1,C,1
+14915,Pacific,U,1,C,1
+14916,West South Central,C,0,C,0
+14917,New England,R,1,R,1
+14918,West South Central,R,1,R,1
+14919,Pacific,R,1,R,1
+14920,West North Central,C,1,C,1
+14921,East North Central,U,1,C,1
+14922,Pacific,C,1,C,1
+14923,West South Central,R,0,R,0
+14924,Pacific,U,1,C,1
+14925,West South Central,U,1,C,1
+14926,Mountain North,R,1,R,1
+14927,Mountain North,R,1,R,1
+14928,Pacific,U,0,C,0
+14929,West South Central,U,1,C,1
+14930,East South Central,U,1,C,1
+14931,Pacific,U,1,C,1
+14932,Pacific,U,1,C,1
+14933,West North Central,R,0,R,0
+14934,Pacific,U,1,C,1
+14935,East North Central,U,1,C,1
+14936,Pacific,U,1,C,1
+14937,West North Central,C,1,C,1
+14938,East North Central,R,1,R,1
+14939,East North Central,U,1,C,1
+14940,Pacific,U,1,C,1
+14941,Pacific,U,1,C,1
+14942,West South Central,U,0,C,0
+14943,South Atlantic,U,1,C,1
+14944,Middle Atlantic,U,1,C,1
+14945,South Atlantic,U,1,C,1
+14946,Pacific,U,1,C,1
+14947,Middle Atlantic,R,1,R,1
+14948,East North Central,R,1,R,1
+14949,East South Central,U,1,C,1
+14950,West South Central,U,1,C,1
+14951,New England,R,1,R,1
+14952,Pacific,U,1,C,1
+14953,Pacific,U,1,C,1
+14954,West North Central,U,0,C,0
+14955,East North Central,U,1,C,1
+14956,South Atlantic,U,1,C,1
+14957,East North Central,R,1,R,1
+14958,Middle Atlantic,U,1,C,1
+14959,West North Central,R,1,R,1
+14960,East North Central,U,1,C,1
+14961,Pacific,U,1,C,1
+14962,South Atlantic,R,1,R,1
+14963,Mountain North,U,1,C,1
+14964,Pacific,C,1,C,1
+14965,East North Central,U,1,C,1
+14966,West South Central,C,1,C,1
+14967,East North Central,U,0,C,0
+14968,East North Central,U,0,C,0
+14969,Pacific,U,1,C,1
+14970,Mountain South,U,0,C,0
+14971,South Atlantic,U,1,C,1
+14972,East North Central,C,1,C,1
+14973,Pacific,U,1,C,1
+14974,East North Central,R,1,R,1
+14975,West North Central,U,1,C,1
+14976,Mountain South,U,1,C,1
+14977,Pacific,U,0,C,0
+14978,East North Central,U,1,C,1
+14979,South Atlantic,C,0,C,0
+14980,South Atlantic,U,1,C,1
+14981,South Atlantic,U,1,C,1
+14982,Pacific,R,1,R,1
+14983,Pacific,U,1,C,1
+14984,East North Central,R,1,R,1
+14985,South Atlantic,U,1,C,1
+14986,Mountain South,U,1,C,1
+14987,West North Central,U,0,C,0
+14988,South Atlantic,U,1,C,1
+14989,South Atlantic,U,1,C,1
+14990,West South Central,R,1,R,1
+14991,Mountain South,U,1,C,1
+14992,South Atlantic,R,1,R,1
+14993,Pacific,U,1,C,1
+14994,South Atlantic,U,1,C,1
+14995,South Atlantic,U,1,C,1
+14996,West North Central,C,1,C,1
+14997,South Atlantic,C,1,C,1
+14998,South Atlantic,R,1,R,1
+14999,Pacific,U,1,C,1
+15000,West North Central,U,1,C,1
+15001,Middle Atlantic,U,0,C,0
+15002,East North Central,U,1,C,1
+15003,Pacific,U,1,C,1
+15004,South Atlantic,U,1,C,1
+15005,South Atlantic,U,1,C,1
+15006,East North Central,U,1,C,1
+15007,Mountain North,U,1,C,1
+15008,West North Central,U,1,C,1
+15009,West South Central,R,0,R,0
+15010,Mountain North,U,1,C,1
+15011,West South Central,C,1,C,1
+15012,Mountain South,U,1,C,1
+15013,West North Central,U,1,C,1
+15014,East North Central,U,1,C,1
+15015,Middle Atlantic,U,1,C,1
+15016,South Atlantic,U,1,C,1
+15017,Mountain North,U,1,C,1
+15018,West South Central,U,1,C,1
+15019,South Atlantic,U,0,C,0
+15020,Mountain South,U,1,C,1
+15021,South Atlantic,R,1,R,1
+15022,East North Central,U,1,C,1
+15023,West South Central,U,1,C,1
+15024,Pacific,U,1,C,1
+15025,South Atlantic,C,1,C,1
+15026,New England,C,1,C,1
+15027,Pacific,U,1,C,1
+15028,Mountain South,U,1,C,1
+15029,Pacific,U,1,C,1
+15030,Pacific,U,1,C,1
+15031,Mountain North,U,1,C,1
+15032,West South Central,U,1,C,1
+15033,East North Central,C,1,C,1
+15034,Mountain South,U,1,C,1
+15035,South Atlantic,U,1,C,1
+15036,Pacific,U,1,C,1
+15037,Middle Atlantic,U,1,C,1
+15038,Middle Atlantic,U,1,C,1
+15039,South Atlantic,R,1,R,1
+15040,South Atlantic,U,1,C,1
+15041,Pacific,C,1,C,1
+15042,Middle Atlantic,U,1,C,1
+15043,West South Central,U,1,C,1
+15044,South Atlantic,U,1,C,1
+15045,Pacific,U,1,C,1
+15046,Middle Atlantic,U,1,C,1
+15047,East South Central,U,0,C,0
+15048,East North Central,U,1,C,1
+15049,Pacific,U,1,C,1
+15050,South Atlantic,U,1,C,1
+15051,West North Central,U,1,C,1
+15052,East North Central,R,0,R,0
+15053,Pacific,U,1,C,1
+15054,Pacific,U,1,C,1
+15055,East South Central,R,1,R,1
+15056,Mountain South,U,1,C,1
+15057,South Atlantic,R,0,R,0
+15058,West South Central,U,1,C,1
+15059,New England,U,1,C,1
+15060,East North Central,C,1,C,1
+15061,Pacific,R,1,R,1
+15062,Pacific,U,0,C,0
+15063,West North Central,U,1,C,1
+15064,South Atlantic,U,1,C,1
+15065,East North Central,U,1,C,1
+15066,East South Central,U,1,C,1
+15067,Pacific,U,1,C,1
+15068,East North Central,R,1,R,1
+15069,East North Central,R,1,R,1
+15070,Pacific,U,1,C,1
+15071,West South Central,U,1,C,1
+15072,East North Central,U,1,C,1
+15073,Pacific,U,1,C,1
+15074,South Atlantic,U,1,C,1
+15075,Pacific,U,1,C,1
+15076,East South Central,U,0,C,0
+15077,Pacific,U,1,C,1
+15078,West South Central,C,1,C,1
+15079,East North Central,R,0,R,0
+15080,Pacific,U,1,C,1
+15081,South Atlantic,U,1,C,1
+15082,West North Central,C,1,C,1
+15083,Middle Atlantic,R,0,R,0
+15084,West South Central,U,1,C,1
+15085,South Atlantic,U,1,C,1
+15086,South Atlantic,U,1,C,1
+15087,West South Central,R,1,R,1
+15088,East North Central,U,1,C,1
+15089,East North Central,U,1,C,1
+15090,South Atlantic,U,1,C,1
+15091,West South Central,U,1,C,1
+15092,South Atlantic,R,1,R,1
+15093,Pacific,U,1,C,1
+15094,New England,U,1,C,1
+15095,East South Central,U,1,C,1
+15096,East South Central,U,1,C,1
+15097,South Atlantic,R,1,R,1
+15098,Mountain North,C,1,C,1
+15099,East North Central,R,1,R,1
+15100,South Atlantic,U,1,C,1
+15101,South Atlantic,U,1,C,1
+15102,South Atlantic,U,1,C,1
+15103,East South Central,U,0,C,0
+15104,East North Central,U,0,C,0
+15105,East North Central,U,0,C,0
+15106,East North Central,U,1,C,1
+15107,Pacific,U,1,C,1
+15108,South Atlantic,U,1,C,1
+15109,East South Central,U,1,C,1
+15110,East North Central,U,1,C,1
+15111,South Atlantic,U,1,C,1
+15112,New England,U,1,C,1
+15113,Pacific,U,1,C,1
+15114,Pacific,U,1,C,1
+15115,West North Central,C,1,C,1
+15116,South Atlantic,U,1,C,1
+15117,East North Central,U,1,C,1
+15118,East North Central,U,1,C,1
+15119,Mountain North,U,1,C,1
+15120,East North Central,C,1,C,1
+15121,Mountain North,U,1,C,1
+15122,South Atlantic,U,1,C,1
+15123,East North Central,R,1,R,1
+15124,Mountain North,U,1,C,1
+15125,South Atlantic,U,1,C,1
+15126,West South Central,U,1,C,1
+15127,Pacific,U,1,C,1
+15128,Pacific,U,1,C,1
+15129,East North Central,U,0,C,0
+15130,East North Central,U,1,C,1
+15131,East North Central,U,1,C,1
+15132,East South Central,U,1,C,1
+15133,Pacific,U,1,C,1
+15134,Middle Atlantic,U,1,C,1
+15135,Mountain North,U,1,C,1
+15136,East North Central,U,1,C,1
+15137,West South Central,R,1,R,1
+15138,East North Central,U,0,C,0
+15139,Mountain North,R,0,R,0
+15140,West South Central,R,1,R,1
+15141,Pacific,R,1,R,1
+15142,South Atlantic,R,1,R,1
+15143,South Atlantic,U,1,C,1
+15144,South Atlantic,R,1,R,1
+15145,East North Central,U,1,C,1
+15146,East North Central,U,1,C,1
+15147,Pacific,R,1,R,1
+15148,West South Central,U,1,C,1
+15149,South Atlantic,U,1,C,1
+15150,Mountain South,U,1,C,1
+15151,Pacific,U,1,C,1
+15152,West South Central,U,1,C,1
+15153,West South Central,R,1,R,1
+15154,East North Central,U,0,C,0
+15155,East North Central,C,1,C,1
+15156,Middle Atlantic,U,1,C,1
+15157,East South Central,U,1,C,1
+15158,Mountain North,U,1,C,1
+15159,East North Central,U,1,C,1
+15160,Pacific,R,1,R,1
+15161,West North Central,R,1,R,1
+15162,South Atlantic,U,1,C,1
+15163,West North Central,U,0,C,0
+15164,West North Central,R,0,R,0
+15165,South Atlantic,R,1,R,1
+15166,Middle Atlantic,U,1,C,1
+15167,West South Central,R,1,R,1
+15168,West North Central,R,1,R,1
+15169,Middle Atlantic,U,1,C,1
+15170,Pacific,C,1,C,1
+15171,East North Central,U,0,C,0
+15172,South Atlantic,R,1,R,1
+15173,Mountain South,U,1,C,1
+15174,New England,U,1,C,1
+15175,Pacific,U,1,C,1
+15176,West North Central,U,1,C,1
+15177,East North Central,U,1,C,1
+15178,Pacific,U,1,C,1
+15179,Mountain North,U,1,C,1
+15180,South Atlantic,U,1,C,1
+15181,East North Central,U,1,C,1
+15182,Pacific,U,1,C,1
+15183,Pacific,U,1,C,1
+15184,Pacific,U,1,C,1
+15185,East North Central,U,1,C,1
+15186,Pacific,U,1,C,1
+15187,West South Central,U,0,C,0
+15188,East North Central,U,1,C,1
+15189,Middle Atlantic,U,0,C,0
+15190,Mountain North,U,1,C,1
+15191,Middle Atlantic,U,1,C,1
+15192,East South Central,R,0,R,0
+15193,West North Central,U,1,C,1
+15194,South Atlantic,U,1,C,1
+15195,South Atlantic,U,1,C,1
+15196,Pacific,U,1,C,1
+15197,West North Central,U,1,C,1
+15198,South Atlantic,R,1,R,1
+15199,Mountain North,U,1,C,1
+15200,West North Central,U,1,C,1
+15201,South Atlantic,U,1,C,1
+15202,Middle Atlantic,U,1,C,1
+15203,South Atlantic,R,1,R,1
+15204,New England,R,1,R,1
+15205,South Atlantic,U,1,C,1
+15206,East North Central,U,1,C,1
+15207,West North Central,U,1,C,1
+15208,East South Central,U,1,C,1
+15209,Middle Atlantic,C,0,C,0
+15210,East North Central,U,1,C,1
+15211,East North Central,U,1,C,1
+15212,Pacific,U,1,C,1
+15213,West North Central,U,1,C,1
+15214,West South Central,C,0,C,0
+15215,East South Central,U,1,C,1
+15216,Pacific,U,1,C,1
+15217,West North Central,U,1,C,1
+15218,Pacific,U,1,C,1
+15219,East North Central,U,1,C,1
+15220,Pacific,U,1,C,1
+15221,New England,U,1,C,1
+15222,Mountain North,U,1,C,1
+15223,South Atlantic,U,1,C,1
+15224,Middle Atlantic,U,1,C,1
+15225,East South Central,C,1,C,1
+15226,West North Central,U,1,C,1
+15227,South Atlantic,U,1,C,1
+15228,Pacific,U,1,C,1
+15229,Middle Atlantic,U,1,C,1
+15230,West North Central,R,1,R,1
+15231,Pacific,U,1,C,1
+15232,Pacific,U,1,C,1
+15233,South Atlantic,U,1,C,1
+15234,Pacific,U,1,C,1
+15235,South Atlantic,U,1,C,1
+15236,West South Central,U,1,C,1
+15237,West South Central,U,1,C,1
+15238,Middle Atlantic,U,1,C,1
+15239,South Atlantic,U,0,C,0
+15240,South Atlantic,U,0,C,0
+15241,Pacific,U,1,C,1
+15242,West North Central,U,1,C,1
+15243,Mountain North,U,1,C,1
+15244,Middle Atlantic,U,1,C,1
+15245,South Atlantic,R,1,R,1
+15246,East North Central,U,1,C,1
+15247,East North Central,R,1,R,1
+15248,East North Central,U,1,C,1
+15249,East North Central,U,1,C,1
+15250,Mountain North,U,1,C,1
+15251,East South Central,U,1,C,1
+15252,Pacific,U,1,C,1
+15253,East North Central,U,1,C,1
+15254,Pacific,U,1,C,1
+15255,West South Central,U,1,C,1
+15256,East North Central,U,1,C,1
+15257,Pacific,U,0,C,0
+15258,South Atlantic,U,1,C,1
+15259,Middle Atlantic,R,1,R,1
+15260,Pacific,U,1,C,1
+15261,Middle Atlantic,U,1,C,1
+15262,Middle Atlantic,U,1,C,1
+15263,East North Central,U,0,C,0
+15264,West North Central,R,0,R,0
+15265,South Atlantic,U,1,C,1
+15266,South Atlantic,U,1,C,1
+15267,West North Central,U,1,C,1
+15268,Pacific,R,1,R,1
+15269,Mountain South,U,1,C,1
+15270,West South Central,U,1,C,1
+15271,Pacific,U,1,C,1
+15272,East North Central,U,1,C,1
+15273,Pacific,U,1,C,1
+15274,Pacific,U,1,C,1
+15275,Mountain South,U,1,C,1
+15276,South Atlantic,U,1,C,1
+15277,East North Central,U,1,C,1
+15278,West South Central,C,1,C,1
+15279,Pacific,U,1,C,1
+15280,West South Central,U,0,C,0
+15281,West South Central,U,1,C,1
+15282,Middle Atlantic,U,0,C,0
+15283,East North Central,U,1,C,1
+15284,South Atlantic,U,1,C,1
+15285,Middle Atlantic,U,1,C,1
+15286,Middle Atlantic,U,1,C,1
+15287,Middle Atlantic,C,1,C,1
+15288,West North Central,U,1,C,1
+15289,Pacific,U,1,C,1
+15290,Mountain South,U,1,C,1
+15291,Pacific,U,1,C,1
+15292,East South Central,R,0,R,0
+15293,Pacific,C,1,C,1
+15294,Pacific,U,1,C,1
+15295,West North Central,U,1,C,1
+15296,Pacific,U,1,C,1
+15297,East North Central,R,1,R,1
+15298,East North Central,U,1,C,1
+15299,Pacific,U,1,C,1
+15300,South Atlantic,U,1,C,1
+15301,Middle Atlantic,U,1,C,1
+15302,South Atlantic,U,1,C,1
+15303,West South Central,R,1,R,1
+15304,South Atlantic,U,1,C,1
+15305,Pacific,U,1,C,1
+15306,Pacific,U,1,C,1
+15307,New England,C,1,C,1
+15308,South Atlantic,U,1,C,1
+15309,South Atlantic,U,1,C,1
+15310,Pacific,U,1,C,1
+15311,East South Central,R,1,R,1
+15312,Pacific,U,1,C,1
+15313,Middle Atlantic,R,1,R,1
+15314,West North Central,R,0,R,0
+15315,East North Central,C,1,C,1
+15316,West North Central,C,1,C,1
+15317,Middle Atlantic,U,1,C,1
+15318,West North Central,U,1,C,1
+15319,West South Central,U,1,C,1
+15320,West South Central,U,1,C,1
+15321,Pacific,U,0,C,0
+15322,Middle Atlantic,U,1,C,1
+15323,South Atlantic,U,1,C,1
+15324,South Atlantic,U,1,C,1
+15325,South Atlantic,U,1,C,1
+15326,South Atlantic,U,1,C,1
+15327,West North Central,U,1,C,1
+15328,Mountain North,U,1,C,1
+15329,West North Central,U,1,C,1
+15330,Middle Atlantic,U,1,C,1
+15331,West North Central,R,1,R,1
+15332,South Atlantic,R,1,R,1
+15333,South Atlantic,R,0,R,0
+15334,South Atlantic,U,1,C,1
+15335,Mountain South,U,1,C,1
+15336,Middle Atlantic,R,1,R,1
+15337,West South Central,U,1,C,1
+15338,New England,C,1,C,1
+15339,East South Central,R,1,R,1
+15340,Middle Atlantic,R,1,R,1
+15341,Mountain North,U,1,C,1
+15342,New England,R,1,R,1
+15343,East North Central,U,1,C,1
+15344,East South Central,U,0,C,0
+15345,Pacific,U,1,C,1
+15346,West North Central,U,1,C,1
+15347,Middle Atlantic,U,1,C,1
+15348,East North Central,C,1,C,1
+15349,South Atlantic,R,0,R,0
+15350,East North Central,U,1,C,1
+15351,Pacific,U,1,C,1
+15352,South Atlantic,U,1,C,1
+15353,Middle Atlantic,U,1,C,1
+15354,Pacific,U,1,C,1
+15355,Pacific,U,1,C,1
+15356,South Atlantic,U,1,C,1
+15357,South Atlantic,R,1,R,1
+15358,East South Central,C,1,C,1
+15359,Middle Atlantic,U,1,C,1
+15360,Mountain North,U,0,C,0
+15361,South Atlantic,U,1,C,1
+15362,Pacific,U,1,C,1
+15363,Pacific,U,1,C,1
+15364,East North Central,U,1,C,1
+15365,East South Central,U,0,C,0
+15366,Middle Atlantic,R,1,R,1
+15367,Mountain South,U,0,C,0
+15368,East North Central,C,1,C,1
+15369,New England,U,1,C,1
+15370,South Atlantic,U,1,C,1
+15371,New England,R,0,R,0
+15372,East South Central,C,1,C,1
+15373,Mountain North,R,1,R,1
+15374,Mountain South,R,1,R,1
+15375,East North Central,U,1,C,1
+15376,West North Central,U,1,C,1
+15377,East North Central,U,1,C,1
+15378,East South Central,R,0,R,0
+15379,Pacific,R,1,R,1
+15380,Pacific,U,1,C,1
+15381,Middle Atlantic,U,1,C,1
+15382,South Atlantic,U,1,C,1
+15383,New England,R,1,R,1
+15384,Mountain North,U,1,C,1
+15385,Pacific,U,1,C,1
+15386,Mountain South,U,1,C,1
+15387,Pacific,U,1,C,1
+15388,Pacific,C,0,C,0
+15389,Pacific,U,1,C,1
+15390,Pacific,U,0,C,0
+15391,Pacific,U,1,C,1
+15392,New England,U,1,C,1
+15393,East South Central,R,1,R,1
+15394,East North Central,U,1,C,1
+15395,Pacific,U,1,C,1
+15396,West South Central,U,1,C,1
+15397,East North Central,R,1,R,1
+15398,East North Central,U,1,C,1
+15399,New England,C,1,C,1
+15400,Pacific,U,1,C,1
+15401,West South Central,R,1,R,1
+15402,New England,C,0,C,0
+15403,South Atlantic,R,1,R,1
+15404,Pacific,U,1,C,1
+15405,East North Central,U,1,C,1
+15406,West South Central,R,0,R,0
+15407,Pacific,R,1,R,1
+15408,Pacific,U,1,C,1
+15409,South Atlantic,U,1,C,1
+15410,East North Central,U,1,C,1
+15411,Mountain North,R,1,R,1
+15412,West North Central,U,1,C,1
+15413,East North Central,U,1,C,1
+15414,Middle Atlantic,U,0,C,0
+15415,New England,U,1,C,1
+15416,Mountain South,U,1,C,1
+15417,East North Central,U,1,C,1
+15418,New England,U,1,C,1
+15419,Pacific,U,1,C,1
+15420,Pacific,U,1,C,1
+15421,Pacific,U,1,C,1
+15422,Pacific,U,0,C,0
+15423,East South Central,U,1,C,1
+15424,Mountain South,U,1,C,1
+15425,New England,C,1,C,1
+15426,Middle Atlantic,U,1,C,1
+15427,East North Central,U,1,C,1
+15428,East South Central,U,1,C,1
+15429,South Atlantic,U,1,C,1
+15430,Middle Atlantic,U,1,C,1
+15431,South Atlantic,U,1,C,1
+15432,West South Central,R,1,R,1
+15433,Middle Atlantic,R,1,R,1
+15434,East South Central,R,0,R,0
+15435,East North Central,U,1,C,1
+15436,East North Central,C,1,C,1
+15437,South Atlantic,U,1,C,1
+15438,East South Central,U,1,C,1
+15439,West South Central,C,1,C,1
+15440,Pacific,C,1,C,1
+15441,East North Central,U,1,C,1
+15442,East South Central,R,1,R,1
+15443,Pacific,C,1,C,1
+15444,South Atlantic,R,1,R,1
+15445,South Atlantic,U,1,C,1
+15446,Mountain North,U,1,C,1
+15447,Pacific,U,1,C,1
+15448,South Atlantic,U,1,C,1
+15449,East North Central,U,1,C,1
+15450,West North Central,U,0,C,0
+15451,South Atlantic,U,1,C,1
+15452,Middle Atlantic,U,0,C,0
+15453,East North Central,U,1,C,1
+15454,Pacific,U,1,C,1
+15455,Pacific,U,0,C,0
+15456,Pacific,U,1,C,1
+15457,Middle Atlantic,R,1,R,1
+15458,Middle Atlantic,U,1,C,1
+15459,Pacific,U,1,C,1
+15460,Middle Atlantic,U,1,C,1
+15461,Pacific,U,1,C,1
+15462,New England,U,1,C,1
+15463,Pacific,U,1,C,1
+15464,East North Central,U,1,C,1
+15465,Pacific,U,1,C,1
+15466,Pacific,U,1,C,1
+15467,Pacific,U,1,C,1
+15468,South Atlantic,U,1,C,1
+15469,West North Central,U,1,C,1
+15470,South Atlantic,U,1,C,1
+15471,South Atlantic,C,0,C,0
+15472,West North Central,U,0,C,0
+15473,East North Central,C,1,C,1
+15474,East North Central,R,1,R,1
+15475,Middle Atlantic,U,1,C,1
+15476,East North Central,U,0,C,0
+15477,Pacific,U,1,C,1
+15478,West North Central,R,1,R,1
+15479,Mountain South,U,1,C,1
+15480,East South Central,U,1,C,1
+15481,South Atlantic,C,1,C,1
+15482,East South Central,U,1,C,1
+15483,New England,U,1,C,1
+15484,West North Central,R,1,R,1
+15485,Middle Atlantic,U,0,C,0
+15486,Pacific,R,1,R,1
+15487,West South Central,R,1,R,1
+15488,Pacific,U,1,C,1
+15489,South Atlantic,U,1,C,1
+15490,East North Central,U,1,C,1
+15491,Pacific,U,1,C,1
+15492,Middle Atlantic,U,1,C,1
+15493,West South Central,U,0,C,0
+15494,East North Central,R,1,R,1
+15495,Pacific,R,1,R,1
+15496,Middle Atlantic,U,1,C,1
+15497,West South Central,U,1,C,1
+15498,South Atlantic,U,1,C,1
+15499,Mountain North,U,1,C,1
+15500,Pacific,U,1,C,1
+15501,Mountain North,U,1,C,1
+15502,West North Central,U,1,C,1
+15503,Pacific,U,1,C,1
+15504,East North Central,U,1,C,1
+15505,Pacific,U,1,C,1
+15506,South Atlantic,U,1,C,1
+15507,Mountain South,U,1,C,1
+15508,Middle Atlantic,U,1,C,1
+15509,East North Central,U,1,C,1
+15510,Mountain North,R,1,R,1
+15511,South Atlantic,C,1,C,1
+15512,South Atlantic,R,1,R,1
+15513,Middle Atlantic,R,1,R,1
+15514,Pacific,U,1,C,1
+15515,Pacific,U,1,C,1
+15516,Pacific,C,1,C,1
+15517,Mountain North,U,0,C,0
+15518,Middle Atlantic,U,1,C,1
+15519,West South Central,U,1,C,1
+15520,West South Central,U,1,C,1
+15521,East North Central,R,1,R,1
+15522,South Atlantic,C,1,C,1
+15523,Pacific,U,0,C,0
+15524,South Atlantic,U,1,C,1
+15525,West North Central,C,1,C,1
+15526,Middle Atlantic,U,1,C,1
+15527,West South Central,U,1,C,1
+15528,South Atlantic,U,1,C,1
+15529,South Atlantic,C,1,C,1
+15530,East South Central,U,1,C,1
+15531,Mountain South,U,0,C,0
+15532,East North Central,U,1,C,1
+15533,East South Central,C,0,C,0
+15534,West South Central,U,1,C,1
+15535,East North Central,R,1,R,1
+15536,West South Central,R,1,R,1
+15537,East South Central,R,0,R,0
+15538,Pacific,U,1,C,1
+15539,East North Central,U,1,C,1
+15540,South Atlantic,R,1,R,1
+15541,Pacific,U,1,C,1
+15542,Pacific,U,1,C,1
+15543,Middle Atlantic,U,1,C,1
+15544,Mountain South,U,1,C,1
+15545,Pacific,C,1,C,1
+15546,East North Central,C,1,C,1
+15547,South Atlantic,U,1,C,1
+15548,West South Central,U,1,C,1
+15549,South Atlantic,U,0,C,0
+15550,West South Central,U,1,C,1
+15551,East North Central,R,1,R,1
+15552,Middle Atlantic,U,1,C,1
+15553,Pacific,U,1,C,1
+15554,Middle Atlantic,U,1,C,1
+15555,Pacific,U,1,C,1
+15556,Middle Atlantic,U,1,C,1
+15557,Middle Atlantic,U,1,C,1
+15558,West North Central,U,1,C,1
+15559,South Atlantic,R,1,R,1
+15560,East South Central,R,1,R,1
+15561,East North Central,R,1,R,1
+15562,New England,C,0,C,0
+15563,South Atlantic,U,1,C,1
+15564,East North Central,U,1,C,1
+15565,East South Central,U,1,C,1
+15566,Middle Atlantic,R,1,R,1
+15567,East North Central,U,1,C,1
+15568,East North Central,U,1,C,1
+15569,East South Central,U,0,C,0
+15570,West South Central,C,1,C,1
+15571,Pacific,C,1,C,1
+15572,New England,C,1,C,1
+15573,East North Central,U,1,C,1
+15574,Middle Atlantic,U,1,C,1
+15575,New England,U,1,C,1
+15576,New England,U,1,C,1
+15577,East North Central,U,0,C,0
+15578,East South Central,R,0,R,0
+15579,Pacific,R,1,R,1
+15580,New England,U,1,C,1
+15581,South Atlantic,U,1,C,1
+15582,West South Central,U,1,C,1
+15583,South Atlantic,U,1,C,1
+15584,East South Central,R,1,R,1
+15585,Mountain North,R,1,R,1
+15586,Mountain South,U,1,C,1
+15587,Mountain North,U,1,C,1
+15588,Middle Atlantic,R,1,R,1
+15589,Pacific,U,1,C,1
+15590,South Atlantic,U,1,C,1
+15591,West South Central,U,0,C,0
+15592,Pacific,C,1,C,1
+15593,Mountain South,R,0,R,0
+15594,Pacific,U,1,C,1
+15595,East North Central,U,1,C,1
+15596,East South Central,R,1,R,1
+15597,Pacific,U,1,C,1
+15598,West North Central,R,0,R,0
+15599,Pacific,U,1,C,1
+15600,Pacific,U,1,C,1
+15601,East South Central,C,1,C,1
+15602,Pacific,U,1,C,1
+15603,Mountain South,U,1,C,1
+15604,East South Central,U,1,C,1
+15605,Mountain North,U,1,C,1
+15606,East North Central,U,1,C,1
+15607,Middle Atlantic,U,1,C,1
+15608,Pacific,U,1,C,1
+15609,West South Central,U,1,C,1
+15610,Middle Atlantic,U,1,C,1
+15611,Pacific,U,0,C,0
+15612,West North Central,U,1,C,1
+15613,Middle Atlantic,U,1,C,1
+15614,South Atlantic,U,1,C,1
+15615,Pacific,U,0,C,0
+15616,West North Central,U,1,C,1
+15617,South Atlantic,R,1,R,1
+15618,East North Central,U,1,C,1
+15619,Mountain North,U,1,C,1
+15620,West North Central,U,1,C,1
+15621,New England,U,1,C,1
+15622,Pacific,U,1,C,1
+15623,Mountain South,U,1,C,1
+15624,Pacific,U,1,C,1
+15625,Middle Atlantic,C,1,C,1
+15626,Pacific,U,1,C,1
+15627,Middle Atlantic,U,1,C,1
+15628,West South Central,U,0,C,0
+15629,Pacific,U,1,C,1
+15630,East South Central,R,0,R,0
+15631,East North Central,U,0,C,0
+15632,Mountain North,R,1,R,1
+15633,South Atlantic,C,0,C,0
+15634,East North Central,U,1,C,1
+15635,East North Central,U,1,C,1
+15636,Mountain North,U,1,C,1
+15637,Mountain North,U,1,C,1
+15638,Mountain South,U,1,C,1
+15639,South Atlantic,U,1,C,1
+15640,South Atlantic,U,1,C,1
+15641,Middle Atlantic,U,0,C,0
+15642,Middle Atlantic,U,1,C,1
+15643,New England,C,1,C,1
+15644,East South Central,U,0,C,0
+15645,Pacific,U,1,C,1
+15646,West South Central,U,1,C,1
+15647,New England,U,1,C,1
+15648,South Atlantic,U,1,C,1
+15649,West South Central,U,1,C,1
+15650,West South Central,U,1,C,1
+15651,Middle Atlantic,U,1,C,1
+15652,Mountain South,U,0,C,0
+15653,Pacific,U,1,C,1
+15654,West North Central,U,1,C,1
+15655,East North Central,C,1,C,1
+15656,Pacific,U,1,C,1
+15657,Pacific,U,1,C,1
+15658,Pacific,R,1,R,1
+15659,West South Central,U,1,C,1
+15660,Pacific,U,1,C,1
+15661,Mountain North,C,1,C,1
+15662,East North Central,U,1,C,1
+15663,East South Central,C,1,C,1
+15664,East North Central,C,1,C,1
+15665,East North Central,U,0,C,0
+15666,Middle Atlantic,R,1,R,1
+15667,South Atlantic,U,1,C,1
+15668,New England,R,1,R,1
+15669,East North Central,U,0,C,0
+15670,Middle Atlantic,U,1,C,1
+15671,Middle Atlantic,C,1,C,1
+15672,Middle Atlantic,U,1,C,1
+15673,Middle Atlantic,U,1,C,1
+15674,Middle Atlantic,U,1,C,1
+15675,Mountain North,C,1,C,1
+15676,South Atlantic,C,0,C,0
+15677,South Atlantic,U,1,C,1
+15678,New England,R,1,R,1
+15679,East North Central,U,1,C,1
+15680,Mountain South,U,1,C,1
+15681,West South Central,R,1,R,1
+15682,East North Central,U,0,C,0
+15683,East South Central,C,1,C,1
+15684,East North Central,U,0,C,0
+15685,West South Central,R,1,R,1
+15686,East North Central,U,1,C,1

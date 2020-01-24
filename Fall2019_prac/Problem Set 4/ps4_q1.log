@@ -1,0 +1,317 @@
+--------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4\ps4_q1.log
+  log type:  text
+ opened on:  23 Nov 2019, 17:52:40
+
+. cd "C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4"
+C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4
+
+. 
+. clear                                   // Start clean
+
+. 
+. * Data Prep: -------------------------------------------------------------------
+. // import delimited mousetrap_data.csv
+. // The data is downloaded from github Stats506_F19
+. // https://github.com/jbhender/Stats506_F19/blob/master/problem_sets/data/mousetrap_data.csv
+. 
+. local mouse_file "mousetrap_data.csv"
+
+. local mouse_url = "https://github.com/jbhender/Stats506_F19/blob/master/problem_sets/data"
+
+. capture confirm file `mouse_file'
+
+. if _rc==0 {
+.   display "Loading local file"
+Loading local file
+.   import delimited `mouse_file', clear
+(8 vars, 1,064 obs)
+. }
+
+. else {
+.   display "Download file and create local copy"
+.   import delimited `mouse_url'`mouse_file', clear
+.   export delimited `mouse_file'
+. }
+
+. 
+. replace auc = max(auc,1)
+(3 real changes made)
+
+. 
+. replace tot_dist = log(tot_dist)
+(1,064 real changes made)
+
+. replace max_abs_dev = log(max_abs_dev)
+(1,064 real changes made)
+
+. replace avg_abs_dev = log(avg_abs_dev)
+(1,064 real changes made)
+
+. replace auc = log(auc)
+(1,064 real changes made)
+
+. 
+. encode condition, generate(condition_i)
+
+. replace condition_i = (-1)*condition_i+2
+(744 real changes made)
+
+. encode exemplar, generate(exemplar_i)
+
+. 
+. mixed tot_dist condition_i ||_all:R.subject_nr ||_all:R.exemplar
+
+Performing EM optimization: 
+
+Performing gradient-based optimization: 
+
+Iteration 0:   log likelihood = -290.32937  
+Iteration 1:   log likelihood = -290.32937  
+
+Computing standard errors:
+
+Mixed-effects ML regression                     Number of obs     =      1,064
+Group variable: _all                            Number of groups  =          1
+
+                                                Obs per group:
+                                                              min =      1,064
+                                                              avg =    1,064.0
+                                                              max =      1,064
+
+                                                Wald chi2(1)      =      18.99
+Log likelihood = -290.32937                     Prob > chi2       =     0.0000
+
+------------------------------------------------------------------------------
+    tot_dist |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ condition_i |   .1613632   .0370304     4.36   0.000      .088785    .2339414
+       _cons |   7.151627   .0239855   298.16   0.000     7.104616    7.198638
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+  Random-effects Parameters  |   Estimate   Std. Err.     [95% Conf. Interval]
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.subjec~r) |   .0089411   .0026381      .0050147    .0159418
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.exemplar) |   .0038946   .0018468      .0015376    .0098648
+-----------------------------+------------------------------------------------
+               var(Residual) |   .0935915   .0042206      .0856743    .1022403
+------------------------------------------------------------------------------
+LR test vs. linear model: chi2(2) = 50.53                 Prob > chi2 = 0.0000
+
+Note: LR test is conservative and provided only for reference.
+
+. matrix b1 = e(b)
+
+. matrix v1 = e(V)
+
+. 
+. mixed max_abs_dev condition_i ||_all:R.subject_nr ||_all:R.exemplar
+
+Performing EM optimization: 
+
+Performing gradient-based optimization: 
+
+Iteration 0:   log likelihood = -1626.4639  
+Iteration 1:   log likelihood = -1626.4639  
+
+Computing standard errors:
+
+Mixed-effects ML regression                     Number of obs     =      1,064
+Group variable: _all                            Number of groups  =          1
+
+                                                Obs per group:
+                                                              min =      1,064
+                                                              avg =    1,064.0
+                                                              max =      1,064
+
+                                                Wald chi2(1)      =      20.41
+Log likelihood = -1626.4639                     Prob > chi2       =     0.0000
+
+------------------------------------------------------------------------------
+ max_abs_dev |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ condition_i |   .5099528   .1128828     4.52   0.000     .2887065    .7311991
+       _cons |   4.767534   .0782744    60.91   0.000     4.614119    4.920949
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+  Random-effects Parameters  |   Estimate   Std. Err.     [95% Conf. Interval]
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.subjec~r) |   .1311094   .0361334      .0763915    .2250208
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.exemplar) |   .0309788   .0171788      .0104482    .0918515
+-----------------------------+------------------------------------------------
+               var(Residual) |   1.151791   .0519265      1.054384    1.258197
+------------------------------------------------------------------------------
+LR test vs. linear model: chi2(2) = 54.27                 Prob > chi2 = 0.0000
+
+Note: LR test is conservative and provided only for reference.
+
+. matrix b2 = e(b)
+
+. matrix v2 = e(V)
+
+. 
+. mixed avg_abs_dev condition_i ||_all:R.subject_nr ||_all:R.exemplar
+
+Performing EM optimization: 
+
+Performing gradient-based optimization: 
+
+Iteration 0:   log likelihood =  -1797.123  
+Iteration 1:   log likelihood =  -1797.123  
+
+Computing standard errors:
+
+Mixed-effects ML regression                     Number of obs     =      1,064
+Group variable: _all                            Number of groups  =          1
+
+                                                Obs per group:
+                                                              min =      1,064
+                                                              avg =    1,064.0
+                                                              max =      1,064
+
+                                                Wald chi2(1)      =      25.09
+Log likelihood =  -1797.123                     Prob > chi2       =     0.0000
+
+------------------------------------------------------------------------------
+ avg_abs_dev |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ condition_i |   .6510174   .1299681     5.01   0.000     .3962846    .9057503
+       _cons |   3.081997    .096522    31.93   0.000     2.892817    3.271176
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+  Random-effects Parameters  |   Estimate   Std. Err.     [95% Conf. Interval]
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.subjec~r) |   .2456525   .0612652      .1506723    .4005059
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.exemplar) |   .0402873   .0229428      .0131955    .1230012
+-----------------------------+------------------------------------------------
+               var(Residual) |   1.568348   .0706846      1.435751     1.71319
+------------------------------------------------------------------------------
+LR test vs. linear model: chi2(2) = 80.27                 Prob > chi2 = 0.0000
+
+Note: LR test is conservative and provided only for reference.
+
+. matrix b3 = e(b)
+
+. matrix v3 = e(V)
+
+. 
+. mixed auc condition_i ||_all:R.subject_nr ||_all:R.exemplar
+
+Performing EM optimization: 
+
+Performing gradient-based optimization: 
+
+Iteration 0:   log likelihood =  -1755.126  
+Iteration 1:   log likelihood = -1755.1241  
+Iteration 2:   log likelihood = -1755.1241  
+
+Computing standard errors:
+
+Mixed-effects ML regression                     Number of obs     =      1,064
+Group variable: _all                            Number of groups  =          1
+
+                                                Obs per group:
+                                                              min =      1,064
+                                                              avg =    1,064.0
+                                                              max =      1,064
+
+                                                Wald chi2(1)      =      11.83
+Log likelihood = -1755.1241                     Prob > chi2       =     0.0006
+
+------------------------------------------------------------------------------
+         auc |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+ condition_i |   .3496476   .1016627     3.44   0.001     .1503923    .5489029
+       _cons |   10.99593   .0698757   157.36   0.000     10.85898    11.13289
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+  Random-effects Parameters  |   Estimate   Std. Err.     [95% Conf. Interval]
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.subjec~r) |    .103438   .0346315      .0536653    .1993729
+-----------------------------+------------------------------------------------
+_all: Identity               |
+             var(R.exemplar) |   .0146427   .0140237      .0022408    .0956836
+-----------------------------+------------------------------------------------
+               var(Residual) |   1.505032    .067832      1.377786    1.644029
+------------------------------------------------------------------------------
+LR test vs. linear model: chi2(2) = 24.25                 Prob > chi2 = 0.0000
+
+Note: LR test is conservative and provided only for reference.
+
+. matrix b4 = e(b)
+
+. matrix v4 = e(V)
+
+. 
+. mata
+------------------------------------------------- mata (type end to exit) ------------------------------------------------------
+: b1_mata = st_matrix("b1")
+
+: b2_mata = st_matrix("b2")
+
+: b3_mata = st_matrix("b3")
+
+: b4_mata = st_matrix("b4")
+
+: 
+: v1_mata = st_matrix("v1")
+
+: v2_mata = st_matrix("v2")
+
+: v3_mata = st_matrix("v3")
+
+: v4_mata = st_matrix("v4")
+
+: 
+: a1 = (exp(b1_mata[1,1]), exp(b1_mata[1,1]-sqrt(v1_mata[1,1])*1.96),  exp(b1_mata[1,1]+sqrt(v1_mata[1,1])*1.96))
+
+: a2 = (exp(b2_mata[1,1]), exp(b2_mata[1,1]-sqrt(v2_mata[1,1])*1.96),  exp(b2_mata[1,1]+sqrt(v2_mata[1,1])*1.96))
+
+: a3 = (exp(b3_mata[1,1]), exp(b3_mata[1,1]-sqrt(v3_mata[1,1])*1.96),  exp(b3_mata[1,1]+sqrt(v3_mata[1,1])*1.96))
+
+: a4 = (exp(b4_mata[1,1]), exp(b4_mata[1,1]-sqrt(v4_mata[1,1])*1.96),  exp(b4_mata[1,1]+sqrt(v4_mata[1,1])*1.96))
+
+: 
+: a = a1\a2\a3\a4
+
+: 
+: st_matrix("re", a)
+
+: 
+: end
+--------------------------------------------------------------------------------------------------------------------------------
+
+. matrix rownames re=Total_Distance Maximum_Absolute_Deviation Average_Absolute_Deviation AUC
+
+. matrix colnames re=Relative_effect_est Relative_effect_lwr Relative_effect_upr
+
+. 
+. putexcel set ps4_q1.xls, replace
+Note: file will be replaced when the first putexcel command is issued
+
+. putexcel A1 = matrix(re), names
+file ps4_q1.xls saved
+
+. 
+. * Script Cleanup: --------------------------------------------------------------
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4\ps4_q1.log
+  log type:  text
+ closed on:  23 Nov 2019, 17:52:45
+--------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,334 @@
+------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4\case_
+> study.log
+  log type:  text
+ opened on:  17 Nov 2019, 17:10:00
+
+. 
+. 
+. 
+. // data prep
+/ is not a valid command name
+r(199);
+
+. 
+. local recs_file "recs2015_public_v4.csv"
+
+. 
+. local recs_url = "https://www.eia.gov/consumption/residential/data/2015/csv/"
+
+. 
+. capture confirm file "`recs_file'"
+
+. 
+. if _rc==0 {
+. 
+.   display "Importing local file"
+Importing local file
+. 
+.   import delimited `recs_file', clear
+(759 vars, 5,686 obs)
+. 
+. } 
+
+. 
+. else {
+. 
+.   display "Download file and create local copy"
+. 
+.   import delimited `recs_url'`recs_file', clear
+. 
+.   export delimited `recs_file', replace
+. 
+. }
+
+. 
+. 
+. 
+. *preserve
+
+. 
+. 
+. 
+. // We will use these variable names repeatedly.
+/ is not a valid command name
+r(199);
+
+. 
+. local vars = "kwh cufeetng gallonlp gallonfo"
+
+. 
+. 
+. 
+. // keep primary energy use variables
+/ is not a valid command name
+r(199);
+
+. 
+. *frame copy default key_vars
+
+. 
+. *frame key_vars: keep doeid nweight `vars'
+
+. 
+. frame put `vars', into(key_vars)
+
+. 
+. *save recs2015_fuels.dta, replace
+
+. 
+. 
+. 
+. // generate contributions to estimate for national total
+/ is not a valid command name
+r(199);
+
+. 
+. local vars = "kwh cufeetng gallonlp gallonfo" // for debugging
+for not found
+r(111);
+
+. 
+. foreach var in `vars' {
+  2. 
+.   frame key_vars: generate t`var'=`var'*nweight
+  3. 
+. }
+nweight not found
+r(111);
+
+. 
+. 
+. 
+. // compute point estimates for national totals
+/ is not a valid command name
+r(199);
+
+. 
+. frame copy key_vars fuel_pe
+
+. 
+. frame key_vars: keep doeid t*
+variable doeid not found
+r(111);
+
+. 
+. frame key_vars: collapse (sum) t*
+variable t* not found
+r(111);
+
+. 
+. 
+. 
+. // add a fake variable to merge on later and save
+/ is not a valid command name
+r(199);
+
+. 
+. frame key_vars: generate fid=0
+
+. 
+. *save recs2015_fuels_petotal.dta, replace
+
+. 
+. 
+. 
+. // keep replicate weights and reshape to long
+/ is not a valid command name
+r(199);
+
+. 
+. *restore
+
+. 
+. *frame copy default weights
+
+. 
+. *keep doeid brrwt1-brrwt96
+
+. 
+. frame put brrwt*, into(weights)
+
+. 
+. 
+. 
+. frame weights: reshape long brrwt, i(doeid) j(repl)
+variable doeid not found
+r(111);
+
+. 
+. //frame weights: save recs2015_brrwt_long.dta // if needed again later
+/ is not a valid command name
+r(199);
+
+. 
+. 
+. 
+. // merge together
+/ is not a valid command name
+r(199);
+
+. 
+. merge m:1 doeid using recs2015_fuels.dta
+file recs2015_fuels.dta not found
+r(601);
+
+. 
+. 
+. 
+. // compute replicate estimates 
+/ is not a valid command name
+r(199);
+
+. 
+. foreach var in `vars' {
+  2. 
+.   generate t`var'_r=`var'*brrwt
+  3. 
+. }
+brrwt ambiguous abbreviation
+r(111);
+
+. 
+. 
+. 
+. collapse (sum) t*_r, by(repl)
+variable repl not found
+(error in option by())
+r(111);
+
+. 
+. 
+. 
+. // merge against point estimates using fid
+/ is not a valid command name
+r(199);
+
+. 
+. 
+. 
+. generate fid=0
+
+. 
+. merge m:1 fid using recs2015_fuels_petotal.dta
+file recs2015_fuels_petotal.dta not found
+r(601);
+
+. 
+. 
+. 
+. // compute residuals
+/ is not a valid command name
+r(199);
+
+. 
+. foreach var in `vars' {
+  2. 
+.   generate rsq_`var'= (t`var'-t`var'_r)^2
+  3. 
+. }
+tkwh not found
+r(111);
+
+. 
+. 
+. 
+. // collapse to point estimates and standard errors
+/ is not a valid command name
+r(199);
+
+. 
+. drop *_r
+variable *_r not found
+r(111);
+
+. 
+. collapse (first) t* (mean) rsq_*
+variable rsq_* not found
+r(111);
+
+. 
+. 
+. 
+. // Fay coefficient
+/ is not a valid command name
+r(199);
+
+. 
+. foreach var in `vars' {
+  2. 
+.   replace rsq_`var' = 2*sqrt(rsq_`var')
+  3. 
+. }
+variable rsq_kwh not found
+r(111);
+
+. 
+. 
+. 
+. // reshape and output as csv
+/ is not a valid command name
+r(199);
+
+. 
+. generate fid=0
+variable fid already defined
+r(110);
+
+. 
+. reshape long t rsq_, i(fid) j(fuel) string
+(note: j = axcreditapp empgone empgoneac emphome emphomeac empnite empniteac hermain hermainac o
+> ast oastovn opfront otalbtu otalbtucdr otalbtucok otalbtuhtb otalbtunec otalbtupl otalbtusph o
+> talbtuwth otaldol otaldolcdr otaldolcok otaldolhtb otaldolnec otaldolpl otaldolsph otaldolwth 
+> otcsqft othsqft otrooms otsqft_en otucsqft otusqft vaudiosys vcolor vonwd1 vonwd2 vonwe1 vonwe
+> 2 vsize1 vsize2 vtype1 vtype2 ypeglass ypehuq yperfr1 yperfr2)
+variable id does not uniquely identify the observations
+    Your data are currently wide.  You are performing a reshape long.  You specified i(fid)
+    and j(fuel).  In the current wide form, variable fid should uniquely identify the
+    observations.  Remember this picture:
+
+         long                                wide
+        +---------------+                   +------------------+
+        | i   j   a   b |                   | i   a1 a2  b1 b2 |
+        |---------------| <--- reshape ---> |------------------|
+        | 1   1   1   2 |                   | 1   1   3   2  4 |
+        | 1   2   3   4 |                   | 2   5   7   6  8 |
+        | 2   1   5   6 |                   +------------------+
+        | 2   2   7   8 |
+        +---------------+
+    Type reshape error for a list of the problem observations.
+r(9);
+
+. 
+. 
+. 
+. rename t total
+t ambiguous abbreviation
+r(111);
+
+. 
+. rename rsq_ std_error
+variable rsq_ not found
+r(111);
+
+. 
+. drop fid
+
+. 
+. 
+. 
+. export delimited recs2015_usage.csv, replace
+(note: file recs2015_usage.csv not found)
+file recs2015_usage.csv saved
+
+. 
+. 
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4\case_
+> study.log
+  log type:  text
+ closed on:  17 Nov 2019, 17:10:07
+------------------------------------------------------------------------------------------------

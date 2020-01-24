@@ -1,0 +1,9 @@
+                                                     Final result of Question 1           Tuesday, December 10, 2019 02:55:32 PM   1
+
+                                                                           Relative_     Relative_     Relative_
+                   Obs    label       Estimate       Lower       Upper    effect_est    effect_lwr    effect_upr
+
+                    1     tot_list      0.1613     0.08516      0.2375      1.17510       1.08890       1.26812 
+                    2     max_dev       0.5101      0.2785      0.7417      1.66542       1.32115       2.09941 
+                    3     avg_dev       0.6511      0.3850      0.9172      1.91774       1.46968       2.50239 
+                    4     AUC           0.3503      0.1416      0.5590      1.41949       1.15208       1.74897 

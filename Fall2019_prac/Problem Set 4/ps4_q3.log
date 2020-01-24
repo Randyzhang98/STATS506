@@ -1,0 +1,495 @@
+--------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem S
+> et 4\ps4_q3.log
+  log type:  text
+ opened on:  21 Nov 2019, 20:49:20
+
+. cd "C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4"
+C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem Set 4
+
+. 
+. clear                                   // Start clean
+
+. 
+. * Part a  : ----------------------------------------------------------------
+. 
+. import sasxport5 DEMO_D, clear
+
+. keep seqn riagendr ridageyr indfmpir ridexmon
+
+. // find if it in winter
+. generate if_winter = ridexmon
+(398 missing values generated)
+
+. generate age = ridageyr
+
+. generate gender = riagendr
+
+. generate pir = indfmpir
+(534 missing values generated)
+
+. drop riagendr ridageyr indfmpir ridexmon
+
+. save demo_d.dta, replace
+file demo_d.dta saved
+
+. 
+. import sasxport5 DR1TOT_D, clear
+
+. 
+. keep seqn dr1day dr1_320z
+
+. // find if it was weekday
+. generate in_weekday1 = 1 if dr1day <= 6 & dr1day >=2
+(4,333 missing values generated)
+
+. replace in_weekday1 = 0 if dr1day == 7 | dr1day == 1
+(3,916 real changes made)
+
+. // find if the responent has drank water
+. generate drank_water1 = 0 if dr1_320z == 0
+(7,317 missing values generated)
+
+. replace drank_water1 = 1 if dr1_320z > 0
+(7,317 real changes made)
+
+. replace drank_water1 = . if dr1_320z == .
+(601 real changes made, 601 to missing)
+
+. drop dr1_320z
+
+. save dr1tot_d.dta, replace
+file dr1tot_d.dta saved
+
+. 
+. import sasxport5 DR2TOT_D, clear
+
+. keep seqn dr2day dr2_320z
+
+. // find if it was weekday
+. generate in_weekday2 = 1 if dr2day <= 6 & dr2day >=2
+(3,070 missing values generated)
+
+. replace in_weekday2 = 0 if dr2day == 7 | dr2day == 1
+(1,636 real changes made)
+
+. // find if the responent has drank water
+. generate drank_water2 = 0 if dr2_320z == 0
+(7,767 missing values generated)
+
+. replace drank_water = 1 if dr2_320z > 0
+(7,767 real changes made)
+
+. replace drank_water2 = . if dr2_320z == .
+(1,521 real changes made, 1,521 to missing)
+
+. drop dr2_320z
+
+. merge m:1 seqn using dr1tot_d.dta
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                             9,950  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. 
+. generate drday1 = dr1day
+(417 missing values generated)
+
+. generate drday2 = dr2day
+(1,434 missing values generated)
+
+. drop dr1day dr2day
+
+. reshape long in_weekday drank_water drday, i(seqn) j(svy_day)
+(note: j = 1 2)
+
+Data                               wide   ->   long
+-----------------------------------------------------------------------------
+Number of obs.                     9950   ->   19900
+Number of variables                   7   ->       5
+j variable (2 values)                     ->   svy_day
+xij variables:
+                in_weekday1 in_weekday2   ->   in_weekday
+              drank_water1 drank_water2   ->   drank_water
+                          drday1 drday2   ->   drday
+-----------------------------------------------------------------------------
+
+. 
+. merge m:1 seqn using demo_d.dta
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                           398
+        from master                         0  (_merge==1)
+        from using                        398  (_merge==2)
+
+    matched                            19,900  (_merge==3)
+    -----------------------------------------
+
+. drop _merge
+
+. 
+. label define winter_i 1 "in winter" 2 "not in winter"
+
+. label define drank_water_i 1 "has drank water" 0 "not drank water"
+
+. label define week_i 1 "weekday" 0 "weekend"
+
+. label define gender_i 1 "Male" 2 "Female"
+
+. 
+. label values in_weekday week_i
+
+. label values drank_water drank_water_i
+
+. label values if_winter winter_i
+
+. label values gender gender_i
+
+. 
+. 
+. export delimited ps4_q3_a_df.csv, replace
+(note: file ps4_q3_a_df.csv not found)
+file ps4_q3_a_df.csv saved
+
+. 
+. * Part b  : ----------------------------------------------------------------
+. generate missing = 0
+
+. replace missing = 1 if in_weekday == . | drank_water == . | age == . | gender == . |
+>  pir == . | if_winter == .
+(3,284 real changes made)
+
+. 
+. generate fid = 0
+
+. save ps4_q3_df_missing.dta, replace
+file ps4_q3_df_missing.dta saved
+
+. 
+. // calc the mean of pir and age
+. drop if missing == 1
+(3,284 observations deleted)
+
+. collapse (mean) pir age
+
+. generate mean_pir = pir
+
+. generate mean_age = age
+
+. drop pir age
+
+. export delimited mean_pir_age.csv, replace
+(note: file mean_pir_age.csv not found)
+file mean_pir_age.csv saved
+
+. 
+. generate fid = 0
+
+. merge 1:m fid using ps4_q3_df_missing.dta
+(label winter_i already defined)
+(label drank_water_i already defined)
+(label week_i already defined)
+(label gender_i already defined)
+
+    Result                           # of obs.
+    -----------------------------------------
+    not matched                             0
+    matched                            20,298  (_merge==3)
+    -----------------------------------------
+
+. 
+. // Centering and decading to as it is continuous
+. replace age = (age - mean_age) / 10
+(20,298 real changes made)
+
+. replace pir = pir - mean_pir
+(19,277 real changes made)
+
+. 
+. drop mean_age mean_pir _merge
+
+. 
+. export delimited ps4_q3_b_df.csv, replace
+(note: file ps4_q3_b_df.csv not found)
+file ps4_q3_b_df.csv saved
+
+. 
+. * Part c  : ----------------------------------------------------------------
+. save ps4_q3_log_df.dta, replace
+file ps4_q3_log_df.dta saved
+
+. // only use day 1 data
+. drop if svy_day == 2 | svy_day == .
+(10,348 observations deleted)
+
+. drop if missing == 1
+(1,013 observations deleted)
+
+. logistic drank_water in_weekday if_winter c.age##c.age gender c.pir
+
+Logistic regression                             Number of obs     =      8,937
+                                                LR chi2(6)        =     248.72
+                                                Prob > chi2       =     0.0000
+Log likelihood = -5179.2426                     Pseudo R2         =     0.0234
+
+------------------------------------------------------------------------------
+ drank_water | Odds Ratio   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  in_weekday |   1.130136   .0547601     2.52   0.012     1.027747    1.242726
+   if_winter |   1.109808   .0534061     2.17   0.030     1.009919    1.219577
+         age |   1.158182   .0154384    11.02   0.000     1.128315    1.188839
+             |
+ c.age#c.age |   .9737323   .0045511    -5.70   0.000     .9648531    .9826932
+             |
+      gender |    1.33266   .0637967     6.00   0.000     1.213307    1.463753
+         pir |   1.093849   .0173387     5.66   0.000     1.060388    1.128366
+       _cons |   1.583922   .1758561     4.14   0.000     1.274173    1.968969
+------------------------------------------------------------------------------
+Note: _cons estimates baseline odds.
+
+. matrix b1 = e(b)
+
+. matrix v1 = e(V)
+
+. 
+. margins, dydx(*)
+
+Average marginal effects                        Number of obs     =      8,937
+Model VCE    : OIM
+
+Expression   : Pr(drank_water), predict()
+dy/dx w.r.t. : in_weekday if_winter age gender pir
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  in_weekday |   .0240041   .0094966     2.53   0.011      .005391    .0426171
+   if_winter |   .0204426   .0094344     2.17   0.030     .0019516    .0389336
+         age |   .0316543    .003046    10.39   0.000     .0256843    .0376244
+      gender |   .0563471   .0093338     6.04   0.000     .0380531    .0746411
+         pir |   .0176006   .0030935     5.69   0.000     .0115375    .0236637
+------------------------------------------------------------------------------
+
+. matrix b2 = r(b)
+
+. matrix v2 = r(V)
+
+. 
+. mata
+------------------------------------------------- mata (type end to exit) ------------
+:     b1_m = st_matrix("b1")
+
+:     b1_m = b1_m[1],b1_m[2],b1_m[3],b1_m[5],b1_m[6],b1_m[4]
+
+:     v1_m = st_matrix("v1")
+
+:     v1_m = diagonal(v1_m)'
+
+:     v1_m = v1_m[1],v1_m[2],v1_m[3],v1_m[5],v1_m[6],b1_m[4]
+
+:     b2_m = st_matrix("b2"),(.)
+
+:     v2_m = st_matrix("v2")
+
+:     v2_m = diagonal(v2_m)',(.)
+
+: 
+:     a1 = exp(b1_m - 1.96*sqrt(v1_m))
+
+:     b1 = exp(b1_m + 1.96*sqrt(v1_m))
+
+:     re1 = a1\b1
+
+: 
+:     a2 = (b2_m - 1.96*sqrt(v2_m))
+
+:     b2 = (b2_m + 1.96*sqrt(v2_m))
+
+:     re2 = a2\b2
+
+: 
+:     re = exp(b1_m)\re1\b2_m\re2
+
+: 
+:     st_matrix("re_c",re)
+
+: 
+: end
+--------------------------------------------------------------------------------------
+
+. 
+. matrix rownames re_c=Odds_ratios Odds_ratios_lwr Odds_ratios_upr Marginal_effect Mar
+> ginal_effect_lwr Marginal_effect_upr
+
+. matrix colnames re_c=in_weekday if_winter age gender pir age^2
+
+. 
+. putexcel set ps4_q3_c.xls, replace
+Note: file will be replaced when the first putexcel command is issued
+
+. putexcel A1 = matrix(re_c), names
+file ps4_q3_c.xls saved
+
+. 
+. * Part d  : ----------------------------------------------------------------
+. use ps4_q3_log_df, clear
+
+. drop if missing == 1
+(3,284 observations deleted)
+
+. meglm drank_water in_weekday if_winter c.age##c.age gender c.pir ||seqn:, family(bin
+> omial) link(logit)
+
+Fitting fixed-effects model:
+
+Iteration 0:   log likelihood = -9630.9689  
+Iteration 1:   log likelihood = -9617.3683  
+Iteration 2:   log likelihood = -9617.3637  
+Iteration 3:   log likelihood = -9617.3637  
+
+Refining starting values:
+
+Grid node 0:   log likelihood = -9281.4496
+
+Fitting full model:
+
+Iteration 0:   log likelihood = -9281.4496  
+Iteration 1:   log likelihood = -9014.9191  
+Iteration 2:   log likelihood = -8972.8378  
+Iteration 3:   log likelihood = -8972.5316  
+Iteration 4:   log likelihood =  -8972.532  
+
+Mixed-effects GLM                               Number of obs     =     17,014
+Family:                binomial
+Link:                     logit
+Group variable:            seqn                 Number of groups  =      8,937
+
+                                                Obs per group:
+                                                              min =          1
+                                                              avg =        1.9
+                                                              max =          2
+
+Integration method: mvaghermite                 Integration pts.  =          7
+
+                                                Wald chi2(6)      =     383.72
+Log likelihood =  -8972.532                     Prob > chi2       =     0.0000
+------------------------------------------------------------------------------
+ drank_water |      Coef.   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  in_weekday |   .2150948   .0569491     3.78   0.000     .1034766     .326713
+   if_winter |   .0749386   .0714893     1.05   0.295    -.0651779     .215055
+         age |   .3093053   .0207096    14.94   0.000     .2687151    .3498954
+             |
+ c.age#c.age |  -.0459622   .0070094    -6.56   0.000    -.0597003   -.0322241
+             |
+      gender |   .5641284   .0718193     7.85   0.000     .4233652    .7048915
+         pir |   .1646816    .023517     7.00   0.000      .118589    .2107741
+       _cons |   1.004097     .16653     6.03   0.000      .677704     1.33049
+-------------+----------------------------------------------------------------
+seqn         |
+   var(_cons)|   5.570796   .3561665                      4.914689    6.314492
+------------------------------------------------------------------------------
+LR test vs. logistic model: chibar2(01) = 1289.66     Prob >= chibar2 = 0.0000
+
+. matrix b1 = e(b)
+
+. matrix v1 = e(V)
+
+. 
+. margins, dydx(*)
+
+Average marginal effects                        Number of obs     =     17,014
+Model VCE    : OIM
+
+Expression   : Marginal predicted mean, predict()
+dy/dx w.r.t. : in_weekday if_winter age gender pir
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   Std. Err.      z    P>|z|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  in_weekday |   .0230419   .0060861     3.79   0.000     .0111134    .0349703
+   if_winter |   .0080277   .0076567     1.05   0.294    -.0069791    .0230345
+         age |   .0359009   .0025318    14.18   0.000     .0309386    .0408632
+      gender |   .0604318   .0075949     7.96   0.000     .0455461    .0753175
+         pir |   .0176414   .0024933     7.08   0.000     .0127547    .0225281
+------------------------------------------------------------------------------
+
+. matrix b2 = r(b)
+
+. matrix v2 = r(V)
+
+. 
+. mata
+------------------------------------------------- mata (type end to exit) ------------
+:     b1_m = st_matrix("b1")
+
+:     b1_m = b1_m[1],b1_m[2],b1_m[3],b1_m[5],b1_m[6],b1_m[4]
+
+:     v1_m = st_matrix("v1")
+
+:     v1_m = diagonal(v1_m)'
+
+:     v1_m = v1_m[1],v1_m[2],v1_m[3],v1_m[5],v1_m[6],v1_m[4]
+
+:     b2_m = st_matrix("b2"),(.)
+
+:     v2_m = st_matrix("v2")
+
+:     v2_m = diagonal(v2_m)',(.)
+
+: 
+:     a1 = (b1_m - 1.96*sqrt(v1_m))
+
+:     b1 = (b1_m + 1.96*sqrt(v1_m))
+
+:     re1 = exp(a1)\exp(b1)
+
+:     re3 = a1\b1
+
+: 
+:     a2 = (b2_m - 1.96*sqrt(v2_m))
+
+:     b2 = (b2_m + 1.96*sqrt(v2_m))
+
+:     re2 = a2\b2
+
+: 
+:     re = exp(b1_m)\re1\b2_m\re2\b1_m\re3
+
+: 
+:     st_matrix("re_d",re)
+
+: 
+: end
+--------------------------------------------------------------------------------------
+
+. 
+. matrix rownames re_d=Odds_ratios Odds_ratios_lwr Odds_ratios_upr Marginal_effect Mar
+> ginal_effect_lwr Marginal_effect_upr Coefficients Coefficients_lwr Coefficients_lwr
+
+. matrix colnames re_d=in_weekday if_winter age gender pir age^2
+
+. 
+. putexcel set ps4_q3_d.xls, replace
+Note: file will be replaced when the first putexcel command is issued
+
+. putexcel A1 = matrix(re_d), names
+file ps4_q3_d.xls saved
+
+. 
+. * Script Cleanup: --------------------------------------------------------------
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Randyzhang\OneDrive\SYNC_FOLDER\STATS506\Fall2019_prac\Problem S
+> et 4\ps4_q3.log
+  log type:  text
+ closed on:  21 Nov 2019, 20:49:33
+--------------------------------------------------------------------------------------

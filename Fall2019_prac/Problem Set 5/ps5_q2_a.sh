@@ -1,0 +1,20 @@
+#!/bin/bash
+#--------------------------------------------
+# author：Sijun Zhang umid:89934761 randyz@umich.edu
+# last change date: 12/1/2019 
+#--------------------------------------------
+
+# Download the data and inspect the first 100 rows at the command line. 
+file="GSE138311_series_matrix.txt"
+if [ ! -f "$file" ]; then
+    wget ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138311/matrix/GSE138311_series_matrix.txt.gz
+    gunzip GSE138311_series_matrix.txt.gz
+fi
+
+head --line=100 $file 
+
+# Write the commands for doing so in your solution. How many lines of header information are there?
+head --line=100 $file > GSE138311_series_matrix_head100.txt
+grep -rn -o -E "\"ID_REF\"" GSE138311_series_matrix_head100.txt | tr ":" "\n" | awk 'NR%2 ==1'      
+
+

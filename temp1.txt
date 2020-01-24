@@ -1,0 +1,62 @@
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:2:"1","PS1_Solutions.Rmd:277:  spread(Rurality, `Average Electricity Usage, kwh/home (95% CI)` ) %>%
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:3:ps1_q2.R:143:  spread(origin, prop, fill = '-') %>%
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:4:ps1_q3.R:28:weights_long = gather(weights, key = 'repl', value = 'w', BRRWT1:BRRWT96) %>%
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:5:ps1_q3.R:197:  spread(urban, est) %>%
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:6:ps1_q3.R:206:  spread(urban, r) %>%
+Fall2019_prac/MidExtra_R/.Rproj.user/shared/notebooks/57283684-midterm_ec/1/s/cpoph4ctgrc14/000002.csv:7:ps1_q3.R:222:               spread(urban, ci), 
+Fall2019_prac/MidExtra_R/midterm_ec.html:381:<pre><code>## PS1_Solutions.Rmd:277:  spread(Rurality, `Average Electricity Usage, kwh/home (95% CI)` ) %&gt;%
+Fall2019_prac/MidExtra_R/midterm_ec.tex:145:grep -rn -E `(gather(\textbar{}spread()' \emph{.R}
+Fall2019_prac/MidExtra_R/midterm_ec.tex:149:ps1\_q2.R:143: spread(origin, prop, fill = `-') \%\textgreater{}\%
+Fall2019_prac/MidExtra_R/midterm_ec.tex:151:ps1\_q3.R:28:weights\_long = gather(weights, key = `repl', value = `w',
+Fall2019_prac/MidExtra_R/midterm_ec.tex:154:ps1\_q3.R:197: spread(urban, est) \%\textgreater{}\%
+Fall2019_prac/MidExtra_R/midterm_ec.tex:156:ps1\_q3.R:206: spread(urban, r) \%\textgreater{}\%
+Fall2019_prac/MidExtra_R/midterm_ec.tex:158:ps1\_q3.R:222: spread(urban, ci),
+Fall2019_prac/MidExtra_R/midterm_ec.tex:160:PS1\_Solutions.Rmd:277: spread(Rurality, `Average Electricity Usage,
+Fall2019_prac/MidExtra_R/ps1_q2.R:143:  spread(origin, prop, fill = '-') %>%
+Fall2019_prac/MidExtra_R/ps1_q3.R:28:weights_long = gather(weights, key = 'repl', value = 'w', BRRWT1:BRRWT96) %>%
+Fall2019_prac/MidExtra_R/ps1_q3.R:197:  spread(urban, est) %>%
+Fall2019_prac/MidExtra_R/ps1_q3.R:206:  spread(urban, r) %>%
+Fall2019_prac/MidExtra_R/ps1_q3.R:222:               spread(urban, ci), 
+Fall2019_prac/MidExtra_R/PS1_Solutions.Rmd:277:  spread(Rurality, `Average Electricity Usage, kwh/home (95% CI)` ) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:39:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:236:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:242:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:253:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:327:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) 
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:338:  gather(key = 'tmp_type', value = 'tmp', day, night)  %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/4C99DB9F-contents:345:  gather(key = 'tmp_type', value = 'tmp', day, night) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:49:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:257:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:263:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:274:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:347:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) 
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:358:  gather(key = 'tmp_type', value = 'tmp', day, night)  %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/B4B4D5E8/sources/per/t/D8D3178-contents:365:  gather(key = 'tmp_type', value = 'tmp', day, night) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/c6uaqkaavjcau/000002.csv:12:"0","  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)"
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/c9kly2sp78n7k/000002.csv:27:"0","  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) "
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/c9kly2sp78n7k/000002.csv:35:"0","  gather(key = 'tmp_type', value = 'tmp', day, night)  %>%"
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/c9kly2sp78n7k/000002.csv:40:"0","  gather(key = 'tmp_type', value = 'tmp', day, night) %>%"
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/cn08yqlhornh5/000002.csv:21:"0","  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%"
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/cn08yqlhornh5/000002.csv:26:"0","  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)"
+Fall2019_prac/Problem Set 2/R_Proj2/.Rproj.user/shared/notebooks/3D51A2C-ps2/1/s/cn08yqlhornh5/000002.csv:35:"0","  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%"
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:421:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:942:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %&gt;%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:948:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:959:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %&gt;%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:1025:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) 
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:1036:  gather(key = 'tmp_type', value = 'tmp', day, night)  %&gt;%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.html:1043:  gather(key = 'tmp_type', value = 'tmp', day, night) %&gt;%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:49:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:257:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:263:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:274:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:347:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) 
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:358:  gather(key = 'tmp_type', value = 'tmp', day, night)  %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2.Rmd:365:  gather(key = 'tmp_type', value = 'tmp', day, night) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:39:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:236:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:242:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96)
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:253:  gather(key = 'tmp_type', value = 'tmp', d, dn, n) %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:327:  gather(key = 'repl', value = 'w', BRRWT1:BRRWT96) 
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:338:  gather(key = 'tmp_type', value = 'tmp', day, night)  %>%
+Fall2019_prac/Problem Set 2/R_Proj2/ps2_q1.R:345:  gather(key = 'tmp_type', value = 'tmp', day, night) %>%
